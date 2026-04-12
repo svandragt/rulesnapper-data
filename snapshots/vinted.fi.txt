@@ -47,15 +47,11 @@ Huomaa:
 Neuvostoliittoon ja kommunismiin liittyviä symboleja sisältävien tuotteiden myyminen on kielletty Liettuassa ja Unkarissa.
 Armeijan, poliisin ja muiden pelastuspalvelujen virkapuvut, virkamerkit, asusteet ja muut esineet. Kansainvälisten humanitaaristen avustusjärjestöjen tunnukset ja nimet erikseen tai vaatteissa.
 Huomautus 1
-: vintage-virkapuvut ja -asusteet ovat sallittuja, jos ne ovat vähintään 10 vuotta vanhoja, eivät ole enää käytössä eivätkä näytä tällä hetkellä käytössä olevilta virkapuvuilta.
-Huomautus 2
-: naamiaispuvut, -asut ja -asusteet ovat sallittuja.
+: naamiaispuvut, -asut ja -asusteet ovat sallittuja, kunhan ne eivät erehdyttävästi muistuta aitoja virkapukuja tai niihin kuuluvia asusteita.
 Tuotteet, jotka sisältävät ihmisten tai eläinten jäänteitä tai ihmiskehosta peräisin olevia aineita.
 Tuotteet, jotka ovat (muuten) kiellettyjä lainsäädännöllä tai määräyksillä.
 Rajoitetut tuotteet: tuotteet, jotka eivät ole vaatteita, eivät liity muotiin, kauneuteen, asusteisiin, lapsiin, kodintuotteisiin, viihteeseen tai elektroniikkaan tai eivät muuten ole Vintedin vision mukaisia, kuten:
-Reseptilääkkeet ja käsikauppalääkkeet, lääkehoidot, ammattikäyttöön tarkoitetut lääkintätarvikkeet,
-lääkinnälliset laitteet,
-vitamiinit, ravintolisät ja muut terveyteen liittyvät tuotteet.
+Reseptilääkkeet ja käsikauppalääkkeet, lääkehoidot, ammattikäyttöön tarkoitetut lääkintätarvikkeet, lääkinnälliset laitteet, vitamiinit, ravintolisät ja muut terveyteen liittyvät tuotteet.
 ”Eläinlääkkeiden” määritelmän mukaiset tuotteet (esim. kirppushampoo, vitamiinit, lääkkeet ja vastaavat tuotteet).
 Lääkinnälliset laitteet (mukaan lukien aktiiviset implantoitavat lääkinnälliset laitteet) ja in vitro -diagnostiikkaan tarkoitetut lääkinnälliset laitteet, kuten esimerkiksi seuraavat (luettelo ei ole täydellinen):
 raskaus-, ovulaatio-, DNA-, Covid-19- ja muut lääketieteelliset testit
@@ -72,18 +68,20 @@ plakinpoistolaitteet hampaille
 nukahtamista helpottavat laitteet
 elohopeaa sisältävät kuumemittarit
 muut tuotteet, joiden käyttö edellyttää reseptiä tai lääkärin valvontaa tai ohjausta tai joiden käyttötarkoitus on lääketieteellinen.
-Huomautus:
+Huomautus 1:
 tietyt tuotteet (kuten älykellot tai -rannekkeet, joissa on sisäänrakennettuja lääketieteellisiä ohjelmisto-ominaisuuksia verenpaineen tai happisaturaation mittaamista tai EKG:n ottamista varten), joita voidaan pitää lääkinnällisinä laitteina, ovat sallittuja, jos ne ovat sovellettavien lakien mukaisia ja jos kaikki seuraavat vaatimukset täyttyvät:
-1) niissä on CE-merkintä ja ilmoitetun laitoksen nelinumeroinen numero (soveltuessa, ja tuotteen merkinnät ja käyttöopas ovat paikallisella kielellä)
-2) ne eivät ole vanhentuneita
-3) ne kuuluvat muihin sallittuihin kategorioihin (esim. elektroniikka, kauneudenhoitovälineet)
-4) ne ovat uusia ja myydään avaamattomissa (suljetuissa) pakkauksissa
-5) niitä eivät jakele ainoastaan terveydenhuollon ammattilaiset
-6) niitä myydään vapaasti (ts. reseptiä ei tarvita)
-7) niiden käyttö ei vaadi terveydenhuollon ammattilaisen apua.
+1) Niissä on CE-merkintä ja ilmoitetun laitoksen nelinumeroinen numero (soveltuessa, ja tuotteen merkinnät ja käyttöopas ovat paikallisella kielellä).
+2) Ne eivät ole vanhentuneita.
+3) Ne kuuluvat muihin sallittuihin kategorioihin (esim. elektroniikka, kauneudenhoitovälineet).
+4) Ne ovat uusia ja myydään avaamattomissa (suljetuissa) pakkauksissa.
+5) Niitä eivät jakele ainoastaan terveydenhuollon ammattilaiset.
+6) Niitä myydään vapaasti (ts. reseptiä ei tarvita).
+7) Niiden käyttö ei vaadi terveydenhuollon ammattilaisen apua.
 Huomautus 2:
 sallittuja ovat tietyt elektroniset laitteet, joita käytetään kauneudenhoitoon tai esteettisistä syistä ja joita ei voida pitää lääkinnällisenä laitteena.
-Tupakkatuotteet, kuten savukkeet, sikarit, piiput, sähkösavukkeet, vaporisaattorit tai höyrystinlaitteet ja lisätarvikkeet.
+Tupakkatuotteet, kuten savukkeet, sikarit, piiput, sähkösavukkeet,
+vapet, höyrystimet j
+a lisätarvikkeet.
 Näytteet, testipakkaukset ja mainostuotteet, joita ei ole tarkoitettu myyntiin.
 Kulttuuriperintönä pidettävät kolikot, setelit ja osakekirjat, joiden myyminen on lakisääteisten vaatimusten perusteella kielletty.
 Osakekirjat, jotka ovat rahallisesti arvokkaita aktiivisia välineitä tai joilla käydään vielä kauppaa osakemarkkinoilla. Henkilötietoja sisältävät osakekirjat ovat ehdottomasti kiellettyjä.
@@ -93,37 +91,32 @@ Aikuisille tarkoitetut tuotteet, kuten seksilelut ja fetisseihin liittyvät tuot
 Viralliset työasut, kuten seuraavat:
 toimitus- tai kuljetusyritysten työvaatteet ja -asusteet, kuten hatut, reput ja rintamerkit
 virkapuvut, mukaan lukien vaatteet ja asusteet.
-Huomautus
-: vintage-virkapuvut ja -asusteet ovat sallittuja, jos ne eivät ole enää käytössä eivätkä näytä tällä hetkellä käytössä olevilta virkapuvuilta.
+Huomaa
+: v
+intage-virkapuvut ja -asusteet ovat sallittuja, jos ne eivät ole enää käytössä eivätkä näytä tällä hetkellä käytössä olevilta virkapuvuilta.
 Tuotteet, jotka edistävät väkivaltaa, syrjintää, vihaa tai rikollisuutta tukevia organisaatioita tai identifioituvat niihin. Esimerkkejä tällaisista ryhmistä ovat natsit, uusnatsit, fasistit ja uusfasistit.
-Eläinten turkikset ja
-eläimistä
-saatavat tuotteet
-, kuten
-aidot simpukan kuoret, norsunluu ja tuotteet, jotka sisältävät eksoottista nahkaa, kuten matelijan, strutsin, kamelin tai karankulin nahkaa, sekä kaikki muut tuotteet, jotka on kielletty kansainvälisillä sopimuksilla, joilla pyritään rajoittamaan uhanalaisten kasvien ja eläinten kauppaa.
-Huomautus
+Aito turkis j
+a eläimistä saatavat tuotteet, kuten aidot simpukan kuoret, norsunluu ja tuotteet, jotka sisältävät eksoottista nahkaa, kuten matelijan, strutsin, kamelin tai karankulin nahkaa, sekä kaikki muut tuotteet, jotka on kielletty kansainvälisillä sopimuksilla, joilla pyritään rajoittamaan uhanalaisten kasvien ja eläinten kauppaa.
+Huomaa
 : tuotteet, joissa on nahkaa, kerittyä lampaanvillaa, kašmiria tai mohairia, ovat sallittuja.
-Lemmikit sekä elävät eläimet ja kasvit.
+Lemmikit sekä muut elävät eläimet ja kasvit.
 Kuivikkeet, puulastut, paperipelletit ja muut vastaavat lemmikeille tarkoitetut tuotteet.
 Signeeratut tuotteet (tai vastaavat), joilla ei ole luotettavaa aitoustodistusta.
-Joidenkin elektroniikkalaitteiden ja teknisten lisätarvikkeiden Vinted-myyntiä rajoitetaan. Näitä ovat muun muassa lemmikkien trimmauslaitteet, lemmikkikamerat ja -monitorit, akvaarioiden ja terraarioiden sähkölaitteet, tuoteavaimet, elokuva- ja televisiokamerat, luokan 2 tai ylemmän luokan laserosoittimet, pyykinpesukoneet, astianpesukoneet, silitysraudat, kannettavat tuulettimet jne.
+Joidenkin elektroniikkalaitteiden ja teknisten lisätarvikkeiden Vinted-myyntiä rajoitetaan. Näitä ovat muun muassa lemmikkien trimmauslaitteet, lemmikkikamerat ja -monitorit, akvaarioiden ja terraarioiden sähkölaitteet, tuoteavaimet, elokuva- ja televisiokamerat, luokan 2 tai ylemmän luokan laserosoittimet, pyykinpesukoneet, jne.
 Laitteet, joihin on tehty luvattomia muutoksia (”jailbroken”) tai jonka pääkäyttäjän oikeudet on otettu haltuun (”rooted”)  ja joita on muokattu niin, että valmistajan turvallisuusrajoitukset voidaan ohittaa, jolloin laitteelle voi esimerkiksi ladata sovelluksia tai laajennuksia, joita ei ole Applen tai Googlen sovelluskaupoissa.
 Laitteet, joiden akun teho on yli 100 wattituntia (Wh).
 SIM-kortit.
-Harmaalla listalla olevat
-tai maksamattomien maksuerien takia estety
-t
-laitteet.
+Harmaalla listalla olevat tai maksamattomien maksuerien takia estetyt laitteet.
 GSMA:n mustalla listalla olevat laitteet, jotka operaattori on lisännyt mustalle listalle, koska ne ovat kadonneet, varastettuja tai niitä ei ole maksettu kokonaan.
 Estetyt matkapuhelimet (mukaan lukien laitteet, joissa on aktivointilukitus), jotka on estetty, koska myyjällä ei ole pääsyä laitteeseen liitettyyn käyttäjätiliin, PIN-koodiin tai biometrisiin kirjautumistietoihin, tai koska omistaja on ilmoittanut puhelimen kadonneeksi tai varastetuksi esimerkiksi Apple- tai Google-tilinsä kautta.
 Välineet, kuten tatuointi- tai lävistyskoneet, solariumit ja hierontapöydät.
 Toimintakunnoltaan heikentyneet suojavarusteet, kuten pyöräilykypärät, kiipeilyvaljaat tai suojalasit, jotka eivät enää sovellu niiden alkuperäiseen käyttötarkoitukseen tai jotka eivät enää täytä paikallisten lakien ja asetusten mukaisia turvallisuusstandardeja.
 Polkupyörät, mukaan lukien mutta ei ainoastaan kaupunki-, maantie- maasto- ja sähköpyörät.
 Aikuisten huonekalut (kuten sohvat, pöydät ja tuolit) ja huonekalujen osat.
-Oikeat kasvit, kuten kukat.
 Patjat, sijauspatjat, peitot (paitsi lasten kategorioissa).
 Huomautus 1
-: lemmikkien pedit ja peitot ovat sallittuja lemmikkikategorioissa.
+: lemmikkien pedit ja peitot ovat sallittuja
+Lemmikit-kategoriassa.
 Huomautus 2
 : myyntiin saa lisätä vain uusia lapsille tarkoitettuja sijauspatjoja, ja alkuperäisen hintalapun pitää olla näkyvissä.
 Nämä veitset ja puukot ovat kiellettyjä: kaikki terävät ja teräväkärkiset veitset riippumatta koosta tai käyttötarkoituksesta, myös keittiöveitset; erikoiskäyttöiset terävät veitset, kuten leipä-, pihvi- ja lihaveitset, koosta tai käyttötarkoituksesta riippumatta; kangassakset, pyöröleikkurit, askartelusakset, heittoveitset, stiletit, veitset, joissa on drop point -mallinen terä, taitettavat veitset, perhosveitset, linkkuveitset, pyöreät heittoveitset (chakramit), piiloveitset (esim. muoviveitset, joita ei voi tunnistaa veitseksi), veitset, jotka muistuttavat muuta esinettä (esim. luottokorttiveitset), selviytymisveitset (esim. viidakko- ja zombiveitset),miekat, moottorisahat, kirveet, veistä muistuttavat sahat, joissa on kahva ja pitkä terä, keräily- ja antiikkiveitset sekä veitset rekvisiittakäyttöön, jos ne ovat teräviä ja teräväkärkisiä (vaikka ne olisivat kuvauksensa mukaan koriste-esineitä), yksi- ja kaksiteräiset partaterät, partaveitset, aterinsarjat, joissa on mitä tahansa edellä luetelluista veitsistä.
@@ -131,48 +124,57 @@ Huomautus 1:
 uusia vaihtoterällisiä partahöyliä ja parranajokoneita saa myydä avaamattomassa alkuperäispakkauksessaan.
 Huomautus 2:
 sallittuja ovat myös voiveitsien kaltaiset ruokaveitset, joissa on tylsä terä ja pyöreä kärki.
-Käytetyt vaihtosuodattimet vedensuodatukseen ja erilliset suodatinosat ja -patruunat. Huomautus: hygieniasyistä myyntiin saa lisätä ainoastaan uusia vaihtosuodattimia ja erillisiä suodatinosia ja -patruunoita.
+Käytetyt vaihtosuodattimet vedensuodatukseen ja erilliset suodatinosat ja -patruunat.
+Huomaa
+: hygieniasyistä myyntiin saa lisätä ainoastaan uusia vaihtosuodattimia ja erillisiä suodatinosia ja -patruunoita.
 Kertakäyttöiset muovituotteet, kuten jotkin astiat, ruokailuvälineet, kupit, pilllit, konfetti, ilmapallot, puhallettavat koristeet jne.
-Huomautus:
-muusta kuin muovista valmistettu konfetti, käyttämättömät kertakäyttöiset pahviastiat ja pöytäliinat on sallittu Juhlapäivät ja -pyhät -alakategoriassa.
+Huomaa:
+muusta kuin muovista valmistettu konfetti, käyttämättömät kertakäyttöiset pahviastiat ja pöytäliinat sallitaan Juhlapäivät ja -pyhät -alakategoriassa.
 LVI-järjestelmät (lämmitys-, ilmanvaihto- ja ilmastointijärjestelmät), kiinteät tai muut kuin siirrettävät yksiköt sekä seinään asennettavat ilmastointilaitteet.
-Huomautus: myyntiin saa lisätä siirrettäviä ilmastointilaitteita ja ilmanjäähdyttimiä sekä ikkunaan asennettavia ilmastointilaitteita.
+Huomaa:
+myyntiin saa lisätä siirrettäviä ilmastointilaitteita ja ilmanjäähdyttimiä sekä ikkunaan asennettavia ilmastointilaitteita.
 Digitaaliset ääni- ja e-kirjat.
 Adventtikalenterit, yllätyspakkaukset ja -paketit.
 Tapahtumaliput, lahjakortit, alennuskupongit ja tilaukset.
 Videopelit, joissa on yllätyslaatikoita
+.
 Tuotteet (kuten videopelit), joihin sovelletaan ikärajoituksia mutta joissa ei näy tarvittavaa ikärajamerkintää.
 Tuotteet, joihin sovelletaan maakohtaista sisältösensuuria tai muita rajoituksia niiden sisällön luonteen vuoksi.
 Digitaaliset pelit, kupongit ja avaimet.
 Kuntoluokitellut (graded) kortit, joilla ei ole aitoustodistusta.
 Teollisuuskäyttöön tarkoitetut välineet ja koneet, joita käytetään yleensä tehtaissa tai muussa teollisuudessa.
-Tuotteet, joita ei ole muutettu, korjattu tai kunnostettu siten, ettei voida kohtuudella väittää, että kyseessä on sama tuote (joka on ominaisuuksiltaan/laadultaan/turvallisuustasoltaan samanlainen), jonka alkuperäinen valmistaja on laskenut liikkeeseen.
+Tuotteet, joit
+a on m
+uutettu, korjattu tai kunnostettu siten, ettei voida kohtuudella väittää, että kyseessä on sama tuote (joka on ominaisuuksiltaan, laadultaan ja turvallisuustasoltaan samanlainen), jonka alkuperäinen valmistaja on laskenut liikkeeseen.
 Vaaralliset tuotteet: Tuotteet, jotka eivät ole hygieniastandardien mukaisia tai jotka voivat aiheuttaa terveys- tai turvallisuusriskejä:
 Käytetyt alusvaatteet, käsintehdyt alusvaatteiden alaosat, alusvaatteina käytettävät shortsit (esim. pyjamashortsit), korsetit, muotoilevat bodyt ja alusasut, joissa on alaosa, pehmustettujen urheilualusasujen alaosat.
 Huomautus 1
-: hygieniasyistä vain uudet alusvaatteet
-ovat sallittuja – tuotteesi valokuvissa täytyy näkyä selvästi kiinni olevat hintalaput ja/tai alkuperäinen pakkaus. Sisäpuolella olevat koostumusmerkinnät ja tuotemerkkilaput eivät kelpaa.
+: hygieniasyistä vain uudet alusvaatteet ovat sallittuja – tuotteesi valokuvissa täytyy näkyä selvästi kiinni olevat hintalaput ja/tai alkuperäinen pakkaus. Sisäpuolella olevat koostumusmerkinnät ja tuotemerkkilaput eivät kelpaa.
 Huomautus 2
-: käytettyjä rintaliivejä, uimapukuja, sukkahousuja ja sukkia voidaan myydä, kunhan ne on pesty kunnolla ja kuvauksessa ilmoitetaan selvästi, että tuotetta on käytetty. Vain uudet ja kestouimavaipat ovat sallittuja. Tuotekuvista pitää selvästi näkyä tuotteessa olevat laput ja/tai alkuperäinen pakkaus.
+: käytettyjä rintaliivejä, uimapukuja, sukkahousuja ja sukkia voidaan myydä, kunhan ne on pesty kunnolla ja kuvauksessa ilmoitetaan selvästi, että tuotetta on käytetty.
+Uimavaippoja ja kestouimavaippoja saa myydä vain uutena.
+Tuotekuvista pitää selvästi näkyä tuotteessa olevat laput ja/tai alkuperäinen pakkaus.
 Kaikki kosmetiikka (mukaan lukien hajuvedet, meikit, rasvat, voiteet ja hiustenhoitotuotteet), meikkaustarvikkeet (meikkisienet, puhdistusliinat, siveltimet ja applikaattorit), joita on jo käytetty tai jotka eivät ole alkuperäisissä pakkauksissaan. Jos tuotteet tai niiden pakkaukset on suljettu sineteillä, sinetit eivät saa olla rikki tai puuttua. Suosittelemme myös lisäämään ilmoitukseen kuvia, joista näkyy tuotteen tiedot: pakkaustiedot, koostumustiedot, viivakoodi, viimeinen käyttöpäivä jne.
 Huomautus 1
 : on ehdottomasti kiellettyä myydä kosmetiikkatuotteita, jotka ovat vanhentuneita tai joita on käytetty tai kokeiltu, vaikka vain yhden kerran.
 Huomautus 2
 : on ehdottomasti kiellettyä myydä lemmikkieläimille tarkoitettuja kosmetiikkatuotteita ja elektronisia hoitovälineitä.
 Huomautus 3
-: on ehdottomasti kiellettyä myydä kosmetiikkatuotteita, joiden myynti on sallittua vain ammattikäyttöön, jotka luokitellaan lääkkeiksi tai sisältävät biosidejä.
+: on ehdottomasti kiellettyä myydä kosmetiikkatuotteita, joiden myynti on sallittua vain ammattikäyttöön tai jotka luokitellaan lääkkeiksi tai jotka sisältävät biosidejä.
+Huomautus 4:
+jos kosmetiikkatuotteessa on yksikin kielletty ainesosa, sen myyminen on silloin ehdottomasti kielletty.
 Kaikki maalit, vernissat, lakat, akryylimaalit, pohjamaalit, tiivisteet, tinnerit, musteet, mustetäyttöpakkaukset, kynttiläaromit sekä keramiikka- ja savitöiden lasuurit, joita on jo käytetty. Nämä tuotteet pitää myydä uusina suljetuissa ja alkuperäisissä pakkauksissaan. Sinettien pitää olla ehjiä eikä niitä saa poistaa. Suosittelemme myös lisäämään ilmoitukseen kuvia, joista näkyy tuotteen tiedot: pakkaustiedot, koostumustiedot, viivakoodi, viimeinen käyttöpäivä jne.
 Huomaa
 : On ehdottomasti kiellettyä myydä käytettyjä tai vanhentuneita maaleja, lakkoja, akryylimaaleja tai muita vastaavia tuotteita.
 Kosmetiikkatuotteet, jotka on valmistanut henkilö, jolla ei ole siihen lupaa.
 Tietyt käsintehdyt tuotteet, kuten itse valmistetut kosmetiikkatuotteet, kauneustuotteet, elektroniikka, urheilutarvikkeet, huonekalut, sähkökäyttöiset kodinkoneet ja työkalut, lelut ja sisustustuotteet, koulutarvikkeet, lastenrattaat ja kantokopat, kylvetykseen ja vaipanvaihtoon liittyvät tuotteet, lasten turvatuotteet, raskaus- ja terveystuotteet, vauvan imetykseen ja syöttämiseen tarkoitetut tuotteet, sekä kaikki muut käsin valmistetut tuotteet, jotka kuuluvat jostakin muusta syystä kiellettyjen tuotteiden kategoriaan.
 Saniteettituotteet, kuten tamponit, kuukautiskupit ja vastaavat tuotteet.
-Huomautus
-: Hygieniasyistä sallittuja ovat vain uudet äitiystuotteet, kuten vuodesuojat ja viilentävät siteet. Tuotekuvista pitää selvästi näkyä tuotteessa olevat laput ja/tai alkuperäinen pakkaus. Tämä ei kuitenkaan tarkoita materiaali- ja tuotemerkkilappuja.
+Huomaa
+:
+Hygieniasyistä sallittuja ovat vain uudet äitiystuotteet, kuten vuodesuojat ja viilentävät siteet. Tuotekuvista pitää selvästi näkyä tuotteessa olevat laput ja/tai alkuperäinen pakkaus. Tämä ei kuitenkaan tarkoita materiaali- ja tuotemerkkilappuja.
 Käytetyt lävistyskorut kieleen, kulmiin, nenään, huuliin ja intiimialueille.
 Hygienialaitteiden käytetyt osat, kuten sähköhammasharjojen päät tai karvanpoistolaitteiden terät tai trimmerit. Jos tällaisia tuotteita myydään, niiden pitää olla uusia ja avaamattomassa alkuperäisessä pakkauksessaan.
-Sähkökaulapannat, kuristuskaulapannat, nipistyskaulapannat, metallitapilliset kaulapannat ja piikkikaulapannat lemmikeille.
-Verkot ja pyydykset lintujen metsästykseen.
+Sähkökaulapannat, kuristuskaulapannat, nipistyskaulapannat, metallitapilliset kaulapannat ja piikkikaulapannat lemmikeille. Verkot ja pyydykset lintujen metsästykseen.
 Pesuaineet, pesu- ja puhdistuskemikaalit sekä vastaavat tuotteet (esim. nesteet, jauheet, tahnat, palat tai muut kemikaalit tai tuotteet, jotka sisältävät kemiallisia aineita, paitsi kosmetiikka tai askartelutuotteet).
 Huomautus 1
 : Käyttämättömiä eteerisiä öljyjä, joita käytetään kosmetiikkana, voidaan myydä Uusi, jossa hintalappu -kunnossa.
@@ -180,54 +182,62 @@ Huomautus 2
 : Käyttämättömiä pinnoitteita, kuten maalia tai lakkaa, musteita ja kynttiläaromeja voidaan myydä Uusi ilman hintalappua -kunnossa.
 Ilmastointilaitteiden kylmäaineet (CFC- ja HCFC-yhdisteet) sekä jäähdytysaineet.
 Tutka- tai radiohäirintälaitteet.
-Takaisinvedetyt tuotteet. Tuotteet, jotka valmistajat
-, sääntelyviranomaiset
-tai
-muut
-viranomaiset ovat vetäneet pois markkinoilta turvallisuus- tai muista vaatimustenvastaisuussyistä
-tai jotka on muutoin merkitty vaarallisiksi
+Takaisinvedetyt tuotteet. Tuotteet, jotka valmistajat, sääntelyviranomaiset tai muut viranomaiset ovat vetäneet pois markkinoilta turvallisuus- tai muista vaatimustenvastaisuussyistä tai jotka on muutoin merkitty vaarallisiksi
 EU:ssa
 tai kansallisesti.
-Helposti syttyvinä ja myrkyllisinä pidetyt vaaralliset aineet,
-mukaan lukien retkeilyssä käytettävät kaasupullot.
+Helposti syttyvinä ja myrkyllisinä pidetyt vaaralliset aineet, mukaan lukien retkeilyssä käytettävät kaasupullot.
 Laitteet, joiden akku on turvonnut.
 Käytetyt tai vanhentuneet paristot, varavirtalähteet, muistikortit tai tyhjät tietovälineet, kuten CD-, DVD- ja Blu-ray-levyt, tai USB-muistitikut. Jos tällaisia tuotteita myydään, niiden pitää olla uusia ja avaamattomassa alkuperäisessä pakkauksessaan.
-Huomautus
+Huomaa
 : Käytetyt alle 100 wattitunnin ladattavat akut ovat sallittuja.
 Erillisverkossa toimivat radiopuhelimet (”walkie-talkie”), joiden teho on yli 0,5 wattia tai jotka käyttävät PMR446-taajuuskaistan ulkopuolisia taajuuksia.
 Käytetyt nippusiteet, ulkomaalisiveltimet, maaliharjat, maalaustelat, maalarinteippi.
 Huomaa
-: näitä tuotteita voi myydä vain uutena (alkuperäispakkauksessa tai ilman).
-Käytetyt suojavarusteet, kuten kasvosuojukset, suojakypärät, kuulosuojaimet, suojalasit, turvavaljaat ja työkäsineet.
-Huomaa
-: näitä tuotteita voi myydä vain uutena, ja niissä on oltava hintalappu tai niiden on oltava alkuperäispakkauksessa.
+: näitä tuotteita
+saa myydä
+vain uutena (alkuperäispakkauksessa tai ilman).
 Tietyntyyppiset käytetyt työkalutarvikkeet, kuten kiillotustyynyt, poranterät, lasi- ja kaakeliterät, muuraus-, metalli- ja puuterät, reikäsahat, oskilloivien työkalujen lisäosat, pyörivien työkalujen lisäosat, jyrsinterät, hiomakiekot ja hiekkapaperilevyt, sahanterät, ruuvimeisselin kahvat, kärjet ja holkit.
 Huomaa
-: näitä tuotteita voi myydä vain uutena, ja niissä on oltava hintalappu tai niiden on oltava alkuperäispakkauksessa.
+: näitä tuotteita
+saa myydä
+vain uutena, ja niissä on oltava hintalappu tai niiden on oltava alkuperäispakkauksessa.
 Käytetyt ulkokokkaus- ja grillaustarvikkeet, kuten grillit ja grilliritilät, puuhiili ja pelletit, valutusvuoat, maustepatukat, savustuslastut, grilliharjat ja -kaapimet sekä grillilankut.
 Huomaa
-: näitä tuotteita voi myydä vain uutena (alkuperäispakkauksessa tai ilman).
-Varmista, että tuotetietosi ja tuotteesi ovat katalogisääntöjemme mukaisia. Muut jäsenet voivat pyytää Vintediä tarkastamaan tuotetietosi, jotka vaikuttavat olevan näiden sääntöjen vastaisia. Jos tuote todetaan sääntöjen vastaiseksi, tiimimme voi poistaa tai piilottaa sen. Sinuun voidaan kohdistaa myös muita toimia, kuten tilisi jäädyttäminen tai estäminen. Sinulle voi aiheutua vastaavia seuraamuksia, jos lähetät muille jäsenille viestejä, joilla edistetään kiellettyjen tuotteiden luettelossa olevien tuotteiden myyntiä. Lisätietoja yhteisön standardeista on
+: näitä tuotteita
+saa myydä
+vain uutena (alkuperäispakkauksessa tai ilman).
+Käytetyt suojavarusteet, kuten kasvosuojukset, suojakypärät, kuulosuojaimet, suojalasit, turvavaljaat ja työkäsineet.
+Huomaa
+: näitä tuotteita
+saa myydä
+vain uutena, ja niissä on oltava hintalappu tai niiden on oltava alkuperäispakkauksessa.
+Varmista, että ilmoituksesi ja tuotteesi ovat Vintedin katalogisääntöjen mukaisia. Muut jäsenet voivat pyytää Vintediä tarkastamaan ilmoituksesi, jotka vaikuttavat olevan näiden sääntöjen vastaisia. Jos tuote todetaan sääntöjen vastaiseksi, se voidaan poistaa tai piilottaa.
+Sinuun voidaan kohdistaa myös muita toimia
+: tilisi saatetaan esimerkiksi asettaa tilapäiseen tai pysyvään käyttökieltoon.
+Vastaavia seuraamuksia voi koitua myös, jos kehottaa viesteissä muista jäseniä myymään tuotteita
+, jotka on mainittu kiellettyjen tuotteiden luettelossa. Lisätietoja yhteisön standardeista on
 täällä
 .
-Huomautus:
-jos nostat katalogisääntöjemme vastaisia tuotetietoja, ja meidän täytyy poistaa tai piilottaa tuotetiedot, emme voi hyvittää sinulle noston hintaa.
+Huomaa:
+jos nostat Vintedin katalogisääntöjen vastaisia ilmoituksia, ja meidän täytyy poistaa tai piilottaa ilmoitus, noston hintaa ei voida hyvittää.
 YLEISET SÄÄNNÖT
 1. Yleistä
-Näiden kuljetusliikkeiden
+Kuljetusliikkeiden määrittämät
 kuljetusrajat
-ylittäviä tuotteita ei saa lisätä myyntiin.
-Sinun täytyy ladata jokainen tuote erikseen sitä vastaavan kategorian (ja soveltuessa tavaramerkin) alle, paitsi jos kyseessä on paketti.
-Yhdellä tuotteella saa olla vain yhdet tuotetiedot.
-Jokaiselle tuotteelle on
-määritettävä asiaankuuluva tuotteen kunto.
-Sinun on mainittava tuotteen kuvauksessa myös kaikki tuotteen mahdolliset viat, muuntelut ja puuttuvat osat.
+ylittävää tuotetta ei saa lisätä myyntiin.
+Jokainen tuote pitää lisätä myyntiin erikseen sitä vastaavan kategorian (ja soveltuessa tavaramerkin) alle, paitsi jos kyseessä on settii.
+Tuote saa olla myynnissä vain yhdessä ilmoituksessa.
+Tuotteen
+kunto on määritettävä oikein
+. T
+uotteen kuvauksessa pitää mainita myös kaikki tuotteen mahdolliset viat, siihen tehdyt muutokset ja puuttuvat osat.
 Voit valita enintään kolme materiaalia, kun lataat tuotteen. Yksityiskohtaisen kuvauksen tulee sisältää tiedot myös lisämateriaaleista (latauksen yhteydessä valitun kolmen päämateriaalin lisäksi).
-Pakettien (settien) tuotetietojen otsikossa ja/tai kuvauksessa on ilmoitettava, että kyse on paketista tai setistä. Jokaisen paketin tuotetiedoissa on oltava kaikkien sen sisältämien tuotteiden kokonaishinta. Pakettiin sisältyviä tuotteita ei voida lisätä erikseen. Tuotemerkkikentässä sinun tulee valita yksi tuotteidesi tuotemerkeistä.
-Tuotepakettien (settien) ilmoituksen otsikossa ja/tai kuvauksessa on ilmoitettava, että kyse on paketista tai setistä. Jokaisen paketin ilmoituksessa on oltava kaikkien sen sisältämien tuotteiden kokonaishinta. Elektroniikkaa sisältävässä paketissa saa olla ainoastaan kaksi akullista laitetta. Pakettiin sisältyviä tuotteita ei voida lisätä myyntiin erikseen. Tuotemerkkikentässä pitää valita yhden paketin tuotteen tuotemerkki.
+Jos kyse on setistä, ilmoituksen otsikossa ja/tai kuvauksessa on silloin myös ilmoitettava, että kyseessä on setti. Settiin on laitettava näkyviin sen sisältämien tuotteiden kokonaishinta. Jos tuote kuuluu settiin, sitä ei silloin voi lisätä myyntiin erikseen. Elektroniikkaa sisältävässä setissä saa olla ainoastaan kaksi akullista laitetta. Valitse tuotemerkkikentässä yksi tuotteidesi tuotemerkeistä.
 Ilmoituksissa tai profiilin kuvauksessa ei saa olla viittauksia tai linkkejä ulkopuolisille verkkosivustoille tai -alustoille. On ehdottomasti kiellettyä liittää niihin mukaan linkkejä tai viittauksia, jotka johtavat laittomaan tai aikuisille suunnattuun sisältöön, vihapuhesisältöön tai muuhun sellaista käytöstä ilmentävään sisältöön, joka rikkoo Vintedin katalogisääntöjä. Tällaisten linkkien tai viittausten jakaminen voi johtaa tilin pysyvään käyttökieltoon. Poikkeus: Voit liittää mukaan linkin sosiaalisen median profiiliisi, joskaan sitä ei tietoturvasyistä suositella. Linkitettyyn someprofiiliin ei kuitenkaan saa liittyä kaupallista toimintaa tai sisältöä, joka rikkoo katalogisääntöjä.
-On kiellettyä ladata tuotteita, jotka eivät ole saatavilla tai jotka on jo myyty. Tuotteita ei saa ladata tuotteen hakua varten. Ei myöskään ole sallittua ladata jotain, joka ei ole todellinen tuote (esim. trollaustarkoituksessa). Lue,
-miksi tuotetietosi piilotettiin tai poistettiin
+On kiellettyä lisätä myyntiin tuotteita, joita ei ole saatavilla tai jotka on jo myyty. Tuotteita ei saa ladata tuotteen hakua varten. Ei myöskään ole sallittua ladata jotain, joka ei ole todellinen tuote (esim. trollaus
+tarkoituksessa). Lue
+,
+miksi ilmoituksesi piilotettiin tai poistettiin
 .
 Kaikenlaisten palvelujen tarjoaminen on kiellettyä. Kielto koskee alla olevia esimerkkejä, niihin kuitenkaan rajoittumatta:
 tuotteiden tarjoaminen vuokralle
@@ -236,74 +246,79 @@ räätälöintipalvelun tarjoaminen
 rahoitus-, koulutus- ja kauneuspalvelujen tarjoaminen
 tilausperusteisten tai digitaalisten palvelujen tarjoaminen.
 Tuotteen suurin sallittu arvo alustallamme on 9 000 euroa.
-Kaikki tuotetiedot ja muut julkaisut, jotka liittyvät huutokauppaan tai tarjousten tekemiseen, ovat kiellettyjä. Jos tuotteesi hinta on epätavallisen alhainen/korkea eikä vaikuta vastaavan tuotteen todellista arvoa, tuotetta voidaan pitää huutokaupan kohteena. Lue,
+Kaikki
+ilmoitukset
+ja muut julkaisut, jotka liittyvät huutokauppaan tai tarjousten tekemiseen, ovat kiellettyjä. Jos tuotteesi hinta on epätavallisen alhainen tai korkea eikä vaikuta vastaavan tuotteen todellista arvoa, tuotetta voidaan pitää huutokaupan kohteena. Lue
+,
 kuinka asetat järkevän hinnan tuotteellesi
 .
 ​​Sallituissa pistorasiaan kytkettävissä sähkötuotteissa ja akkukäyttöisissä tuotteissa, jotka johtavat lämpöä, ei saa olla materiaalivaurioita, kuten kuluneita tai löystyneitä johtoja.
 Elektroniikkalaitteista pitää poistaa kaikki henkilötiedot ja käyttäjätilit. Ennen postittamista kaikkiin laitteisiin pitää palauttaa tehdasasetukset, ne pitää sammuttaa ja tarvittaessa ne pitää poistaa rekisteristä (esim. dronet). Myytävästä laitteesta pitää poistaa omat lisätarvikkeet, kuten SIM-kortit ja vastaavat.
 2. Tuotteen valokuvia koskevat vaatimukset
-Tuotetiedoissa olevien valokuvien on täytettävä seuraavat vaatimukset:
-Niiden on esitettävä tuote sellaisena kuin se on – kuvanmuokkaus ei ole sallittua. Suosittelemme myös, että kaikki viat, naarmut, kuluminen jne. näytetään.
+Ilmoituksessa olevien valokuvien on täytettävä seuraavat vaatimukset:
+Tuotteen pitää näkyä kuvasta sellaisena kuin se on – kuvanmuokkaus ei ole sallittua. Suosittelemme myös, että kaikki viat, naarmut, kuluminen jne. näytetään.
 Valokuvien on oltava teräviä ja selkeitä. Tutustu
-valokuvavinkkeihimme
+valokuvavinkkeihin
 .
-Valokuvien täytyy olla sinun ottamiasi, jotta voit käyttää niitä Vintedissä.
+Valokuvien täytyy olla sinun itse ottamiasi, jotta voit käyttää niitä Vintedissä.
 Niitä ei saa korvata kuvapankkien valokuvilla, mainoksissa olevilla valokuvilla tai valokuvilla, joissa on vesileima.
-Ensimmäisen valokuvan täytyy olla selkeä kuva koko tuotteesta tai paketista (paketteja ei saa esitellä kuvakollaaseilla, vain yksi kuva sallitaan). Voit vapaasti valita, miten esittelet tuotteitasi lisäkuvissa. Voit ladata enintään 20 valokuvaa yksiä tuotetietoja kohti. Muista näyttää kaikki pakettiin sisältyvät tuotteet, jotta jäsenet tietävät, mitä he ovat ostamassa.
-Valokuvien täytyy osoittaa tuotteesi aitous. Tutustu
-tätä koskeviin vinkkeihimme
+Ensimmäisen valokuvan täytyy olla selkeä kuva koko tuotteesta. Voit sen jälkeen vapaasti valita, miten esittelet tuotteitasi muissa kuvissa.
+Kuhunkin ilmoitukseen voi lisätä korkeintaan
+20 valokuvaa.
+Valokuvien täytyy osoittaa, että tuotteesi on aito. Tutustu
+tätä koskeviin vinkkeihin
 .
-Tarvittavien ikärajamerkintöjen täytyy olla näkyvissä valokuvissa tuotteista, joihin sovelletaan ikärajoituksia (esim. aikuisille tarkoitetut videopelit)
+Jos tuotteeseen sovelletaan ikärajoituksia (esim. aikuisille tarkoitetut videopelit), tarvittavien ikärajamerkintöjen pitää silloin olla valokuvissa näkyvissä.
 3. Immateriaalioikeuksia koskeva käytäntö
-Väärennettyjen tuotteiden lataaminen alustallemme on ehdottomasti kiellettyä. Väärennetyissä tuotteissa yrityksen tavaramerkki (kuten tuotemerkin nimi, tuotteen nimi ja/tai logo) on yleensä kopioitu ja/tai sitä on jäljitelty ilman yrityksen lupaa. Niissä on voitu myös kopioida yrityksen tuotteen erityisiä merkittäviä ominaisuuksia (esim. hajuvesipullon muoto, laukun malli ja kuosi).
-Huomautus:
-väärennettyjen tuotteiden myynti voi johtaa myyjien kohdalla siviili- ja rikosoikeudellisiin menettelyihin.
-Jäsenet saavat ladata vain tuotteita, joiden aitoudesta he ovat varmoja. He eivät voi lisätä tuotetietoihinsa vastuuvapauslauseketta, jossa he ilmoittavat olevansa epävarmoja tuotteen aitoudesta.
+Väärennettyjen tuotteiden lataaminen alustallemme on ehdottomasti kiellettyä. Väärennetyissä tuotteissa yrityksen tavaramerkki (kuten tuotemerkin nimi, tuotteen nimi ja/tai logo) on yleensä kopioitu ja/tai sitä on jäljitelty ilman yrityksen lupaa. Niissä on voitu myös kopioida yrityksen tuotteen erityispiirteitä ja tunnusmerkkejä (esim. hajuvesipullon muoto, laukun malli ja kuosi).
+Huomaa:
+väärennettyjen tuotteiden myynti voi johtaa myyjien kohdalla siviili- ja
+rikosoikeudellisiin menettelyihin.
+Jäsenet saavat lisätä myyntiin vain tuotteita, joiden aitoudesta he ovat varmoja. Ilmoitukseen ei saa lisätä vastuuvapauslauseketta, jossa myyjä ilmoittaa olevansa epävarma tuotteen aitoudesta.
 Jäsenten on myös ladattava
-valokuvia, jotka osoittavat
-tuotteen aitouden mahdollisimman selvästi.
-Tuotteeseen liittymättömien tuotemerkkien käyttäminen tuotemerkkikategoriassa, otsikossa/kuvauksessa tai tuotetiedoissa olevassa hashtagissa ei ole sallittua.
-Tuotemerkkien lisääminen sanojen, kuten ”Inspiroinut”, perään, on myös yleisesti kiellettyä alustallamme.
-On ehdottomasti kiellettyä ladata ja myydä tuotteita, jotka on kopioitu ilman immateriaalioikeuksien haltijan suostumusta (esim. kopioidut kirjat, henkilökohtaisiin tarkoituksiin laaditut liikunta- tai ruokavaliosuunnitelmat ja tyhjille CD-levyille tai muille tallennusvälineille kopioidut videopelit).
+valokuvia, joista tuotteen aitous käy ilmi
+mahdollisimman selvästi.
+Tuotteeseen liittymättömien tuotemerkkien käyttäminen tuotemerkkikategoriassa, otsikossa tai kuvauksessa tai ilmoituksessa olevassa hashtagissa ei ole sallittua.
+Tuotemerkkien lisääminen sanojen, kuten ”inspiroima”, yhteyteen, on myös yleisesti kielletty alustallamme.
+On ehdottomasti kiellettyä lisätä myyntiin ja myydä tuotteita, jotka on kopioitu ilman immateriaalioikeuksien haltijan suostumusta (esim. kopioidut kirjat, henkilökohtaisiin tarkoituksiin laaditut liikunta- tai ruokavaliosuunnitelmat ja tyhjille CD-levyille tai muille tallennusvälineille kopioidut videopelit).
 4.
-KAUPALLINEN TOIMINTA
-Emme salli yksittäisten jäsenten lisätä mitään tuotteita, jotka on tarkoitettu myytäviksi kaupallisessa tarkoituksessa.
-Sinun voidaan katsoa toimivan kaupallisin perustein, jos yksi tai useampi seuraavista kriteereistä täyttyy (luettelo ei ole täydellinen):
-Tapahtumiesi tuotemäärät ovat suuria (tapahtumien lukumäärä ja/tai ansaittujen tulojen määrä huomioiden).
+Ammattimainen myynti
+Vakiomyyjät
+eivät saa lisätä Vintediin myyntiin mitään tuotteita, jotka on tarkoitettu myytäviksi osana ammattimaista myyntitoimintaa.
+Sinun voidaan katsoa harjoittavan ammattimaista myyntitoimintaa, jos yksi tai useampi seuraavista kriteereistä täyttyy (luettelo ei ole täydellinen):
+Yksittäisten myyntien tuotemäärät ovat suuria (myyntien lukumäärä ja/tai ansaittujen tulojen määrä huomioiden).
 Myyt suuria määriä uusia tuotteita hintalapulla tai ilman.
 Myyt vaatteita tai muita tuotteita, jotka ovat samantyylisiä ja kuuluvat samaan kategoriaan ja/tai joiden tuotemerkki on sama mutta joita on monia eri värejä tai kokoja.
-Myyt suuria määriä kosmetiikkatuotteita tai kauneuskategoriaan kuuluvia tuotteita.
+Myyt suuria määriä kosmetiikkatuotteita tai Kauneus-kategoriaan kuuluvia tuotteita.
 Tarjoat jälleenmyyntiin suurina erinä ostettuja tai edullisina suoratoimitustuotteina myytyjä tuotteita.
-Myyt tuotteita, joihin on liitetty ilmoitus, kuten ”voidaan tilata”, ”loppu varastosta” tai ”tarkista myöhemmin uudelleen”.
+Myyt tuotteita, joihin on liitetty maininta, kuten ”voidaan tilata”, ”loppu varastosta” tai ”tarkista myöhemmin uudelleen”.
 Myyt tuotteita, joita et ole ostanut omaan käyttöösi vaan jälleenmyyntiä varten.
-Myyntiesi tarkoituksena on säännöllisten tulojen tai voittojen hankkiminen.
-Oikeudellinen asemasi mahdollistaa kaupallisen myyntitoiminnan ja myyt yrityksesi puolesta.
+Myynnin tarkoituksena on säännöllisten tulojen tai voittojen hankkiminen.
+Oikeudellinen asemasi mahdollista
+a ammattimaisen myynnin ja myyt yrityksesi puolesta.
 Myyt suuria määriä käsintehtyjä tuotteita tai sinulla on useampi kappale samaa tuotetta ja myyt niitä eri ilmoituksissa.
 Toimit tietyn elinkeinonharjoittajan puolesta tai toisen hänen nimissään ja puolestaan toimivan henkilön kautta ja saat siitä korvauksen tai palkkion.
 Tarjoat palveluja, esimerkiksi tuotteiden valmistaminen tilauksesta, tuotteiden vuokraus tai tilausperusteiset palvelut.
-Tuotetiedoissasi on internetistä tai kuvapankeista peräisin olevia kuvia.
-Lisätietoja kaupallisesta toiminnasta on
+Ilmoituksissasi on internetistä tai kuvapankeista peräisin olevia kuvia.
+Lisätietoja ammattimaisesta myynnistä
+on
 täällä
 .
 5. SEURAAMUKSET
-Jos jäsenet eivät noudata katalogisääntöjämme, voimme ryhtyä
-seuraaviin toimenpiteisiin
-:
-Jos ilmoituksen kohteena oleviin tuotetietoihin on tehtävä joitakin muutoksia,
-poistamme ne näkyvistä jäsenen vaatekaapissa
-ja lähetämme jäsenelle viestin, jossa kerromme hänelle mihin toimenpiteisiin hänen täytyy ryhtyä 24 tunnin kuluessa. Jos jäsen ei tee näitä toimenpiteitä, tuote pysyy piilotettuna.
-Jos ilmoituksen kohteena olevissa tuotetiedoissa on kielletty tuote,
-poistamme tuotetiedot jäsenen vaatekaapista
-ja lähetämme hänelle viestin, jossa ilmoitamme poiston syyn.
-Jos jäsen toistuvasti lataa kiellettyjä tuotteita, kaupallisilta vaikuttavia tuotteita tai muita käyttöehtojemme ja/tai katalogisääntöjemme vastaisia tuotteita,
-voimme jäädyttää hänen tilinsä (esim. seitsemän päivän ajaksi) tai estää sen lopullisesti, rikkomuksen vakavuudesta riippuen.
-Lähetämme jäsenelle viestin, jossa ilmoitamme hänelle asiasta. Lisätietoja on
-käyttöehdoissamme
+Jos jäse
+net eivät noudata Vintedin katalogisääntöjä, voimme ryhtyä seuraaviin toimenpiteisiin:
+Jos ilmiannon kohteena olevaan ilmoitukseen joudutaan tekemään muutoksia, se piilotetaan jäsenen profiilista.
+Jäsen saa sen jälkeen viestin, jossa kerrotaan, mihin toimiin hänen täytyy ryhtyä 24 tunnin kuluessa. Jos hän ei tee näitä toimenpiteitä, tuote pysyy piilotettuna.
+Jos
+ilmiannetussa ilmoituksessa on kielletty tuote, ilmoitus poistetaan jäsenen profiilista. Jäsen saa sen jälkeen viestin, jossa ilmoitetaan poiston syy.
+Jos jäsen toistuvasti lisää myyntiin kiellettyjä tuotteita, kaupallisilta vaikuttavia tuotteita tai muita Vintedin käyttöehtojen ja/tai katalogisääntöjen vastaisia tuotteita, hänen tilinsä voidaan asettaa joko tilapäiseen käyttökieltoon (esim. seitsemän päivän ajaksi) tai pysyvään käyttökieltoon rikkomuksen vakavuudesta riippuen. Lähetämme jäsenelle viestin, jossa ilmoitetaan asiasta. Lisätietoja on
+käyttöehdoissa
 .
 Pidätämme oikeuden muuttaa näitä sääntöjä oman harkintamme mukaan ilman, että meidän täytyy ilmoittaa siitä sinulle etukäteen. Jos sinulla on kysyttävää näistä säännöistä,
-ota yhteyttä tiimiimme
-, niin autamme sinua mielellämme.
-Huomautus:
-jos huomaat tuotteen, joka vaikuttaa näiden sääntöjen vastaiselta,
-ilmoita
-siitä meille.
+ota meihin yhteyttä
+–
+autamme mielellämme.
+Huomaa:
+jos näet tuotteen, joka vaikuttaa näiden sääntöjen vastaiselta,
+ilmianna
+se meille.
