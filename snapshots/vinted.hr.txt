@@ -1,5 +1,5 @@
 Pravilima kataloga
-Želimo osigurati da je Vinted prijateljsko i sigurno mjesto za razmjenu second-hand artikala. Stoga članovi prilikom prijenosa artikala moraju djelovati u skladu s Pravila kataloga navedenim u nastavku.
+Želimo osigurati da je Vinted prijateljsko i sigurno mjesto za razmjenu second-hand artikala. Stoga članovi prilikom prijenosa artikala moraju djelovati u skladu s Pravilima kataloga navedenim u nastavku.
 Imajte na umu da su ta pravila dio naših
 Uvjeta i odredbi
 . Izradom računa na platformi Vinted pristajete na navedena pravila i naše Uvjete i odredbe.
@@ -8,23 +8,15 @@ Na platformi Vinted možete prodavati sljedeće artikle:
 Ženska, muška i dječja odjeća, obuća i modni dodaci.
 Dječje igračke, namještaj i oprema za njegu djece.
 Proizvodi za dom i kuhinju, poput malih kuhinjskih aparata, posuđa za kuhanje i pečenje, kuhinjskog pribora, posuđa za serviranje, sredstava za čišćenje, tekstila, ukrasa za dom, artikala za proslave i blagdane, alata, artikala iz kategorije Uradi sam, opreme za vrt i boravak na otvorenom te proizvoda za kućne ljubimce.
-Elektronički uređaji poput fotoaparata, računala, prijenosnih računala, 3D pisača i skenera, tableta i e-čitača, mobilnih telefona i komunikacijskih uređaja, audio opreme, slušalica i Hi-Fi uređaja, televizora i kućnog kina, videoigara i konzola, nosivih uređaja, elektroničkih uređaja za neprofesionalni uljepšavanje i osobnu njegu, pametnih kućnih uređaja te dodataka za elektroniku poput adaptera, kabela i punjača.
-Zabavnih artikala kao što su knjige, časopisi, glazba i video sadržaji.
+Elektronički uređaji poput fotoaparata, računala, prijenosnih računala, 3D pisača i skenera, tableta i e-čitača, mobilnih telefona i komunikacijskih uređaja, audio opreme, slušalica i Hi-Fi uređaja, televizora i kućnog kina, videoigara i konzola, nosivih uređaja, elektroničkih uređaja za neprofesionalno uljepšavanje i osobnu njegu, pametnih kućnih uređaja te dodataka za elektroniku poput adaptera, kabela i punjača.
+Zabavni artikli kao što su knjige, časopisi, glazba i video sadržaji.
 Artikli iz kategorije hobija i kolekcionarstva, poput društvenih igara, slagalica, kartica za skupljanje, stolnih i minijaturnih igara, poštanskih markica, memorabilija, razglednica, pribora za umjetnost i rukotvorine, kovanica i novčanica, glazbenih instrumenata i opreme, artikala za spremanje kolekcija i dodataka za igranje.
 Sportska oprema povezana s aktivnostima kao što su biciklizam, fitness, trčanje i joga, sportovi na otvorenom, vodeni, timski sportovi ili sportovi s reketom, golf, jahanje, skateboard, boks i mješovite borilačke vještine, ležerni sportovi i igre poput boćanja i pikada te zimski sportovi.
 Nova kozmetika, proizvodi za ljepotu i njegu, uređaji i gadgeti za uljepšavanje.
-Mali broj unikatnih ručno izrađenih artikala dopušten je ako je ta aktivnost povremena i ako je u skladu s pravilima kataloga. Ako artikl koji prodajete dolazi s korisničkim uputama, priručnicima ili sigurnosnim upozorenjima, obavezno ih priložite prilikom slanja artikla kupcu.
-Ako je vaša elektronika isporučena s dodatnom opremom, a vi ne prodajete dodatnu opremu s artiklom, svakako to jasno navedite u opisu i imajte na umu da to može utjecati na cijenu artikla. Provjerite je li elektronika koju ste objavili u oglasu sigurna za upotrebu.
-Zadržavamo pravo utvrđivanja koji artikli smiju, a koji ne smiju biti oglašeni na platformi Vinted. Ako otkrijemo da određeni artikli krše naše uvjete
-ili predstavljaju rizik za naše članove
-,
-možemo
-ih ukloniti čak i ako nisu navedeni u nastavku.
-Osim toga, artikli koji su dopušteni u sklopu navedenih Pravila kataloga moraju biti u skladu sa zakonom plasirani na tržište Europskog gospodarskog prostora (EPG
-) (
-koji uključuje države članice Europske unije, Island, Lihtenštajn i Norvešku) prije nego što ih je moguće oglasiti na platformi Vinted. Artikli ne mogu prvi put ući na tržište EPG-u putem prodaje na platformi Vinted.
-To znači da se artikli moraju zakonito prodavati u EPG-u ili prethodno moraju biti uvezeni u EPG iz inozemstva (uključujući UK).
-Artikli moraju biti u skladu s primjenjivim propisima EGP-a da bi bili dopušteni na Vintedu.
+Mali broj unikatnih ručno izrađenih artikala dopušten je ako je ta aktivnost povremena i ako je u skladu s pravilima kataloga.
+Ako artikl koji prodajete dolazi s korisničkim uputama, priručnicima ili sigurnosnim upozorenjima, obavezno ih priložite prilikom slanja artikla kupcu. Ako je vaša elektronika isporučena s dodatnom opremom, a vi ne prodajete dodatnu opremu s artiklom, svakako to jasno navedite u opisu i imajte na umu da to može utjecati na cijenu artikla. Provjerite je li elektronika koju ste objavili u oglasu sigurna za upotrebu.
+Osim toga, artikli koji su dopušteni u sklopu navedenih Pravila kataloga moraju biti plasirani na tržište Europskog gospodarskog prostora (EPG) u skladu sa zakonom (koji uključuje države članice Europske unije, Island, Lihtenštajn i Norvešku) prije nego što ih je moguće oglasiti na platformi Vinted. Artikli ne mogu prvi put ući na tržište EPG-u putem prodaje na platformi Vinted. To znači da se artikli moraju zakonito prodavati u EPG-u ili prethodno moraju biti uvezeni u EPG iz inozemstva (uključujući UK). Artikli moraju biti u skladu s primjenjivim propisima EGP-a da bi bili dopušteni na Vintedu.
+Zadržavamo pravo utvrđivanja koji se artikli smiju, a koji ne smiju oglašavati na platformi Vinted. Ako otkrijemo da određeni artikli krše naše uvjete ili predstavljaju rizik za naše članove, možemo ih ukloniti čak i ako nisu navedeni u nastavku.
 ZABRANJENI ARTIKLI
 Na platformi Vinted ne možete prodavati sljedeće artikle
 (Imajte na umu da popis nije konačan i da ga treba upotrebljavati samo kao smjernicu):
@@ -35,9 +27,7 @@ Artikli koji mogu kršiti prava nositelja prava intelektualnog vlasništva.
 Ručno izrađeni artikli koji nalikuju drugim brendovima i mogli bi se smatrati krivotvorenima.
 Artikli koji promiču ili prikazuju nasilje, diskriminaciju, mržnju, kriminal, terorizam i terorističke organizacije ili zlostavljanje djece.
 Napomena:
-Igre, knjige i filmovi koji mogu sadržavati gore navedeni zabranjeni sadržaj dopušteni su u kategorijama
-Hobiji i kolekcionarstvo, Zabava i Elektronika
-(molimo pogledajte odgovarajuća ograničenja u nastavku).
+Igre, knjige i filmovi koji mogu sadržavati gore navedeni zabranjeni sadržaj dopušteni su u kategorijama Hobiji i kolekcionarstvo, Zabava i Elektronika (molimo pogledajte odgovarajuća ograničenja u nastavku).
 Reprodukcije novčanica i artikli povezani s reprodukcijama novčanica.
 Ukradeni artikli.
 Vatreno oružje, oružje i eksplozivi, suzavci, elektrošokeri i slični artikli.
@@ -46,14 +36,12 @@ Napomena
 Droga i pribor za drogiranje, sastojci za uzgoj droge (npr. sjemenke kanabisa).
 Nacističke i fašističke uniforme te artikli s nacističkim ili fašističkim simbolima.
 Uniforme oružanih snaga, policijske uniforme ili druge službene uniforme hitnih službi, značke, dodatna oprema i drugi artikli. Amblemi međunarodne humanitarne pomoći i imena pripadnika (npr. na bedževima ili zakrpama), bez obzira na to prodaju li se zasebno ili na odjeći.
-Napomena
+Napomena 1
 : kostimi, kompleti i dodatna oprema dopušteni su ako ne sliče službenim uniformama i/ili dodatnoj opremi.
 Artikli koji sadrže ljudske ili životinjske ostatke ili nusprodukte ljudskog tijela.
 Artikli koji su (na neki drugi način) zabranjeni zakonom ili propisima.
 Ograničeni artikli: artikli koji nisu odjeća, nisu povezani s modom, ljepotom, dodacima, djecom i proizvodima za dom, zabavom, elektronikom ili jednostavno nisu u skladu s vizijom platforme Vinted. To uključuje sljedeće:
-Medicinski proizvodi dostupni na recept ili bez recepta, lijekovi, profesionalna medicinska dodatna oprema,
-medicinski proizvodi
-, vitamini, dodaci prehrani i svi drugi proizvodi povezani sa zdravljem.
+Medicinski proizvodi dostupni na recept ili bez recepta, lijekovi, profesionalna medicinska dodatna oprema, medicinski proizvodi, vitamini, dodaci prehrani i svi drugi proizvodi povezani sa zdravljem.
 Proizvodi koji svojom definicijom ulaze u kategoriju „veterinarsko-medicinski proizvod” (npr. šampon protiv buha, vitamini, lijekovi i slični proizvodi).
 Medicinski uređaji (uključujući aktivne medicinske proizvode za ugradnju) i in-vitro dijagnostičke medicinske proizvode kao što su sljedeći (popis nije konačan):
 Testovi za trudnoću, ovulaciju, DNK-testiranje i testiranje na Covid-19 te ostali medicinski testovi
@@ -70,10 +58,9 @@ Uređaji za uklanjanje zubnog kamenca
 Uređaji koji pomažu pri spavanju
 Živini termometri
 Drugi proizvodi za čiju su upotrebu potrebni recept, nadzor ili upute medicinskog stručnjaka ili one proizvode čija je namjeravana upotreba u medicinske svrhe.
-Napomena:
+Napomena 1:
 određeni artikli (npr. pametni satovi ili pametne narukvice s ugrađenim značajkama medicinskog softvera kao što su mjerenje krvnog tlaka ili zasićenosti kisikom, EKG), koji bi se mogli klasificirati kao medicinski uređaji, dopušteni su ako su u skladu s primjenjivim zakonima i ako su zadovoljeni svi sljedeći preduvjeti:
-1) A
-ko imaju CE oznaku i četveroznamenkasti broj obaviještenog tijela (primjenjuje se ako su oznaka i priručnik dostupni na lokalnom jeziku);
+1) Ako imaju CE oznaku i četveroznamenkasti broj obaviještenog tijela (primjenjuje se ako su oznaka i priručnik dostupni na lokalnom jeziku);
 2) Artikli nisu istekli;
 3) Artikli pripadaju drugim, dopuštenim kategorijama (npr. elektronika, proizvodi za uljepšavanje);
 4) Riječ je o novim artiklima koji se prodaju u neotvorenom (zapečaćenom) pakiranju;
@@ -95,46 +82,42 @@ Radne uniforme koje obuhvaćaju odjeću i dodatnu opremu.
 Napomena
 : starinske su radne uniforme i dodatna oprema dopušteni ako više nisu u upotrebi te ne izgledaju kao trenutačna radna uniforma.
 Artikli koji promiču ili prikazuju organizacije koje podržavaju nasilje, diskriminaciju, mržnju ili zločin. Primjeri takvih skupina obuhvaćaju nacizam li neonacizam te fašizam ili neofašizam.
-Životinjsko krzno i proizvodi dobiveni od njega,
-primjerice
-prirodne školjke, slonovača ili artikli koji sadrže proizvode od egzotične kože, kao što su koža reptila, noja, deve i karakula te svi drugi artikli koji sadrže proizvode koji su zabranjeni međunarodnim sporazumima kojim se želi ograničiti prodaja ugroženih biljaka i životinja.
+Životinjsko krzno i proizvodi dobiveni od njega, primjerice prirodne školjke, slonovača ili artikli koji sadrže proizvode od egzotične kože, kao što su koža reptila, noja, deve i karakula te svi drugi artikli koji sadrže proizvode koji su zabranjeni međunarodnim sporazumima kojim se želi ograničiti prodaja ugroženih biljaka i životinja.
 Napomena
 : dopušteni su proizvodi od kože, ostrižene ovčje vune, kašmira i mohera.
 Žive životinje i kućni ljubimci.
 Pijesak, strugotine, papirnate kuglice i slični artikli za kućne ljubimce.
 Artikli s autogramom (ili slični artikli) bez provjerene potvrde o autentičnosti.
-Neka elektronika i tehnički dodaci ograničeni su na platformi Vinted. U to spadaju, između ostalog: predmeti za njegu kućnih ljubimaca, kamere i monitori za kućne ljubimce, električna oprema za akvarije i terarije, softverski ključevi, filmske/tv kamere, laserski pokazivači klase 2 ili više, perilice rublja, perilice posuđa, glačala, usisavači, prijenosni ventilatori itd.
+Neka elektronika i tehnički dodaci ograničeni su na platformi Vinted. U to spadaju, između ostalog: predmeti za njegu kućnih ljubimaca, kamere i monitori za kućne ljubimce, električna oprema za akvarije i terarije, softverski ključevi, filmske/tv kamere, laserski pokazivači klase 2 ili više, perilice rublja, perilice posuđa, itd.
 Uređaji s otključanim sustavom (jailbreak ili root) koji su modificirani kako bi se zaobišlo sigurnosno ograničenje proizvođača i omogućilo preuzimanje aplikacija ili dodataka koji se ne nude u službenim App Store ili Google Play trgovinama.
-Uređaji s baterijama koje prelaze 100 wattsati (Wh).
+Uređaji s baterijama koje prelaze 100 vatsati.
 SIM kartice.
-Uređaji zaštićeni „greylisting” metodom ili uređaji
-blokirani
-zbog neotplaćenog iznosa.
+Uređaji zaštićeni „greylisting” metodom ili uređaji blokirani zbog neotplaćenog iznosa.
 Uređaji na GSMA crnoj listi koje je operater stavio na crnu listu jer su izgubljeni, ukradeni ili nisu do kraja otplaćeni.
 Blokirani mobilni telefoni (uključujući uređaje s ograničenim aktivacijskim zaključavanjem) koji su blokirani zbog toga što prodavač nema pristup povezanom korisničkom računu, PIN-u, biometrijskim informacijama za prijavu ili je vlasnik prijavio telefon kao izgubljen ili ukraden putem, na primjer, svog Apple ili Google računa.
 Oprema kao što su kompleti za tetoviranje, naprave za bušenje kože, solariji i stolovi za masažu.
 Neispravna zaštitna oprema uključujući, ali ne ograničavajući se na, kacige za biciklizam, pojaseve za penjanje ili zaštitne naočale koje više ne mogu služiti svojoj namjeni ili više ne udovoljavaju sigurnosnim standardima i važećim lokalnim zakonima.
 Bicikli, uključujući, ali ne ograničavajući se na gradske, cestovne, brdske i električne bicikle.
 Namještaj za odrasle (kao što su sofe, stolovi, stolice) i dijelovi namještaja.
-Prave biljke, kao što je cvijeće.
 Madraci, nadmadraci, popluni (osim u kategorijama za djecu).
 Napomena 1
 : u kategorijama brige o kućnim ljubimcima dopušteni su kreveti i deke za kućne ljubimce.
 Napomena 2
 : Dopušteno je prodavati samo nove nadmadrace za djecu - originalna oznaka trebala bi biti vidljiva.
-Sljedeći noževi su zabranjeni: svi oštri noževi sa šiljastim vrhom, bez obzira na veličinu ili namjenu, uključujući kuhinjske noževe. Specijalizirani oštri noževi, uključujući noževe za kruh, noževe za odreske i mesarske noževe, bez obzira na veličinu ili namjenu. Škare za tkaninu, rotacijski rezači, škare za rukotvorine, noževi za bacanje, stiletto noževi, drop point noževi, leptir noževi, preklopni noževi, sklopivi švicarski noževi, kružni noževi za bacanje, skriveni noževi (npr. plastični noževi koji nisu uočljivi), noževi koji nalikuju na predmet osim oružja (npr. noževi u obliku kreditne kartice), noževi za preživljavanje (npr. mačete, zombie noževi),
-mačevi
-, motorne pile, sjekire, pile s drškom i produženom oštricom koje nalikuju na nož, kolekcionarski, rekvizitni i antikni noževi, čak i ako su opisani kao dekorativni, ako su oštri sa šiljastim vrhom, dvostrane i jednostrane britve, ravne britve, setovi pribora za jelo koji uključuju bilo koji od gore navedenih noževa.
+Sljedeći su noževi zabranjeni: svi oštri noževi sa šiljastim vrhom, bez obzira na veličinu ili namjenu, uključujući kuhinjske noževe. Specijalizirani oštri noževi, uključujući noževe za kruh, noževe za odreske i mesarske noževe, bez obzira na veličinu ili namjenu. Škare za tkaninu, rotacijski rezači, škare za rukotvorine, noževi za bacanje, stiletto noževi, drop point noževi, leptir noževi, preklopni noževi, sklopivi švicarski noževi, kružni noževi za bacanje, skriveni noževi (npr. plastični noževi koji nisu uočljivi), noževi koji nalikuju na predmet osim oružja (npr. noževi u obliku kreditne kartice), noževi za preživljavanje (npr. mačete, zombie noževi), mačevi, motorne pile, sjekire, pile s drškom i produženom oštricom koje nalikuju na nož, kolekcionarski, rekvizitni i antikni noževi, čak i ako su opisani kao dekorativni, ako su oštri sa šiljastim vrhom, dvostrane i jednostrane britve, ravne britve, setovi pribora za jelo koji uključuju bilo koji od gore navedenih noževa.
 Napomena 1:
 brijači s izmjenjivim britvicama i električni brijači dopušteni su u novom stanju kada se prodaju u svom zatvorenom originalnom pakiranju
 Napomena 2:
 dopušteni su stolni noževi s tupom oštricom i zaobljenim vrhom, poput noževa za maslac.
-Korišteni zamjenski i pojedinačni ulošci i patrone za filtre za vodu. Napomena: iz higijenskih razloga mogu se prodavati samo novi zamjenski i pojedinačni ulošci i patrone za filtre za vodu.
+Korišteni zamjenski i pojedinačni ulošci i patrone za filtre za vodu.
+Napomena
+: iz higijenskih razloga mogu se prodavati samo novi zamjenski i pojedinačni ulošci i patrone za filtre za vodu.
 Jednokratni plastični artikli, kao što su neko posuđe, pribor za jelo, čaše, slamčice, konfeti, baloni, ukrasi na napuhavanje itd.
 Napomena
-: konfeti koji nisu izrađeni od plastike, neiskorišteno jednokratno posuđe i stolnjaci dopušteni su u potkategoriji Proslave i praznici.
+: konfeti koji nisu izrađeni od plastike, neiskorišteno jednokratno posuđe i neiskorišteni stolnjaci dopušteni su u potkategoriji Proslave i praznici.
 HVAC (sustavi grijanja, ventilacije i klimatizacije), fiksne/neprijenosne jedinice ili zidni klima uređaji.
-Napomena: prijenosni klima uređaj i klima uređaj za hlađenje, prozorski klima uređaji su dozvoljeni.
+Napomena
+: prijenosni klima uređaji i klima uređaji za hlađenje, prozorski klima uređaji su dozvoljeni.
 Digitalne e-knjige i audioknjige.
 Adventski kalendari, paketi iznenađenja i grupe artikala.
 Ulaznice za događaje, darovne kartice, kuponi za popust, pretplate.
@@ -161,8 +144,6 @@ Napomena 3
 Napomena 4
 : kozmetika u kojoj je najmanje jedan sastojak zabranjena tvar.
 Sve boje, lakovi, lakovi za drvo, sredstva za obradu površina, temeljni premazi, brtvila, razrjeđivači za boje, tinte, punjenja za tintu, mirisi za svijeće te keramičke i lončarske glazure koje su već korištene. Takvi artikli trebaju se prodavati novi, u zatvorenoj i originalnoj ambalaži. Pečati na pakiranju ne smiju biti slomljeni ili uklonjeni. Također preporučujemo da prenesete fotografije koje prikazuju informacije o artiklu (informacije o pakiranju, sastav, barkod, rok trajanja i slično).
-Napomena
-: Strogo je zabranjeno prodavati boje, lakove, sredstva za obradu površina ili druge srodne artikle ako su korišteni ili im je istekao rok upotrebe.
 Napomena:
 Strogo je zabranjeno prodavati boju, lakove, premaze ili druge povezane artikle koji su korišteni ili im je istekao rok upotrebe.
 Svaka kozmetika koju je proizvela .
@@ -172,26 +153,18 @@ Napomena:
 iz higijenskih razloga dopušteno je prodavati isključivo nove artikle za postporođajnu njegu (jastučići za ublažavanje boli, podloge za krevete.). Na slikama artikla dužni ste jasno prikazati odgovarajuće oznake i/ili originalno pakiranje. Sastav i oznake robne marke iznutra ne računaju se kao oznake.
 Rabljeni nakit za piercing na jeziku, obrvi, nosu, usni i intimnom području.
 Sve korištene komponente elektroničkih uređaja povezanih s higijenom, kao što su glave električnih četkica za zube ili britvice/trimeri iz uređaja za uklanjanje dlačica. Ako se takvi artikli prodaju, moraju biti u novom stanju i prodavati se u zapečaćenom originalnom pakiranju.
-Električne ogrlice, davilice, ogrlice s pritezanjem, bodljikave ogrlice, ogrlice sa šiljcima za kućne ljubimce.
-Mreže i zamke za ptice. Akvariji.
+Električne ogrlice, davilice, ogrlice s pritezanjem, bodljikave ogrlice, ogrlice sa šiljcima za kućne ljubimce. Mreže i zamke za ptice. Akvariji.
 Deterdženti, kemikalije za pranje i čišćenje te slični proizvodi (npr. tekućine, prašci, paste, pločice ili bilo koje druge kemikalije, odnosno proizvodi koji sadrže kemijske tvari (osim kozmetike ili materijala za obrt)).
 Napomena 1
 : Neiskorištena eterična ulja koja se koriste kao kozmetika mogu se prodavati u stanju „Novo s etiketama”.
 Napomena 2
 : Neiskorišteni premazi, kao što su boje ili lakovi, tinte i mirisi za svijeće mogu se prodavati u stanju „Novo bez etiketa”.
 Rashladna sredstva (CFC i HCFC) i sredstva za hlađenje namijenjena klima uređajima.
-Radarski ili uređaji za ometanje frekvencije.
-Povučeni proizvodi. Artikli koje su proizvođači,
-regulatorna
-ili
-druga
-javna tijela u
+Radarski uređaji ili uređaji za ometanje frekvencije.
+Povučeni proizvodi. Artikli koje su proizvođači, regulatorna ili druga javna tijela u
 EU
-ili na nacionalnoj razini povukli zbog sigurnosnih ili drugih razloga neusklađenosti
-ili su ih na drugi način označili kao nesigurne
-.
-Opasne tvari koje se smatraju zapaljivima i otrovnima
-, uključujući plinske boce namijenjene za aktivnosti na otvorenom.
+ili na nacionalnoj razini povukli zbog sigurnosnih ili drugih razloga neusklađenosti ili su ih na drugi način označili kao nesigurne.
+Opasne tvari koje se smatraju zapaljivima i otrovnima, uključujući plinske boce namijenjene za aktivnosti na otvorenom.
 Elektronički uređaji s napuhanom baterijom.
 Sve iskorištene ili istekle baterije, prijenosni punjači (power bank), memorijske kartice ili prazni mediji kao što su CD, DVD, Blue Ray diskovi ili USB memorije. Ako se takvi artikli prodaju, moraju biti u novom stanju i prodavati se u zapečaćenom originalnom pakiranju.
 Napomena:
@@ -200,20 +173,19 @@ Privatni mobilni radiouređaji (Walkie Talkie) koji premašuju 0,5 vata i/ili ko
 Korištene vezice za kablove, zidarske četke, kistovi za ličenje, navlake za valjak, zaštitne trake za bojanje.
 Napomena
 : ovi su artikli dozvoljeni samo u stanju „Novo”.
-Korištena zaštitna oprema kao što su zaštitni viziri za lice, zaštitne kacige, zaštita za uši, zaštitne naočale i maske, sigurnosni pojasevi i radne rukavice.
-Napomena
-: ovi artikli dozvoljeni su samo u stanju „Novo s etiketama”.
 Određene vrste korištenih dodataka za alate kao što su jastučići za poliranje, svrdla, svrdla za staklo i pločice, svrdla za beton, svrdla za metal i drvo, krunske pile, nastavci za oscilirajuće alate, nastavci za rotacijske alate, glodala, brusni diskovi i papiri, oštrice za pile, nastavci za odvijače, kotači i diskovi.
 Napomena
 : ovi artikli dozvoljeni su samo u stanju „Novo s etiketama”.
 Korišteni artikli za kuhanje i roštiljanje na otvorenom kao što su roštilji i rešetke, ugljen i peleti, podlošci za sakupljanje masti, aromatizatori, aromatično drvo za dimljenje, četke i strugači za roštilj te daske za pečenje na roštilju.
 Napomena
 : ovi su artikli dozvoljeni samo u stanju „Novo”.
-Provjerite jesu li vaši oglasi i artikli u skladu s našim Pravilima kataloga. Drugi članovi mogu označiti vaš oglas koji izgleda kao da nije u skladu s tim pravilima i poslati ga na pregled platforme Vinted. Ako vaš artikl zaista ne ispunjava uvjete, naš bi ga tim mogao ukloniti ili sakriti. Mogli biste biti podložni i drugim radnjama, kao što su obustavljanje ili blokiranje vašeg računa. Ako pošaljete poruke drugim članovima koji promiču prodaju artikala koji su dio popisa zabranjenih artikala mogli biste se suočiti sa sličnim radnjama. Dodatne informacije potražite u našim Standardima zajednice dostupnim
+Korištena zaštitna oprema kao što su zaštitni viziri za lice, zaštitne kacige, zaštita za uši, zaštitne naočale i maske, sigurnosni pojasevi i radne rukavice.
+Napomena
+: ovi artikli dozvoljeni su samo u stanju „Novo s etiketama”.
+Provjerite jesu li vaši oglasi i artikli u skladu s našim Pravilima kataloga. Drugi članovi mogu označiti vaš oglas koji izgleda kao da nije u skladu s tim pravilima i poslati ga na pregled platforme Vinted. Ako vaš artikl zaista ne ispunjava uvjete, naš bi ga tim mogao ukloniti ili sakriti. Mogli biste biti podložni i drugim koracima, kao što su obustavljanje ili blokiranje vašeg računa. Ako pošaljete poruke drugim članovima koji promiču prodaju artikala koji su dio popisa zabranjenih artikala mogli biste se suočiti sa sličnim koracima. Dodatne informacije potražite u našim Standardima zajednice dostupnim
 ovdje
 .
-Imajte na umu:
-ako predložite oglas koji krši naša Pravila kataloga i taj oglas moramo ukloniti ili sakriti, nećete moći dobiti povrat sredstava koje ste uložili u predlaganje tog artikla.
+Imajte na umu: ako istaknete oglas koji krši naša Pravila kataloga i taj oglas moramo ukloniti ili sakriti, nećete moći dobiti povrat sredstava koje ste uložili u isticanje tog artikla.
 OPĆENITA PRAVILA
 1. Općenito
 Ne možete oglasiti artikle koji premašuju ograničenja za dostavu
@@ -250,7 +222,7 @@ savjete za fotografije
 .
 Slike morate snimiti sami i s namjerom upotrebe fotografija na platformi Vinted.
 Ne smijete ih zamijeniti stock fotografijama, fotografijama iz oglasa ni slikama s vodenim žigom.
-Prva fotografija treba jasno predstavljati cijeli artikli ili cijelu grupu artikala (grupe artikala ne smiju biti prikazane kao kolaž, dopuštena je samo jedna slika). Sami možete odlučiti kako ćete prikazati artikl na ostalim fotografijama. Po oglasu je moguće prenijeti do 20 fotografija. Ne zaboravite prikazati sve artikle koji su dio grupe artikala kako bi članovi znali što kupuju.
+Prva fotografija treba jasno predstavljati cijeli artikli. Sami možete odlučiti kako ćete prikazati artikl na ostalim fotografijama. Napomena: Po oglasu je moguće prenijeti do 20 fotografija.
 Slike moraju prikazivati autentičnost artikla. Pogledajte
 naše savjete o toj temi
 .
@@ -269,7 +241,7 @@ Strogo je zabranjeno prenositi i prodavati artikle koji su reproducirani bez pri
 4. Komercijalne aktivnosti
 Pojedinačnim korisnicima ne dopuštamo
 oglašavanje artikala koji su namijenjeni prodaji u komercijalne svrhe.
-Da djelujete u komercijalne svrhe može se smatrati ako ispunjavate najmanje jedan od sljedećih kriterija (popis nije konačan
+Ako ispunjavate najmanje jedan od sljedećih kriterija može se smatrati da djelujete u komercijalne svrhe (popis nije konačan
 )
 :
 Izvršavate velike transakcije (uzimajući u obzir broj izvršenih transakcija i/ili iznos zarađenog prihoda).
@@ -284,7 +256,7 @@ Posjedujete pravni status koji vam omogućuje bavljenje komercijalnim prodajnim 
 Prodajete duplicirane oglase istog ručno izrađenog artikla Ili velik broj ručno izrađenih artikala.
 Djelujete u ime određenog trgovca ili preko druge osobe koja djeluje u njihovo ime i za njih te prima naknadu ili poticaj.
 Nudite usluge, kao što je izrada artikala po narudžbi, artikle za najam ili nudite pretplate na usluge.
-U oglasima upotrijebite slike s interneta ili stock fotografije.
+U oglasima koristite slike s interneta ili stock fotografije.
 Više informacija o komercijalnim aktivnostima možete pronaći
 ovdje
 .
@@ -294,12 +266,12 @@ sljedeće mjere
 :
 Ako je prijavljeni oglas potrebno izmijeniti,
 učinit ćemo ga nevidljivim u ormaru člana
-i članu poslati poruku u kojoj ćemo ga informirati o radnjama koje je potrebno poduzeti u roku od 24 sata. Ako član ne poduzme navedene radnje, artikl će ostati skriven.
+i članu poslati poruku u kojoj ćemo ga informirati o koracima koje je potrebno poduzeti u roku od 24 sata. Ako član ne poduzme navedene korake, artikl će ostati skriven.
 Ako prijavljeni oglas sadrži zabranjeni artikl,
 oglas ćemo ukloniti iz ormara člana
 i članu ćemo poslati poruku u kojoj ćemo ga informirati o razlogu uklanjanja.
 Ako član nastavi oglašavati zabranjene artikle, artikle za koje se čini da su komercijalne prirode te sve ostale artikle koji krše naše Uvjete i odredbe i/ili Pravila kataloga,
-njegov račun možemo obustaviti (npr. na razdoblje od 7 dana) ili ga čak trajno blokirati
+njegov račun možemo privremeno blokirati (npr. na razdoblje od 7 dana) ili ga čak trajno blokirati
 ovisno o ozbiljnosti kršenja pravila.
 Članu ćemo poslati poruku u kojoj ćemo ga o tome informirati. Dodatne informacije potražite u našim
 Uvjetima i odredbama
