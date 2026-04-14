@@ -287,8 +287,8 @@ melden
 .
 2. RICHTLINIEN FÜR PRO-VERKÄUFER
 Pro-Nutzer (im Folgenden "Pro-Verkäufer") sind auf der Website durch ein "Pro"-Tag neben ihrem Namen gekennzeichnet.
-a. ERLAUBTE ARTIKEL
-Folgende Artikel kannst du auf Vinted verkaufen:
+ERLAUBTE ARTIKEL
+Folgendes kannst du auf Vinted verkaufen:
 Kleidung, Schuhe und Accessoires für Damen, Herren und Kinder
 Spielzeug und Möbel für Kinder sowie Ausstattung für die Kinderbetreuung
 Haushaltswaren wie kleine Küchengeräte, Koch- und Backutensilien, Küchenwerkzeuge, Geschirr, Artikel für die Haushaltspflege, Textilien, Wohnaccessoires sowie saisonale und Festtags-Deko
@@ -296,157 +296,156 @@ Elektronikgeräte wie Kameras, Computer, Laptops, 3D-Drucker und Scanner, Tablet
 Unterhaltungsartikel wie Bücher, Magazine, Musik- und Video-Medienträger
 Hobby- und Sammlerartikel wie Brettspiele, Puzzles, Sammelkarten, Tabletop- und Miniaturspiele, Briefmarken, Erinnerungsstücke, Postkarten, Kunst- und Bastelbedarf, Münzen und Banknoten, Musikinstrumente und -ausrüstung, Aufbewahrung für Sammlerstücke und Gaming-Zubehör
 Sportausrüstung für Aktivitäten wie Radfahren, Fitness, Laufen und Yoga, Outdoor-, Wasser-, Team- oder Schlägersportarten, Golf, Reiten, Skateboarding, Boxen und Mixed Martial Arts, Freizeitsport und -spiele wie Boule und Darts sowie Wintersport
-Falls zu einem deiner Artikel eine Gebrauchsanweisung, ein Handbuch und/oder Sicherheitshinweise gehören, stelle bitte sicher, dass du diese deiner Sendung an den Käufer beilegst. Falls du dein elektronisches Gerät zusammen mit Zubehör gekauft hast, aber das Zubehör nicht mitverkaufen möchtest, solltest du dies klar in der Beschreibung angeben. Bedenke auch, dass dies den Preis des Artikels beeinflussen kann. Achte darauf, dass die von dir angebotenen elektronischen Geräte sicher in der Anwendung sind.
-Wir behalten uns das Recht vor, jederzeit neu zu bestimmen, welche Artikel auf Vinted hochgeladen werden dürfen und welche nicht.  Wenn wir feststellen, dass ein bestimmter Artikel gegen unsere Bedingungen verstößt oder ein Risiko für unsere Mitglieder darstellt, können wir diesen aus unserem Katalog entfernen – auch dann, wenn er nicht in der folgenden Liste aufgeführt ist.
-Zudem gilt: Bevor Artikel auf Vinted angeboten werden können, müssen bereits rechtmäßig in den Markt des Europäischen Wirtschaftsraums (EWR*) eingeführt worden sein (* EU-Mitgliedsstaaten, Island, Liechtenstein und Norwegen). Artikel können nicht erstmalig in den Markt des EWR eingeführt werden, indem sie auf Vinted hochgeladen werden. Das bedeutet, dass die auf Vinted angebotenen Artikel bereits rechtmäßig im EWR vermarktet oder zuvor rechtskonform von außerhalb (einschließlich des Vereinigten Königreichs) in den EWR importiert worden sein müssen. Die Artikel müssen im Einklang mit den geltenden EWR-Vorschriften stehen, um bei Vinted angeboten werden zu können.
+Das Hochladen einer kleinen Anzahl an einzigartigen handgefertigten Artikeln ist erlaubt, solange es nur gelegentlich passiert und die Artikel mit den Katalogregeln übereinstimmen.
+Falls zu einem deiner Artikel eine Gebrauchsanweisung, ein Handbuch und/oder Sicherheitshinweise gehören, stelle bitte sicher, dass du diese ebenfalls in die Sendung an den Käufer legst. Falls ein elektronisches Gerät, das du verkaufen möchtest, inklusive Zubehör gekauft wurde, du dieses aber nicht mit verkaufen möchtest, musst du das deutlich in der Beschreibung erwähnen. Bedenke auch, dass das den Preis des Angebots beeinflussen kann. Achte darauf, dass die von dir angebotenen elektronischen Geräte sicher in der Anwendung sind.
+Zudem gilt: Bevor Artikel auf Vinted angeboten werden können, müssen bereits rechtmäßig in den Markt des Europäischen Wirtschaftsraums (EWR*) eingeführt worden sein (* EU-Mitgliedsstaaten, Island, Liechtenstein und Norwegen). Artikel können nicht erstmals in den Markt des EWR eingeführt werden, indem sie auf Vinted hochgeladen werden. Das bedeutet, dass die auf Vinted angebotenen Artikel bereits rechtmäßig im EWR vermarktet oder zuvor rechtskonform von außerhalb (einschließlich des Vereinigten Königreichs) in den EWR importiert worden sein müssen. Die Artikel müssen im Einklang mit den geltenden EWR-Vorschriften stehen, um bei Vinted angeboten werden zu können.
+Wir behalten uns das Recht vor, neu festzulegen, welche Artikel auf Vinted hochgeladen werden dürfen und welche nicht. Sollten wir Artikel identifizieren, die gegen unsere Richtlinien verstoßen oder ein Risiko für unsere Mitglieder darstellen, können wir diese entfernen – auch wenn sie nicht in den folgenden Listen erscheinen.
 Hinweis:
 Im Gegensatz zu regulären Verkäufern ist es Pro-Verkäufern nicht erlaubt, Artikel aus der Kategorie Kosmetik anzubieten.
-b. VERBOTENE ARTIKEL
-Folgende Artikel kannst du nicht auf Vinted verkaufen:
-(Bitte beachte, dass die folgende Liste nicht vollständig ist und als Leitfaden dienen soll) :
-Illegale Artikel: Jegliche Waren oder Materialien, deren Besitz, Handel, Verkauf, Versand, Mitführung oder Herstellung laut geltender Gesetze, Regeln oder Vorschriften verboten ist.  Dazu gehören:
-Gefälschte Artikel
-Gefälschte Ersatzteile, Materialien und Zubehör, die zur Reparatur oder Veränderung von Originalartikeln verwendet werden
-Artikel, die die Rechte an geistigem Eigentum ihrer Inhaber verletzen würden
-Artikel, die Gewalt, Diskriminierung, Hass, Verbrechen, Terrorismus und terroristische Organisationen sowie sexuellen Missbrauch von Kindern fördern oder darstellen
+VERBOTENE ARTIKEL
+Folgende Artikel kannst du nicht auf Vinted verkaufen.
+(Bitte beachte, dass die folgende Liste nicht vollständig ist und der Orientierung dienen soll.)
+Illegale Artikel: Jegliche Waren oder Materialien, deren Besitz, Handel, Verkauf, Versand, Mitführung oder Herstellung laut geltenden Gesetze, Regeln oder Vorschriften verboten ist. Dazu gehören:
+Gefälschte Artikel.
+Gefälschte Ersatzteile, Materialien und Zubehör für die Reparatur oder Veränderung von authentischen Artikeln.
+Artikel, die das Recht an geistigem Eigentum Dritter verletzen.
+Handgefertigte Artikel, die Produkten anderer Marken ähneln und als Fälschung interpretiert werden könnten.
+Artikel, die Gewalt, Diskriminierung, Hass, Verbrechen, Terrorismus und terroristische Organisationen und/oder sexuellen Kindesmissbrauch beinhalten oder unterstützen.
 Hinweis:
-Spiele, Bücher und Filme, die die oben genannten verbotenen Inhalte enthalten können
-,
-sind in den Kategorien „Hobby- & Sammelartikel“ sowie „Elektronik“ erlaubt (die entsprechenden Einschränkungen dazu findest du unten)
-Reproduktionen jeglicher Währung und Artikel, die mit der Reproduktion von Währungen zusammenhängen
-Gestohlene Artikel
-Schusswaffen, Waffen und Sprengstoffe, Pfefferspray, Taser und ähnliche Artikel
+Spiele, Bücher und Filme, die diese verbotenen Inhalte enthalten können, sind in den Kategorien „Hobby- & Sammelartikel“ sowie „Elektronik“ erlaubt (die entsprechenden Einschränkungen dazu findest du unten).
+Jegliche Art von Währungsrepliken sowie Artikel, die im Zusammenhang mit der Herstellung von Währungen stehen.
+Gestohlene Artikel.
+Schusswaffen und andere Waffen, Sprengstoffe, Pfeffersprays, Taser und ähnliche Gegenstände.
 Hinweis
-: Verboten sind auch realistische Spielzeugwaffen (z. B. Airsoft- und Luftdruckwaffen)
-Drogen und Drogenutensilien, Zutaten für den Drogenanbau (z.B. Saatgut für Cannabispflanzen)
-Nazi- und faschistische Uniformen und Artikel mit nazistischen oder faschistischen Symbolen
-Offizielle Uniformen, Kennzeichen, Accessoires oder andere Objekte von Streitkräften, der Polizei oder anderer Notdienste sowie Kennzeichen und Namen internationaler humanitärer Hilfsorganisationen (separat oder auf Kleidungsstücken)
+: Auch realistisch erscheinende Spielzeugwaffen sind verboten (z. B. Softair- oder BB-Pistolen).
+Drogen und Drogenutensilien, Zutaten für den Drogenanbau (z. B. Saatgut für Cannabispflanzen).
+Nazi- und andere Faschisten-Uniformen sowie Artikel, die nazionalsozialistische oder andere faschistische Symbole zeigen.
+Offizielle Uniformen, Abzeichen, Accessoires und andere Objekte von Streitkräften, Polizei oder Rettungsdiensten, einschließlich Embleme der internationalen humanitären Hilfe und Namen (einzeln oder auf Kleidung), die eine verfassungswidrige oder terroristische Organisation identifizieren können.
 Hinweis 1
-: Vintage-Uniformen und -Zubehör sind erlaubt, wenn die Artikel mindestens 10 Jahre alt sind, in dieser Art nicht mehr genutzt werden und nicht aussehen wie eine aktuelle Uniform.
-Hinweis 2
-: Kostüme sind erlaubt.
-Artikel, die menschliche oder tierische Überreste oder Nebenprodukte des menschlichen Körpers enthalten
-Artikel, die (sonst) durch Gesetze oder Vorschriften verboten sind
-Beschränkte Artikel: Gegenstände,
-die entweder keine Kleidung sind
-, sich nicht im Zusammenhang mit Mode, Beauty, Accessoires, Kinder- und Haushaltswaren befinden oder schlicht nicht mit der Vision von Vinted übereinstimmen. Dazu gehören:
+: Karnevalskostüme und -Accessoires sind erlaubt, sofern sie nicht den offiziellen Uniformen und Accessoires gleichen.
+Hinweis 2:
+Der Verkauf von Uniformen, Abzeichen, Accessoires oder Kleidungsstücken, die mit einer verfassungswidrigen Organisation identifiziert werden können, ist in Deutschland verboten.
+Gegenstände, die Überreste von Mensch oder Tier oder Nebenprodukte des menschlichen Körpers enthalten.
+Artikel, die (anderweitig) durch Gesetze oder Verordnungen verboten sind.
+Eingeschränkte Artikel:
+Artikel, bei denen es sich nicht um Kleidung handelt; die nicht im Zusammenhang mit Mode, Beauty, Accessoires, Kindern, Haushaltswaren, Unterhaltung oder Elektronik stehen; die schlicht nicht mit unserer Vision übereinstimmen. Dazu gehören:
 Verschreibungspflichtige und nicht verschreibungspflichtige Arzneimittel und Medikamente, professionelles medizinisches Zubehör, Vitaminpräparate, Nahrungsergänzungsmittel und jegliche anderen Gesundheitsprodukte.
-Produkte, die unter die Definition für „veterinäre Medizinprodukte“ fallen (z.B. Flohshampoo, Vitamine, Medikamente u.Ä.).
-Medizinische Geräte und In-vitro-Diagnostika, z. B. (die Liste ist nicht erschöpfend):
+Produkte, die unter die Definition für „veterinäre Medizinprodukte“ fallen (z. B. Flohshampoo, Vitamine, Medikamente u. Ä.).
+Medizinische Geräte (inkl. funktionstüchtige implantierbare medizinische Geräte) und In-vitro-Diagnostikum
+Dazu zählen u. a.:
 Schwangerschafts-, Ovulations-, DNA-, Covid-19- und andere medizinische Tests
 Nadeln (Spritzen)
 Kontaktlinsen auf Rezept
 Laser und Geräte zur Lipolyse-Behandlung
 Plasma-Pens
 Gesichtssolarien
-Geräte für die Schmerzlinderung, z.B. TENS- und Elektrotherapiegeräte
-Ultraschallgeräte für fötale Herzschläge, Baby-Ultraschallgeräte, Atmungssensoren
+Geräte für die Schmerzlinderung, z. B. TENS- und Elektrotherapiegeräte
+Detektoren für den fetalen Herzschlag, Baby-Ultraschallgeräte, Atemsensoren
 Inhalationsgeräte
 Aerosol-Therapiegeräte
 Geräte für die Zahnentkalkung
 Einschlafhilfen
 Quecksilberthermometer
-Andere Produkte, die ein Rezept erfordern oder für ihre Verwendung die Anweisung oder Aufsicht durch medizinisches Fachpersonal benötigen, oder deren beabsichtigte Verwendung medizinischen Zwecken dient
-Hinweis:
-Bestimmte Produkte, die sich als medizinische Geräte qualifizieren können (z.B. Smartwatches oder intelligente Bänder mit integrierter medizinischer Software, die den Blutdruck oder den Sauerstoffgehalt im Blut messen und/oder EKG erstellen), sind erlaubt, sofern sie sich an gültige Gesetze halten und den folgenden Anforderungen entsprechen:
-1. Sie tragen das CE-Kennzeichen und die vierstellige Nummer der benannten Stelle (falls zutreffend, und sofern die Warenauszeichnung und die Gebrauchsanweisung in Landessprache verfasst sind).
-2. Ihr Gültigkeitsdatum ist nicht abgelaufen.
-3. Sie passen in eine der erlaubten Kategorien auf Vinted (z.B. „Unterhaltung“).
-4. Sie sind neu und werden in einer ungeöffneten (versiegelten) Verpackung verkauft.
-5. Sie werden nicht ausschließlich von medizinischem Fachpersonal vertrieben.
-6. Sie benötigen kein Rezept.
-7. Ihre Nutzung benötigt keine Assistenz durch Fachpersonal aus dem Gesundheitswesen.
+andere Produkte, die ein Rezept erfordern oder für ihre Verwendung die Anweisung oder Aufsicht durch medizinisches Fachpersonal benötigen, oder deren beabsichtigte Verwendung medizinischen Zwecken dient
+Hinweis 1:
+Bestimmte Produkte, die sich als medizinische Geräte qualifizieren können (z. B. Smartwatches oder intelligente Bänder mit integrierter medizinischer Software, die den Blutdruck oder den Sauerstoffgehalt im Blut messen und/oder EKG erstellen), sind erlaubt, sofern sie sich an geltende Gesetze halten und den folgenden Anforderungen entsprechen:
+Sie tragen das CE-Kennzeichen und die vierstellige Nummer der benannten Stelle (falls zutreffend, und sofern die Warenauszeichnung und die Gebrauchsanweisung in der Landessprache verfasst sind).
+Ihr Gültigkeitsdatum ist nicht abgelaufen.
+Sie passen in eine der erlaubten Kategorien auf Vinted (z. B. „Unterhaltung“ oder „Beauty-Tools“).
+Sie sind neu und werden in einer ungeöffneten (versiegelten) Verpackung verkauft.
+Sie werden nicht ausschließlich von medizinischem Fachpersonal vertrieben.
+Sie benötigen kein Rezept.
+Ihre Nutzung benötigt keine Assistenz durch Fachpersonal aus dem Gesundheitswesen.
 Hinweis 2:
 Bestimmte Elektronikgeräte, die für ästhetische Zwecke bestimmt sind und nicht als medizinische Geräte eingestuft werden, sind erlaubt.
-Tabakprodukte wie Zigaretten, Zigarren, Pfeifen oder E-Zigaretten, Vaporizer oder andere Vaping-Instrumente und Zubehör
-Proben, Tester oder Werbeprodukte, die nicht zum Verkauf bestimmt sind
-Münzen, Banknoten, Briefmarken und Wertpapiere, die als kulturelles Erbe betrachtet werden, sind verboten.
-Aktienzertifikate bzw. Anteilscheine, die derzeit als Finanzinstrumente genutzt werden und/oder auf dem Aktienmarkt aktiv gehandelt werden. Aktienzertifikate bzw. Anteilscheine, die personenbezogene Daten enthalten, sind streng verboten.
-Jede Art von Lebensmitteln (Essen und Getränke)
-Artikel, die Kreditdienste, Programme zum Geldverdienen und Glücksspiele propagieren
-Artikel für Erwachsene, z.B. Sex-Toys und Fetischprodukte, Pornographie (z.B. Bücher, in denen pornographische Inhalte dargestellt werden) sowie Artikel, die sexuelle Dienstleistungen propagieren oder Fetischprodukte zum Kauf anbieten
-Offizielle Arbeitsuniformen, z.B.
-Uniformen und Accessoires wie Hüte, Rucksäcke und Pins von Liefer- oder Versandanbietern
-Arbeitsuniformen-Sets, die Bekleidung und Zubehör umfassen
+Tabakprodukte wie Zigaretten, Zigarren, Pfeifen oder E-Zigaretten, Vaporizer oder andere Vaping-Instrumente und Zubehör.
+Proben, Tester oder Werbeprodukte, die nicht zum Verkauf bestimmt sind.
+Münzen, Banknoten, Briefmarken und Wertpapiere, die als kulturelles Erbe betrachtet werden, sind aus rechtlichen Gründen verboten.
+Aktienzertifikate bzw. Anteilscheine, die derzeit als Finanzinstrumente genutzt und/oder aktiv auf dem Aktienmarkt gehandelt werden. Aktienzertifikate bzw. Anteilscheine, die personenbezogene Daten enthalten, sind streng verboten.
+Jede Art von Lebensmitteln (Essen und Getränke).
+Artikel, die Kreditdienste, Programme zum Geldverdienen und Glücksspiele bewerben.
+Artikel für Erwachsene, z. B. Sex-Toys und Fetischprodukte, Pornographie (wie Bücher, in denen pornographische Inhalte dargestellt werden) sowie Artikel, die sexuelle Dienstleistungen propagieren oder Fetischprodukte zum Kauf anbieten.
+Offizielle Arbeitsuniformen, z. B.
+Uniformen und Accessoires wie Hüte, Rucksäcke und Abzeichen von Liefer- oder Versandanbietern
+Arbeitsuniformen-Sets mit Bekleidung und Zubehör
 Hinweis
-: Vintage-Arbeitsuniformen sind erlaubt, wenn sie in ihrer Art nicht länger genutzt werden und nicht wie eine aktuell verwendete Arbeitsuniform aussehen.
-Artikel, die Organisationen repräsentieren oder propagieren, die Gewalt, Diskriminierung, Hass und Kriminalität unterstützen.  z.B. Gruppen aus der Nazi- oder Neonazi- und Faschismus- oder Neofaschismus-Szene
-Tierfelle und Artikel mit/aus Tierfellen
-sowie andere tierische Produkte,
-wie etwa natürliche Panzer und Muscheln, Elfenbein oder Artikel mit/aus exotischen Häuten wie die von Strauß, Karakul, Kamel oder Reptilien, sowie alle anderen Artikel, die Produkte enthalten, die durch internationale Abkommen zur Beschränkung des Handels mit gefährdeten Pflanzen und Tieren verboten sind
-.
+: Vintage-Arbeitsuniformen sind erlaubt, wenn sie in ihrer Art nicht mehr genutzt werden und nicht wie eine aktuell verwendete Arbeitsuniform aussehen.
+Artikel, die Organisationen repräsentieren oder propagieren, die Gewalt, Diskriminierung, Hass und Kriminalität unterstützen, z. B. Gruppen aus der Nazi- oder Neonazi- und Faschismus- oder Neofaschismus-Szene.
+Tierfelle und Artikel mit/aus Tierfellen sowie andere tierische Produkte, wie natürliche Panzer und Muscheln, Elfenbein oder Artikel mit/aus exotischen Häuten wie die von Strauß, Karakul, Kamel oder Reptilien, sowie alle anderen Artikel, die Produkte enthalten, die durch internationale Abkommen zur Beschränkung des Handels mit gefährdeten Pflanzen und Tieren verboten sind.
 Hinweis
 : Artikel aus Leder, geschorener Schafwolle, Kaschmir und Mohair sind erlaubt.
 Artikel, die vom Verkäufer selbst hergestellt wurden.
 Lebende (Haus-)Tiere und Pflanzen.
-Streu, Holzspäne, Papierpellets und ähnliche Produkte für Haustiere
-Signierte (oder ähnliche) Artikel ohne vertrauenswürdiges Authentizitätszertifikat
-Einige elektronische Geräte und technisches Zubehör sind bei Vinted nicht zugelassen. Dazu gehören unter anderem: Fellpflege-Geräte, Kameras und Monitore für Haustiere, elektronische Ausstattung für Aquarien und Terrarien, Softwareschlüssel, Film-/Fernsehkameras, Laserpointer der Klasse 2 oder höher, Waschmaschinen, Geschirrspüler, Bügeleisen und Staubsauger, tragbare Ventilatoren usw.
-Durch Jailbreaking oder Rooting modifizierte Elektronikgeräte, die die Sicherheitsbeschränkungen des Herstellers umgehen und das Herunterladen von Apps oder Erweiterungen ermöglichen, die nicht in den offiziellen Apple oder Google Play Stores angeboten werden.
+Streu, Holzspäne, Papierpellets und ähnliche Produkte für Haustiere.
+Signierte (oder ähnliche) Artikel ohne vertrauenswürdiges Authentizitätszertifikat.
+Bestimmte elektronische Geräte und technisches Zubehör, z. B. Fellpflege-Geräte, Kameras und Monitore für Haustiere, elektronische Ausstattung für Aquarien und Terrarien, Softwareschlüssel, Film-/Fernsehkameras, Laserpointer der Klasse 2 oder höher, Waschmaschinen, Geschirrspüler.
+Durch Jailbreaking oder Rooting modifizierte Elektronikgeräte, die die Sicherheitsbeschränkungen des Herstellers umgehen und das Herunterladen von Apps oder Erweiterungen ermöglichen, die nicht in den offiziellen Stores von Apple oder Google angeboten werden.
 Geräte mit Batterien mit mehr als 100 Wattstunden (Wh).
 SIM-Karten.
 Geräte mit Financial Blocking oder die auf der grauen Liste stehen.
-Geräte, die auf der schwarzen Liste der GSMA stehen, die von einem Versanddienst auf die schwarze Liste gesetzt wurden, weil die Artikel verloren gegangen, gestohlen oder nicht vollständig bezahlt wurden
-Gesperrte Mobiltelefone (auch solche mit Aktivierungssperre), die gesperrt sind, weil der Verkäufer keinen Zugriff auf das verbundene Benutzerkonto, die PIN oder die biometrischen Login-Daten hat, oder weil der Besitzer das Handy als verloren oder gestohlen gemeldet hat, zum Beispiel über seinen Apple- oder Google-Account
-Ausstattung wie Tattoo- und Piercing-Maschinen, Solarien und Massageliegen
-Schutzausrüstung (wie etwa Fahrradhelme, Klettergurte oder Schutzbrillen), die nicht mehr vollständig funktionsfähig ist und deren Schutzwirkung beeinträchtigt ist oder die nicht mehr den geltenden Sicherheitsstandards und gesetzlichen Vorgaben entspricht.
-Fahrräder aller Art, wie z. B. Stadt- und Rennräder oder Mountain- und E-Bikes.
+Geräte, die auf der schwarzen Liste der GSMA stehen, die also von einem Versanddienst auf die schwarze Liste gesetzt wurden, weil die Artikel verloren gegangen, gestohlen oder nicht vollständig bezahlt wurden.
+Gesperrte Mobiltelefone (auch solche mit Aktivierungssperre), die gesperrt sind, weil der Verkäufer keinen Zugriff auf das verbundene Benutzerkonto, die PIN oder die biometrischen Login-Daten hat, oder weil der Besitzer das Handy als verloren oder gestohlen gemeldet hat, zum Beispiel über seinen Apple- oder Google-Account.
+Ausstattung wie Tattoo- und Piercing-Maschinen, Solarien und Massageliegen.
+Schutzausrüstung (wie Fahrradhelme, Klettergurte oder Schutzbrillen), die nicht mehr vollständig funktionsfähig ist und deren Schutzwirkung beeinträchtigt ist oder die nicht mehr den geltenden Sicherheitsstandards und gesetzlichen Vorgaben entspricht.
+Fahrräder aller Art, z. B. Stadt- und Rennräder oder Mountain- und E-Bikes.
 Möbel für Erwachsene (z. B. Tische und Stühle) und Teile von Möbeln.
-Echte Pflanzen, zum Beispiel Blumen.
-Matratzen, Topper und Tagesdecken (außer für Kinderbetten)
+Matratzen, Topper und Tagesdecken (nur erlaubt in der Kategorie „Kinder“).
 Hinweis 1
 : Betten und Decken für Haustiere sind unter der Kategorie „Haustierbedarf“ erlaubt.
 Hinweis 2
 : Matratzenauflagen für Kinderbetten dürfen nur neu verkauft werden – das Originaletikett muss zu sehen sein.
-Folgende Messer sind verboten: Sämtliche Messer mit spitzer, scharfer Klinge, unabhängig von Größe oder Verwendungszweck (auch Küchenmesser). Spezialmesser wie Brot-, Steak- oder Fleischmesser, unabhängig von Größe oder Verwendungszweck. Stoffscheren, Rollschneider, Bastelscheren, Wurfmesser, Stiletto-/Springmesser, Drop-Point-Messer, Butterflymesser, Klappmesser, Taschenmesser, runde Wurfmesser, versteckte Messer (z. B. nicht erkennbare Kunststoffmesser), Messer, die wie ein anderer Gegenstand aussehen (z. B. Kreditkartenmesser), Survival-Messer (z. B. Macheten, Zombie-Messer),
-Schwerter
-, Kettensägen, Äxte, Sägen mit Griff und länglicher Klinge, die einem Messer ähnlich sehen, Sammler-, Requisiten- und historische Messer (auch wenn sie als Dekorationsartikel angeboten werden), sofern sie mit einer scharfen und/oder spitzen Klinge versehen sind, zwei- und einschneidige Rasierklingen, Rasiermesser, Bestecksets, die eines der oben genannten Messer enthalten.
+Bestimmte Messer und Klingen: sämtliche Messer mit spitzer, scharfer Klinge, unabhängig von Größe oder Verwendungszweck (auch Küchenmesser). Spezialmesser wie Brot-, Steak- oder Fleischmesser, unabhängig von Größe oder Verwendungszweck. Stoffscheren, Rollschneider, Bastelscheren, Wurfmesser, Stiletto-/Springmesser, Drop-Point-Messer, Butterfly-Messer, Klappmesser, Taschenmesser, runde Wurfmesser, versteckte Messer (z. B. nicht erkennbare Kunststoffmesser), Messer, die wie ein anderer Gegenstand aussehen (z. B. Kreditkartenmesser), Survival-Messer (z. B. Macheten oder Zombie-Messer), Schwerter, Kettensägen, Äxte, Sägen mit Griff und länglicher Klinge, die einem Messer ähnlich sehen, Sammler-, Requisiten- und historische Messer (auch wenn sie als Dekorationsartikel angeboten werden), sofern sie mit einer scharfen und/oder spitzen Klinge versehen sind, zwei- und einschneidige Rasierklingen, Rasiermesser sowie Bestecksets, die eines der oben genannten Messer enthalten.
 Hinweis 1:
 Systemrasierer und Elektrorasierer in neuem Zustand sind erlaubt, wenn sie in ihrer versiegelten Originalverpackung verkauft werden.
 Hinweis 2:
-Tafelmesser mit stumpfer Klinge und abgerundeter Spitze, wie z. B. Buttermesser, sind erlaubt.
-Gebrauchte Wasserfiltereinsätze/-kartuschen (ganze Filter oder Ersatzteile). Hinweis: Aus hygienischen Gründen können nur neue Wasserfiltereinsätze/-kartuschen (ganze Filter oder Ersatzteile) verkauft werden.
-Einweg-Plastikartikel (z. B. bestimmtes Geschirr, Tassen, Strohhalme, Konfetti, Ballons, aufblasbare Deko usw.).
+Tafelmesser mit stumpfer Klinge und abgerundeter Spitze, z. B. Buttermesser, sind erlaubt.
+Gebrauchte Einsätze und Kartuschen für Wasserfilter (ganze Filter oder Ersatzteile).
+Hinweis
+: Aus hygienischen Gründen dürfen Einsätze und Kartuschen für Wasserfilter (ganze Filter oder Ersatzteile) nur im neuen Zustand verkauft werden.
+Einweg-Plastikartikel, z. B. entsprechendes Geschirr, Tassen, Strohhalme, Konfetti, Ballons und aufblasbare Deko.
 Hinweis
 : Konfetti, das nicht aus Plastik besteht, sowie unbenutztes Geschirr und unbenutzte Papier-Tischdecken sind in der Unterkategorie „Feiertage & Feste“ erlaubt.
-Digitale E-Books und Hörbücher
 HLK-Anlagen (Heizung, Lüftung und Klimaanlagen), fest installierte / nicht bewegliche Geräte oder wandmontierte Klimaanlagen.
-Hinweis: Tragbare Klimaanlagen und Luftkühler sowie Fensterklimageräte sind erlaubt.
-Adventskalender, Überraschungskisten und -tüten
-Veranstaltungstickets, Geschenkkarten, Rabattcodes und Abonnements
-Videospiele mit Lootboxen
-Artikel mit Altersfreigabe (wie z.B. Videospiele), bei denen das nötige Etikett für die Altersbeschränkung fehlt
-Artikel, die aufgrund der Art ihres Inhalts einer länderspezifischen Zensur oder anderen Beschränkungen unterliegen
-Spiele, Coupons und Schlüssel in digitaler Form
+Hinweis:
+Tragbare Klimaanlagen und Luftkühler sowie Fensterklimageräte sind erlaubt.
+Digitale E-Books und Hörbücher.
+Adventskalender sowie Überraschungsboxen und -tüten.
+Veranstaltungstickets, Geschenkkarten, Rabattcodes und Abonnements.
+Videospiele mit Lootboxen.
+Artikel mit Altersfreigabe (z. B. Videospiele), bei denen das nötige Etikett für die Altersbeschränkung fehlt.
+Artikel, die aufgrund der Art ihres Inhalts einer länderspezifischen Zensur oder anderen Beschränkungen unterliegen.
+Spiele, Coupons und Schlüssel in digitaler Form.
 Bewertete Karten ohne Echtheitszertifikate.
-Industrielle Werkzeuge und Maschinen, die normalerweise in der Industrie und in Fabriken (von Fachleuten) verwendet werden.
-Artikel, die derart verändert, überholt oder erneuert wurden, dass man nicht mehr behaupten kann, es wäre dasselbe Produkt, das der Hersteller ursprünglich in Umlauf gebracht hat (in Bezug auf seine Eigenschaften, die Qualität oder das Sicherheitslevel)
+Industrielle Werkzeuge und Maschinen, die normalerweise nur von Fachleuten in der Industrie und in Fabriken verwendet werden.
+Artikel, die derart verändert, überholt oder erneuert wurden, dass man nicht mehr behaupten kann, es wäre dasselbe Produkt, das der Hersteller ursprünglich in Umlauf gebracht hat (in Bezug auf seine Eigenschaften, die Qualität oder das Sicherheitslevel).
 Unsichere Artikel: Artikel, die nicht unseren Hygienestandards entsprechen oder ein Gesundheits- oder Sicherheitsrisiko darstellen können. Dazu gehören:
-Getragene Unterwäsche, handgefertigte Unterhosen, kurze Hosen, die als Unterwäsche getragen werden (z.B. Schlafshorts), Korsetts, Body Shaper und Shapewear mit Hosenteil, Sportunterwäsche mit Schutzfunktion.
+Getragene Unterwäsche, handgefertigte Unterhosen, kurze Hosen, die als Unterwäsche getragen werden (z. B. Schlafshorts), Korsetts, Body Shaper und Shapewear mit Hosenteil sowie Sportunterwäsche mit Schutzfunktion.
 Hinweis 1
-: Unterwäsche und Windeln dürfen aus hygienischen Gründen ausschließlich neu verkauft werden. Alle befestigten Etiketten und/oder die Originalverpackung müssen deutlich auf den Fotos zu sehen sein. Materiallabel und innen angebrachte Markenlabel gelten nicht als Etikett.
+: Unterwäsche aus hygienischen Gründen ausschließlich neu verkauft werden. Alle befestigten Etiketten und/oder die Originalverpackung müssen deutlich auf den Fotos zu sehen sein. Material-Label und innen angebrachte Marken-Label gelten nicht als Etikett.
 Hinweis 2
-: Getragene BHs, Badeanzüge, Strumpfhosen und Socken dürfen verkauft werden, solange sie ordnungsgemäß gewaschen sind und in der Beschreibung eindeutig angegeben ist, dass sie bereits getragen wurden. Du darfst nur neue (wiederverwendbare) Schwimmwindeln verkaufen. Die Originalverpackung und/oder die angehängten Etiketten müssen auf den Artikelbildern deutlich zu sehen sein.
-Alle Farben, Lacke, Lasuren, Beizmittel, Grundierungen, Dichtungsmittel, Farbverdünner, Tinten und Tintennachfüllungen, Kerzendüfte sowie Keramik- und Töpferglasuren, die bereits benutzt wurden. Derartige Artikel dürfen ausschließlich neu und in ihrer versiegelten Originalverpackung verkauft werden. Diese Verpackungssiegel dürfen nicht beschädigt oder entfernt werden. Wir empfehlen dir außerdem, Bilder hochzuladen, die relevante Informationen zum Artikel zeigen (wie zum Beispiel Angaben zur Verpackung, Zusammensetzung, dem Barcode oder dem Verfallsdatum).
-Hinweis
-: Es ist streng verboten, Farbe, Lack, Beizmittel oder ähnliche Artikel zu verkaufen, wenn diese gebraucht oder abgelaufen sind.
-Hygieneartikel wie Tampons, Menstruationstassen und ähnliche Artikel
-Hinweis
-: Produkte für die Schwangerschaftsnachsorge (Wochenbettbinden, Bettschutzeinlagen usw.) dürfen aus hygienischen Gründen ausschließlich neu verkauft werden. Die Originalverpackung und/oder die angehängten Etiketten müssen auf den Artikelbildern deutlich zu sehen sein. Innenliegende Etiketten mit Marken- und Materialangaben sind hierbei nicht ausreichend.
-Gebrauchte Zungen-, Augenbrauen-, Nasen-, Lippen- oder Intim-Piercings
-Alle Gebrauchtteile von Elektronikgeräten für Hygienezwecke, wie z. B. die Köpfe von elektrischen Zahnbürsten oder die Rasierer/Trimmer von Haarentfernungsgeräten. Solche Artikel müssen neuwertig sein und in ihrer versiegelten Originalverpackung verkauft werden.
-Elektroschock-, Würge-, Quetsch-, Stachelhalsbänder für Haustiere
+: Getragene BHs, Badeanzüge, Strumpfhosen und Socken dürfen verkauft werden, solange sie ordnungsgemäß gewaschen wurden und in der Beschreibung eindeutig angegeben ist, dass sie bereits getragen wurden. (Wiederverwendbare) Schwimmwindeln dürfen nur neu verkauft werden. Die Originalverpackung und/oder die angehängten Etiketten müssen auf den Artikelbildern deutlich zu sehen sein.
+Alle Farben, Lacke, Lasuren, Beizmittel, Grundierungen, Dichtungsmittel, Farbverdünner, Tinten und Nachfüller, Kerzendüfte sowie Keramik- und Töpferglasuren, die bereits benutzt wurden. Derartige Artikel dürfen ausschließlich neu und in ihrer versiegelten Originalverpackung verkauft werden. Diese Verpackungssiegel dürfen nicht beschädigt oder entfernt werden. Wir empfehlen außerdem, Bilder hochzuladen, die relevante Informationen zum Artikel zeigen (wie zum Beispiel Angaben zur Verpackung, Zusammensetzung, den Barcode oder das Verfallsdatum).
+Note:
+Es ist streng verboten, Farben, Beizmittel, Färbemittel oder verwandte Produkte anzubieten, die bereits genutzt wurden oder abgelaufen sind.
+Verschiedene handgemachte Artikel aus den Kategorien Kosmetik, Beauty-Produkte, Elektronik, Sportartikel, Möbel, elektronische Haushaltsgeräte und Werkzeuge sowie Kinderspielzeug und Deko, Schulzubehör, Kinderwagen, Baden und Umziehen, Kindersicherung,  Gesundheit und Schwangerschaft und Stillen und Füttern. Außerdem alle handgefertigten Artikel, die unter eine der verbotenen Artikelkategorien fallen.
+Binden, Tampons, Menstruationstassen und ähnliche Artikel.
+Hinweis:
+Produkte für die Schwangerschaftsnachsorge (Wochenbettbinden, Bettschutzeinlagen usw.) dürfen aus hygienischen Gründen nur neu verkauft werden. Die Originalverpackung und/oder die angehängten Etiketten müssen auf den Artikelbildern deutlich zu sehen sein. Marken- und Material-Labels sind nicht ausreichend.
+Gebrauchte Zungen-, Augenbrauen-, Nasen-, Lippen- oder Intimschmuck.
+Alle Gebrauchtteile von für hygienische Zwecke genutzte Elektronikgeräte, z. B. die Köpfe von elektrischen Zahnbürsten oder die Rasierer/Trimmer von Haarentfernungsgeräten. Solche Artikel müssen neuwertig sein und in ihrer versiegelten Originalverpackung verkauft werden.
+Elektroschock-, Würge-, Quetsch-, Stachelhalsbänder für Haustiere. Netze und Fallen für den Vogelfang oder das Aquarium.
 Netze und Fallen für den Vogelfang, Aquarium
-Reinigungs- und Waschmittel, Haushaltschemikalien sowie ähnliche Produkte (etwa in flüssiger, pulverförmiger, pastöser, stückiger oder sonstiger Form, die chemische Substanzen enthalten (ausgenommen Bastelmaterialien)).
-Hinweis
-: Produkte wie unbenutzte Farben, Lacke, Tinten oder Kerzendüfte können als „Neu ohne Etikett“ angeboten werden.
+Reinigungs- und Waschmittel, Haushaltschemikalien sowie ähnliche Produkte (etwa in flüssiger, pulverförmiger, pastöser, stückiger oder sonstiger Form, die chemische Substanzen enthalten (ausgenommen Kosmetika und Bastelmaterialien)).
+Hinweis 1
+: Unbenutzte ätherische Öle, die als Kosmetika verwendet werden, dürfen im Zustand „Neu mit Etikett“ verkauft werden.
+Hinweis 2
+: Produkte wie unbenutzte Farben, Lacke, Tinten oder Kerzendüfte dürfen im Zustand „Neu mit Etikett“ verkauft werden.
 Kälte- (FCKW und HFKW) und Kühlmittel für Klimaanlagen.
-Geräte zur gezielten Beeinträchtigung von Radarsystemen und/oder Frequenzen
-Zurückgerufene Produkte (Artikel, die aus Sicherheits- oder anderen Gründen vom Hersteller oder öffentlichen Behörden in der
+Geräte zur gezielten Beeinträchtigung von Radarsystemen und/oder Frequenzen.
+Zurückgerufene Produkte. Artikel, die aus Sicherheits- oder Non-Compliance-Gründen zurückgerufen wurden oder anderweitig vom Hersteller, Regulatoren oder anderen öffentlichen Behörden des Landes oder der
 EU
-oder national zurückgerufen wurden)
-Gefährliche Substanzen, die als brennbar und toxisch eingestuft sind,
-einschließlich Gasflaschen, die für Outdoor- und Freizeitaktivitäten verwendet werden.
+als unsicher eingestuft wurden.
+Gefährliche Substanzen, die als brennbar und toxisch eingestuft sind, einschließlich Gasflaschen, die für Outdoor- und Freizeitaktivitäten verwendet werden.
 Elektronische Geräte mit aufgeblähtem Akku.
 Alle gebrauchten oder abgelaufenen Batterien, Powerbanks, Speicherkarten oder leere Medien wie CDs, DVDs, Blue Ray-Discs oder USB-Sticks. Solche Artikel müssen neuwertig sein und in der versiegelten Originalverpackung verkauft werden.
 Hinweis
@@ -454,34 +453,35 @@ Hinweis
 Private Mobilfunkgeräte (Walkie-Talkies), die eine Sendeleistung von mehr als 0,5 Watt aufweisen oder außerhalb des PMR446-Frequenzbandes betrieben werden.
 Gebrauchte Kabelbinder, Maurerpinsel, Farbpinsel, Farbrollerabdeckungen und Malerband.
 Hinweis
-: Diese Artikel sind nur im neuen Zustand erlaubt.
-Gebrauchte Schutzausrüstung wie Gesichtsschutz, Schutzhelme, Gehörschutz, Schutzbrillen, Sicherheitsgurte und Arbeitshandschuhe.
+: Diese Artikel dürfen nur im Zustand „Neu mit Etikett“ verkauft werden.
+Bestimmte Arten von gebrauchtem Werkzeugzubehör, z. B. Polierscheiben, Bohrer, Glas- und Fliesenbits, Mauerwerks-, Metall- und Holzbits, Lochsägen, Aufsätze für oszillierende Werkzeuge, Aufsätze für rotierende Werkzeuge, Fräserbits, Sandpapierscheiben und -blätter, Sägeblätter, Schraubendreherbits sowie Räder und Scheiben.
 Hinweis
-: Diese Artikel sind nur im Zustand „Neu mit Etikett“ erlaubt.
-Bestimmte Arten von gebrauchtem Werkzeugzubehör wie Polierscheiben, Bohrer, Glas- und Fliesenbits, Mauerwerks-, Metall- und Holzbits, Lochsägen, Aufsätze für oszillierende Werkzeuge, Aufsätze für rotierende Werkzeuge, Fräserbits, Sandpapierscheiben und -blätter, Sägeblätter, Schraubendreherbits, Räder und Scheiben.
+: Diese Artikel dürfen nur im Zustand „Neu mit Etikett“ verkauft werden.
+Gebrauchte Koch- und Grill-Utensilien für draußen, z. B. Grillroste, Holzkohle und Pellets, Tropfschalen, Flavorizer Bars, Räucherchips, Grillbürsten und -schaber sowie Grillbretter.
 Hinweis
-: Diese Artikel sind nur im Zustand „Neu mit Etikett“ erlaubt.
-Gebrauchte Koch- und Grill-Utensilien für draußen, z. B. Grillroste und -roste, Holzkohle und Pellets, Tropfschalen, Flavorizer Bars, Räucherchips, Grillbürsten und -schaber und Grillbretter.
+: Diese Artikel dürfen nur im Zustand „Neu mit Etikett“ verkauft werden.
+Gebrauchte Schutzausrüstung für Kopf und Gesicht, z. B. Schutzhelme, Schutzbrillen, Gesichts-Visoren und Reiterhelme) sowie Kletter-/Sicherheitsgurte, auch wenn sie für den Sport oder die Arbeit gebraucht werden.
 Hinweis
-: Diese Artikel sind nur im neuen Zustand erlaubt.
-Bitte stelle beim Hochladen auf Vinted immer sicher, dass deine Artikel mit unseren Katalogregeln übereinstimmen. Tun sie das nicht, könnten andere Mitglieder diese Artikel melden, woraufhin wir sie überprüfen müssen.  Sollte sich herausstellen, dass sie tatsächlich gegen unsere Regeln verstoßen, werden sie von uns entfernt oder versteckt. Das kann weitere Konsequenzen nach sich ziehen, z.B. die Sperrung deines Accounts. Wenn du Nachrichten an andere Mitglieder schickst, in denen du den Verkauf von verbotenen Artikeln bewirbst, kann das ähnliche negative Folgen haben. Weitere Informationen dazu findest du in unseren
+: Diese Artikel dürfen nur im Zustand „Neu mit Etikett“ verkauft werden.
+Bitte stelle beim Hochladen auf Vinted immer sicher, dass deine Artikel mit unseren Katalogregeln übereinstimmen. Tun sie das nicht, könnten andere Mitglieder diese Artikel melden, woraufhin wir sie überprüfen müssen. Sollte sich herausstellen, dass sie tatsächlich gegen unsere Regeln verstoßen, werden sie von uns entfernt oder versteckt. Das kann weitere Konsequenzen nach sich ziehen, z. B. die Sperrung deines Accounts. Wenn du Nachrichten an andere Mitglieder schickst, in denen du den Verkauf von verbotenen Artikeln bewirbst, kann das ähnliche Folgen haben. Weitere Informationen dazu findest du in unseren
 Community-Standards
 .
 Bitte beachte:
-Dir werden die Kosten für ein bezahltes Feature nicht erstattet, wenn wir deinen beworbenen Artikel entfernen oder verstecken mussten, weil er gegen unsere Katalogregeln verstößt.
+Dir werden die Kosten für ein bezahltes Feature nicht zurückerstattet, wenn wir deinen beworbenen Artikel entfernen oder verstecken mussten, weil er gegen unsere Katalogregeln verstößt.
 ALLGEMEINE REGELN
 1. Allgemeines
 Du kannst keine Artikel versenden, die
-diese
-von den Versandanbietern festgelegten Limits überschreiten.
-Jeder Artikel soll separat und in der zutreffenden Kategorie (und nach Möglichkeit mit der Angabe der passenden Marke) hochgeladen werden.
-Jeder Artikel darf nur einmal hochgeladen werden.
+die von Versandanbietern festgelegten Limits
+überschreiten.
+Jeder Artikel soll separat in der entsprechenden Kategorie (und falls zutreffend mit der Angabe der passenden Marke) hochgeladen werden (außer bei  Sets).
+Jeder Artikel darf nur ein Mal hochgeladen werden.
 Bei jedem Angebot ist der
 tatsächliche Zustand des Artikels
-anzugeben. Defekte, Veränderungen oder fehlende Teile solltest du ggf. in der Artikelbeschreibung erwähnen.
-Beim Hochladen eines Artikels kannst du bis zu 3 Materialien auswählen.  Die detaillierte Beschreibung sollte ggf. auch Informationen zu den weiteren Materialien beinhalten, aus denen der Artikel besteht (neben den 3 wichtigsten, die bereits beim Hochladen ausgewählt wurden).
-Es ist nicht erlaubt, Artikel anzubieten, die (noch) nicht erhältlich sind oder bereits verkauft wurden. Du darfst auch keine Artikel hochladen, um nach ihnen zu suchen, statt sie zu verkaufen. Es ist ebenfalls nicht erlaubt, einen Artikel zu verkaufen, der eigentlich nicht existiert (z.B. zum Zweck des Trollens).
-Lies nach,
+anzugeben. Defekte, Veränderungen oder fehlende Teile musst du ggf. in der Artikelbeschreibung erwähnen.
+Beim Hochladen eines Artikels kannst du bis zu 3 Materialien auswählen. Die detaillierte Beschreibung sollte ggf. auch Informationen zu den weiteren Materialien enthalten, aus denen der Artikel besteht.
+Im Titel und/oder in der Beschreibung muss ggf. darauf hingewiesen werden, falls es sich bei deinem Angebot um ein Set aus mehreren Artikeln handelt. Jedes dieser Angebote muss den Preis für alle im Set enthaltenen Artikel anzeigen. Artikel, die bereits in einem Set enthalten sind, können nicht noch einmal separat hochgeladen werden. Bei Elektronikgeräten sind maximal 2 Geräte mit einer Batterie in einem Set erlaubt. Im Feld „Marke“ kannst du den Markennamen eines beliebigen Artikels aus deinem Set angeben.
+Weder in Angeboten noch auf Profilseiten darf auf externe Websites oder andere Online-Plattformen verwiesen werden. Auch das Verlinken ist nicht erlaubt. Links oder Verweise auf illegale Inhalte, Inhalte für Erwachsene, Hassrede oder jede Art von Verhalten, das gegen unsere Katalogregeln verstößt, sind strikt verboten und können zu einer Account-Sperre führen. Ausnahme: Auch, wenn wir aus Datenschutzgründen davon abraten, kannst du dein Social-Madia-Profil verlinken, sofern es nich mit kommerziellen Aktivitäten oder Inhalten, die gegen unsere Katalogregeln verstoßen, im Zusammenahng steht.
+Es ist nicht erlaubt, Artikel anzubieten, die (noch) nicht erhältlich sind oder bereits verkauft wurden. Du darfst auch keine Artikel hochladen, um nach ihnen zu suchen, statt sie zu verkaufen. Es ist ebenfalls nicht erlaubt, einen Artikel zu verkaufen, der eigentlich nicht existiert (z. B. zum Zweck des Trollens). Lies nach,
 wann und warum wir Angebote verstecken/entfernen
 .
 Das Anbieten von Dienstleistungen ist nicht erlaubt. Dazu zählen z. B.:
@@ -494,56 +494,56 @@ Der Warenwert eines auf Vinted angebotenen Artikels darf den Maximalbetrag von 3
 Alle Angebote und Beiträge, die auf Auktions- oder Bietaktivitäten hindeuten, sind nicht zulässig. Sollte der Preis für einen Artikel ungewöhnlich niedrig oder hoch sein und nicht dem tatsächlichen Warenwert entsprechen, kann dein Angebot als Auktion angesehen werden. Informiere dich darüber, wie du einen
 angemessenen Preis für deine Artikel
 festlegen kannst.
+Zulässige elektronische Produkte mit Steckdosenanschluss sowie batteriebetriebene Produkte, die Wärme übertragen, dürfen keinerlei Materialschäden (z. B. ausgefranste oder lose Kabel) aufweisen.
 Personenbezogene Daten und persönliche Accounts müssen von elektronischen Geräten entfernt bzw. entkoppelt werden. Alle Geräte müssen vor dem Versand auf ihre ursprünglichen Werkseinstellungen zurückgesetzt, komplett ausgeschaltet und ggf. abgemeldet (z. B. Drohnen) werden. Alle persönlichen Gegenstände wie SIM-Karten oder Ähnliches sind aus den angebotenen Artikeln zu entfernen.
 2. Anforderungen an die Artikelfotos
-Die Fotos der Artikel für deine Angebote auf Vinted sollten folgende Bedingungen erfüllen:
-Sie müssen den Artikel so darstellen, wie er ist – ohne dass sie nachbearbeitet wurden. Wir empfehlen, ggf. alle Defekte, Kratzer, Gebrauchsspuren etc. abzubilden.
-Sie müssen scharf und klar sein. Schau dir unseren
+Die Fotos der Artikel für deine Angebote auf Vinted sollen:
+den Artikel so darstellen, wie er ist – ohne dass sie nachbearbeitet wurden. Wir empfehlen auch, alle Defekte, Kratzer, Gebrauchsspuren etc. abzubilden, sofern zutreffend.
+scharf und klar sein. Lies dir dazu unseren
 Foto-Guide
-durch
-Sie müssen von dir selbst aufgenommen werden – für die Nutzung bei Vinted
-Sie dürfen nicht durch Stock- oder Werbefotos ersetzt werden und sollten keine Wasserzeichen enthalten
-Auf dem ersten Foto sollte dein Artikel vollständig zu sehen sein. Auf welche Weise du deine(n) Artikel in den weiteren Fotos darstellst, ist dir selbst überlassen.  Hinweis: Pro Angebot kannst du bis zu 20 Bilder hochladen
-Sie müssen möglichst deutlich zeigen, dass der Artikel authentisch ist. Lies nach,
+durch.
+von dir selbst aufgenommen werden – für den Upload auf Vinted.
+nicht durch Stock- oder Werbefotos ersetzt werden und dürfen keine Wasserzeichen enthalten.
+deinen Artikel auf dem Hauptbild – also dem ersten Bild – vollständig präsentieren. Auf welche Weise du deinen Artikel in den weiteren Fotos darstellst, ist dir selbst überlassen. Pro Angebot kannst du bis zu 20 Bilder hochladen.
+möglichst deutlich zeigen, dass der Artikel authentisch ist. Lies nach,
 welche Fotos die Echtheit des Artikels belegen
-können
-Sie müssen zeigen, dass am Artikel das nötige Etikett mit der Angabe zur Altersbeschränkung angebracht ist, sofern es sich um ein Produkt mit Altersbeschränkung handelt (z.B. Videospiele für Erwachsene)
-3. Richtlinien in Bezug auf die Rechte am geistigen Eigentum (GE-/IP-Richtlinien)
-Das Hochladen von gefälschten Artikeln ist auf unserer Plattform strengstens verboten.  Gefälschte Artikel verwenden in der Regel Kopien oder Imitationen des Warenzeichens eines Unternehmens (z.B. ein Logo oder den Namen der Marke/des Produkts) ohne dessen Zustimmung.  Alternativ ahmen sie spezifische Merkmale eines Produkts oder Unternehmens nach (z.B. die Form eines Parfümflakons oder das Design oder ein charakteristisches Muster einer Tasche). Hinweis: Der Verkauf von gefälschten Artikeln kann für den Verkäufer zivil- und strafrechtliche Konsequenzen nach sich ziehen.
-Mitglieder dürfen ausschließlich Artikel hochladen, von denen sie sich sicher sind, dass sie authentisch sind.  Ein Haftungsausschluss, der besagt, dass nicht für die Authentizität eines Artikels garantiert werden kann, darf dem Angebot nicht hinzugefügt werden.
+können.
+zeigen, dass am Artikel das nötige Etikett mit der Angabe zur Altersbeschränkung angebracht ist, sofern es sich um ein Produkt mit Altersbeschränkung handelt (z. B. Videospiele für Erwachsene).
+3.
+Richtlinien in Bezug auf die Rechte an geistigem Eigentum
+Das Hochladen von gefälschten Artikeln ist auf unserer Plattform strengstens verboten. Gefälschte Artikel verwenden in der Regel Kopien oder Imitationen des Warenzeichens eines Unternehmens (z. B. ein Logo oder den Namen der Marke/des Produkts) ohne dessen Zustimmung. Oder sie ahmen spezifische Merkmale eines Produkts oder Unternehmens nach (z. B. die Form eines Parfümflakons oder das Design oder ein charakteristisches Muster einer Tasche).
+Hinweis:
+Der Verkauf von gefälschten Artikeln kann für den Verkäufer zivil- und strafrechtliche Konsequenzen nach sich ziehen.
+Mitglieder dürfen ausschließlich Artikel hochladen, von denen sie sich sicher sind, dass sie authentisch sind. Ein Haftungsausschluss, der besagt, dass nicht für die Authentizität eines Artikels garantiert werden kann, darf dem Angebot nicht hinzugefügt werden.
 Mitglieder müssen
 Fotos hochladen
 , aus denen die Authentizität eines Artikels deutlich hervorgeht.
 Die Verwendung irrelevanter, nicht zutreffender Markennamen im Markenfeld, im Titel, in der Artikelbeschreibung und/oder in den Hashtags eines Angebots ist nicht erlaubt.
-Auch die Nutzung von Wortgruppen wie „inspiriert von“, gefolgt von einem Markennamen, ist auf unserer Plattform verboten.
-Es ist strikt verboten, Artikel hochzuladen und zu verkaufen, die ohne die Erlaubnis des jeweiligen Eigentümers (Eigentümer der Rechte am geistigen Eigentum) reproduziert wurden (z.B. kopierte Bücher, jede Art von Sport- oder Diätplänen für den individuellen Gebrauch und auf eine CD oder ein anderes Medium kopierte Videospiele).
+Die Nutzung von Wortgruppen wie „inspiriert von“, gefolgt von einem Markennamen, ist auf unserer Plattform ebenfalls verboten.
+Es ist strikt verboten, Artikel hochzuladen und zu verkaufen, die ohne die Erlaubnis des jeweiligen Eigentümers (Eigentümer der Rechte an geistigem Eigentum) reproduziert wurden (z. B. kopierte Bücher, jede Art von Sport- oder Diätplänen für den individuellen Gebrauch und auf eine CD oder ein anderes Medium kopierte Videospiele).
 4. Kommerzielle Aktivitäten
 Pro-Verkäufer dürfen Vinted im Rahmen ihrer beruflichen Tätigkeit nutzen. Zusätzlich zu den oben genannten Beschränkungen sind Pro-Verkäufer jedoch verpflichtet, nur Secondhand- Artikel zu verkaufen. Folgendes ist nicht erlaubt:
 Das Anbieten jeder Art von Dienstleistungen. Das beinhaltet u. a. Angebote mit Beschreibungen wie „mieten“ bzw. „vermieten“, „kann bestellt werden“, „ausverkauft“, „bald erhältlich“ oder „kann angepasst werden“.
-Eine große Anzahl brandneuer Artikel zum Verkauf anbieten, einschließlich Artikeln mit Etiketten (gebrauchte Artikel, die sich in einem "neuen" Zustand befinden, können auf Vinted verkauft werden, sofern es sich um Einzelstücke handelt, die vom Pro-Verkäufer verkauft werden)
-Wiederverkaufsartikel in großen Mengen, oder Artikel, die als Dropshipping-Produkte mit geringem Wiederverkaufswert zum Verkauf anbieten
+Das Anbieten einer großen Anzahl brandneuer Artikel, einschließlich Artikel mit Etiketten (gebrauchte Artikel, die sich in einem „neuen“ Zustand befinden, können auf Vinted verkauft werden, sofern es sich um einzelne Stücke handelt, die vom Pro-Verkäufer verkauft werden)
+Das Anbieten von Wiederverkaufsartikel in großen Mengen, oder Dropshipping-Produkten mit geringem Wiederverkaufswert.
 Das Anbieten von Artikeln, die du selbst hergestellt hast.
-Der Verkauf von jeglichen Kosmetikartikeln
+Das Anbieten von Kosmetikprodukten oder Beauty-Geräten.
 5. Strafen
 Bei Verstößen gegen unsere Katalogregeln können wir
 folgende Maßnahmen
 ergreifen:
-Wenn ein gemeldetes Angebot korrigiert werden muss, wird es vorerst
-im Kleiderschrank versteckt
-. Wir informieren das entsprechende Mitglied darüber, welche Änderungen gefordert werden. Sollte er/sie nicht innerhalb von 24 Stunden reagieren, bleibt der Artikel versteckt.
-Sollte uns ein Angebot mit einem unerlaubten Artikel gemeldet werden,
-wird es von uns aus dem Kleiderschrank des Mitglieds gelöscht.
-Er/sie wird per Nachricht über die Entfernung und die Gründe informiert.
+Wenn ein gemeldetes Angebot korrigiert werden muss, wird es versteckt. Wir informieren das entsprechende Mitglied darüber, welche Änderungen gefordert werden. Sollte daraufhin nicht innerhalb von 24 Stunden reagiert werden, bleibt der Artikel versteckt.
+Sollte uns ein Angebot mit einem unerlaubten Artikel gemeldet werden, wird es von uns gelöscht. Das Mitglied wird per Nachricht über die Entfernung und die Gründe informiert.
 Falls ein Mitglied wiederholt unerlaubte Artikel anbietet, offensichtlich mit gewerblichem Hintergrund agiert oder anderweitig gegen unsere AGB und/oder Katalogregeln verstößt,
 können wir seinen/ihren Account vorübergehend (z.B. 7 Tage lang) oder dauerhaft sperren, je nach Art des Verstoßes.
 Das entsprechende Mitglied wird in einer Nachricht über die Umstände informiert. Mehr  zu diesem Thema kannst du in unseren
 Allgemeinen Geschäftsbedingungen für Vinted Pro
 nachlesen.
-Wir behalten uns das Recht vor, die oben genannten Regeln nach eigenem Ermessen zu ändern, ohne dich darüber im Voraus informieren zu müssen. Wenn du Fragen zu den oben genannten Regeln haben, wende dich an unser Team und wir helfen dir gerne weiter.
+Wir behalten uns das Recht vor, die oben genannten Regeln nach Bedarf zu ändern, ohne dich vorab darüber zu informieren.
 Solltest du Fragen zu unseren Katalogregeln haben, kannst du
 unser Team kontaktieren
 – wir helfen dir gern weiter.
 Hinweis
-: Wenn du einen Artikel entdeckst, der nicht mit unseren oben genannten Regeln übereinstimmt, zögere bitte nicht, ihn uns zu
+: Falls dir im Katalog ein Artikel auffällt, der deiner Meinung nach gegen die oben aufgeführten Regeln verstößt, zögere nicht, ihn uns zu
 melden
 .
