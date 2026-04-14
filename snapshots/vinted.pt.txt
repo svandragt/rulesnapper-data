@@ -308,34 +308,33 @@ Caso observes a existência de um artigo que pareça não estar em conformidade 
 denunciá-lo
 à nossa equipa.
 2. POLÍTICAS PARA VENDEDORES PRO
-Os utilizadores Pro (doravante “vendedores Pro”) são identificados no site por uma etiqueta “Pro” exibida ao lado do respetivo nome.
-a. ARTIGOS PERMITIDOS
+Os utilizadores Pro (doravante “vendedores Pro”) são identificados no website por uma etiqueta “Pro” exibida ao lado do respetivo nome.
+ARTIGOS PERMITIDOS
 Podes vender na Vinted:
-Vestuário, calçado e acessórios de mulher, homem ou criança.
+Vestuário, calçado e acessórios de mulher, homem e criança.
 Brinquedos infantis, mobiliário e equipamento de puericultura.
-Artigos para casa e cozinha, como pequenos eletrodomésticos de cozinha, utensílios de cozinha e pastelaria, ferramentas de cozinha, serviços de mesa, artigos de cuidados para a casa, têxteis, acessórios para a casa, artigos sazonais e festivos, ferramentas, equipamento para trabalhos manuais e de exterior e artigos para animais.
+Artigos para casa e cozinha, como pequenos eletrodomésticos de cozinha, utensílios de cozinha e pastelaria, ferramentas de cozinha, serviços de mesa, artigos de cuidados para a casa, têxteis, acessórios para a casa, material de escritório, artigos sazonais e festivos, ferramentas, equipamento para trabalhos manuais e de exterior e artigos para animais.
 Dispositivos eletrónicos tais como câmaras, computadores, computadores portáteis, impressoras 3D, scanners, tablets, e-readers, telemóveis e dispositivos de comunicação, dispositivos de áudio, auriculares e Hi-Fi, televisões e equipamento de cinema em casa, videojogos e consolas, tecnologia wearable, aparelhos de beleza e cuidados pessoais não profissionais, dispositivos inteligentes para a casa e acessórios eletrónicos como adaptadores, cabos e carregadores.
 Artigos de entretenimento tais como livros, revistas e conteúdos de música e vídeo.
 Passatempos e objetos de coleção, como jogos de tabuleiro, puzzles, cartas colecionáveis, jogos de mesa e miniaturas, selos, memorabília, postais, materiais para trabalhos manuais, moedas e notas, instrumentos musicais e equipamentos, arrumação para artigos de coleção e acessórios para jogos.
 Equipamento desportivo relacionado com atividades tais como ciclismo, fitness, corrida, yoga, desportos ao ar livre, aquáticos, em equipa, com raquetes, golfe, equitação, skate, boxe e artes marciais, outros jogos e desportos como dardos ou petanca e desportos de inverno.
-Se estiveres a vender um artigo que inclua instruções de utilização, manuais ou avisos de segurança, certifica-te de que os incluis ao enviares o artigo ao comprador. Se os teus dispositivos eletrónicos traziam acessórios e não estás a vender os acessórios em conjunto com o artigo, certifica-te de que o mencionas claramente na descrição e tem em mente que isso pode influenciar o preço do artigo. Certifica-te de que os aparelhos eletrónicos que anuncias são seguros de utilizar.
-À Vinted reserva-se o direito de redefinir quais os artigos que podem e não podem ser anunciados na nossa plataforma. Se entendermos que determinados artigos infringem os nossos termos, poderemos remover esses artigos, mesmo que não se encontrem listados de seguida.
-Além disso, os artigos permitidos à luz destas Regras do Catálogo devem ser colocados legalmente no mercado do Espaço Económico Europeu (EEE) (que inclui Estados Membros da UE, Islândia, Liechtenstein e Noruega) antes de serem publicados na plataforma Vinted. Os artigos não podem entrar no mercado do EEE pela primeira vez ao serem vendidos através da Vinted. Tal significa que os artigos devem ser legalmente comercializados no EEE ou devem ter sido previamente importados legalmente para o EEE a partir do estrangeiro (inclusive do Reino Unido). Para serem permitidos na Vinted, os artigos devem cumprir as regulamentações do EEE.
+É permitido anunciar em cada perfil um número reduzido de artigos únicos, feitos à mão, desde que tal ocorra poucas vezes e que os artigos cumpram as regras de venda.
+Se estiveres a vender um artigo que inclua instruções de utilização, manuais ou avisos de segurança, certifica-te de que os incluis ao enviares o artigo a quem está a comprar. Se os teus dispositivos eletrónicos traziam acessórios e não estás a vender os acessórios em conjunto com o artigo, certifica-te de que o mencionas claramente na descrição e tem em mente que isso pode influenciar o preço do artigo. Certifica-te de que os aparelhos eletrónicos que anuncias são seguros de utilizar.
+Além disso, os artigos permitidos à luz destas Regras de Venda devem ser colocados legalmente no mercado do Espaço Económico Europeu (EEE) (que inclui Estados Membros da UE, Islândia, Liechtenstein e Noruega) antes de serem publicados na plataforma Vinted. Os artigos não podem entrar no mercado do EEE pela primeira vez ao serem vendidos através da Vinted. Tal significa que os artigos devem ser legalmente comercializados no EEE ou devem ter sido previamente importados legalmente para o EEE a partir do estrangeiro (inclusive do Reino Unido). Para serem permitidos na Vinted, os artigos devem cumprir as regulamentações do EEE.
+Reservamo-nos o direito de redefinir que artigos podem ou não ser anunciados na Vinted. Se descobrirmos que determinados artigos infringem os nossos termos ou constituem um risco para os nossos membros, poderemos removê-los, mesmo que não estejam incluídos na lista abaixo.
 Nota
 : em oposição aos vendedores não-profissionais, aos vendedores Pro não é permitida a venda de artigos da categoria de cosmética.
-b. ARTIGOS PROIBIDOS
-Não podes vender na Vinted
+ARTIGOS PROIBIDOS
+Não podes vender na Vinted os seguintes artigos
 (atenção, esta não é uma lista exaustiva, devendo ser considerada apenas como um guia):
-Artigos ilegais: Quaisquer bens ou materiais cuja posse, comércio, venda, envio, transporte ou produção sejam proibidos por qualquer Lei, regra ou regulamento aplicável. Tais como:
+Artigos ilegais: Quaisquer bens ou materiais cuja posse, comércio, venda, envio, transporte ou produção sejam proibidos por qualquer lei, regra ou regulamento aplicável. Tais como:
 Artigos falsificados.
 Peças sobresselentes, materiais e acessórios falsificados utilizados para reparar ou modificar artigos genuínos.
 Artigos que infrinjam os direitos de propriedade intelectual dos respetivos titulares.
-Artigos que incitem ou promovam a violência, discriminação, ódio, crime, terrorismo, terrorismo organizado, abuso sexual infantil.
+Artigos feitos à mão que pareçam imitações de outras marcas e possam ser considerados falsificações.
+Artigos que incitem ou promovam a violência, discriminação, ódio, crime, terrorismo, organizações terroristas, abuso sexual infantil.
 Nota
-:
-jogos, livros e filmes que possam ter o conteúdo proibido acima são permitidos
-nas categorias Hobbies e Coleções, Entretenimento e Eletrónica
-(consulta abaixo as restrições aplicáveis).
+: Jogos, livros e filmes que possam ter o conteúdo proibido acima são permitidos nas categorias Hobbies e Coleções, Entretenimento e Eletrónica (consulta abaixo as restrições aplicáveis).
 Reproduções de qualquer moeda ou quaisquer artigos associados a reprodução de moeda.
 Artigos roubados.
 Armas de fogo, armas e explosivos, sprays ou gás pimenta, tasers e similares.
@@ -343,17 +342,15 @@ Nota
 : Armas de brincar realistas são igualmente proibidas (por exemplo, armas de airsoft, armas BB, etc.).
 Drogas e apetrechos para drogas, artigos associados ao cultivo de ingredientes para drogas (por exemplo, sementes de plantas de cannabis).
 Acessórios e vestuário nazi ou fascista e/ou artigos que exibam símbolos nazistas ou fascistas.
-Fardas, distintivos, acessórios ou outros objetos oficiais das Forças Armadas, da Polícia ou de outros serviços de emergência Emblemas e nomes de ajuda humanitária internacional (por exemplo, crachás ou bordados) anunciados individualmente ou colocados em roupa.
-Nota
-: são permitidos disfarces, fatos e acessórios desde que os mesmos não pareçam fardas e/ou acessórios oficiais.
-Artigos que incluam restos de humanos ou de animais ou subpartes do corpo humano.
+Fardas, distintivos, acessórios ou outros objetos oficiais das Forças Armadas, da Polícia ou de outros serviços de emergência. Emblemas e nomes de ajuda humanitária internacional (por exemplo, crachás ou bordados) anunciados individualmente ou colocados em roupa.
+Nota 1
+: São permitidos disfarces, fatos e acessórios desde que os mesmos não pareçam fardas e/ou acessórios oficiais.
+Artigos que incluam restos de seres humanos ou animais ou subpartes do corpo humano.
 Artigos que sejam (de outra forma) proibidos por lei ou regulamentos em vigor.
-Artigos Restritos: Artigos que não sejam vestuário ou não estejam relacionados com produtos de moda, beleza, acessórios, infantis ou para a casa ou que simplesmente não se coadunem com a visão da Vinted. Tais como:
-Produtos sujeitos a receita médica, medicamentos, ou material médico profissional, vitaminas, suplementos ou qualquer outro tipo de produto associado a saúde.
-Produtos que se enquadrem na definição de “produto médico veterinário”, tais como, suplementos e medicamentos (ex.: champôs antipulgas, vitaminas, medicamentos e produtos similares).
-Dispositivos médicos (incluindo dispositivos médicos implantáveis ativos) e dispositivos médicos de diagnóstico
-in vitro
-, tais como (a lista não é exaustiva):
+Artigos restritos: artigos que não sejam vestuário ou não estejam relacionados com produtos de moda, beleza, acessórios, infantis, casa, entretenimento, eletrónica ou que simplesmente não se coadunem com a visão da Vinted. Tais como:
+Produtos sujeitos ou não a receita médica, medicamentos, material médico profissional, vitaminas, suplementos alimentares ou qualquer outro tipo de produto associado a saúde.
+Produtos que se enquadrem na definição de “produto médico veterinário” (ex.: champôs antipulgas, vitaminas, medicamentos e produtos similares).
+Dispositivos médicos (incluindo dispositivos médicos implantáveis ativos) e dispositivos médicos de diagnóstico in vitro, tais como (a lista não é exaustiva):
 Testes de gravidez, ovulação, ADN, Covid-19 e outros exames médicos
 Agulhas
 Lentes de contacto com prescrição
@@ -361,25 +358,25 @@ Aparelhos de laser e lipólise
 Dispositivos e/ou canetas de plasma
 Solários faciais
 Dispositivos de alívio da dor como máquina TENS, dispositivos de eletroterapia
-Detectores de batimentos cardíacos fetais, aparelhos de ultrassom para bebês, sensores respiratórios
+Detetores de batimentos cardíacos fetais, aparelhos de ultrassom para bebés, sensores respiratórios
 Dispositivos de inalação
 Dispositivos de aerossolterapia
 Dispositivos descalcificadores de dentes
 Dispositivos para ajudar a dormir
 Termómetros de mercúrio
-Outros produtos que exijam receita médica ou supervisão ou orientação de um profissional médico para a sua utilização, ou cuja utilização pretendida seja para fins médicos.
-Nota:
-Determinados artigos (ex.: relógios inteligentes ou pulseiras inteligentes que integrem software médico para medição da pressão arterial ou saturação de oxigénio, ECG), e que podem ser classificados como dispositivos médicos, são permitidos caso cumpram as leis aplicáveis e todos os seguintes requisitos:
-1) Estão identificados com a marca CE e o número de quatro dígitos da entidade competente (se aplicável e, tanto a rotulagem como o manual, encontram-se redigidos no idioma local);
-2) A validade não expirou;
-3) Enquadram-se na abrangência das restantes categorias permitidas (ex.: eletrónica);
-4) São novos e vendidos em embalagens fechadas (lacradas);
+Outros produtos que exijam receita médica, supervisão ou orientação de um profissional médico para a sua utilização, ou cuja utilização pretendida seja para fins médicos.
+Nota 1:
+Determinados artigos (ex.: relógios inteligentes ou pulseiras inteligentes que integrem software médico para medição da pressão arterial ou saturação de oxigénio, ECG) que poderiam ser classificados como dispositivos médicos são permitidos caso cumpram as leis aplicáveis e todos os seguintes requisitos:
+1) Estão identificados com a marca CE e o número de quatro dígitos da entidade competente (se aplicável e se tanto a rotulagem como o manual se encontrarem redigidos no idioma local);
+2) Estão dentro do prazo de validade;
+3) Estão abrangidos pelas restantes categorias permitidas (ex.: eletrónica; dispositivos de beleza);
+4) São novos e vendidos em embalagens fechadas (seladas);
 5) Não são distribuídos apenas por profissionais de saúde;
 6) São de venda livre (ou seja, não é necessária receita médica);
 7) A sua utilização não carece de assistência por um profissional de saúde.
 Nota 2:
 Certos aparelhos eletrónicos de beleza ou estética que não sejam classificados como dispositivos médicos são permitidos.
-Tabaco ou produtos relacionados, tais como cigarros, cigarrilhas, charutos, cachimbos, cigarros eletrónicos, vaporizadores ou quaisquer outro tipo de instrumentos ou acessórios associados ao ato de fumar.
+Tabaco ou produtos relacionados, tais como cigarros, cigarrilhas, charutos, cachimbos, cigarros eletrónicos, vaporizadores ou qualquer outro tipo de instrumentos ou acessórios associados ao ato de fumar.
 Amostras,
 testers
 ou artigos promocionais que não se destinam à venda.
@@ -389,53 +386,51 @@ Comida e bebida, seja qual for o tipo.
 Artigos que promovam qualquer tipo de serviço de empréstimo de dinheiro, esquemas para ganhar dinheiro, jogos de sorte ou azar.
 Artigos para adultos tais como brinquedos sexuais e artigos associados a fetichismo, pornografia (ex.: livros que exibam pornografia ou conteúdo sexualmente explícito), assim como artigos que promovam serviços sexuais e ofereçam artigos de fetiche para venda.
 Uniformes oficiais de trabalho, como:
-Uniformes e acessórios de empresas de entrega ou transporte, como chapéus, mochilas, alfinete de lapela;
+Uniformes e acessórios de empresas de entrega ou transporte, como chapéus, mochilas, alfinetes de lapela;
 Uniformes de trabalho, incluindo roupa e acessórios.
 Nota
 : Uniformes de trabalho vintage ou respetivos acessórios são permitidos apenas se não estiverem em utilização oficial e não forem parecidos com um uniforme de trabalho atualmente em vigor.
 Artigos associados ou que promovam organizações que apoiam a violência, a discriminação, o ódio e o crime. Exemplos de tais grupos incluem nazismo ou neonazismo, fascismo ou neofascismo.
-Pele de animal e seus derivados
-, por exemplo:
-conchas naturais, marfim ou artigos que contenham produtos de pele exótica, como pele de réptil, avestruz, camelo, cordeiro karakul e quaisquer outros artigos que contenham produtos proibidos por acordos internacionais que visam restringir o comércio de plantas e animais em vias de extinção
-.
+Pele de animal e seus derivados, por exemplo: conchas naturais, marfim ou artigos que contenham produtos de pele exótica, como pele de réptil, avestruz, camelo, cordeiro karakul e quaisquer outros artigos que contenham produtos proibidos por acordos internacionais que visam restringir o comércio de plantas e animais em vias de extinção.
 Nota:
 É permitida a venda de artigos de couro, lã de ovelha tosquiada, caxemira e produtos de lã angorá.
-Artigos feitos à mão por quem está a vender.
 Animais e plantas verdadeiras.
-Areia, aparas de madeira, pellets de papel ou similares para animais de estimação.
+Areia, aparas de madeira, pellets de papel ou artigos similares para animais de estimação.
 Artigos autografados (ou artigos semelhantes) sem um certificado confiável de autenticidade.
-Alguns dispositivos eletrónicos e acessórios tecnológicos são proibidos na Vinted. Estes incluem, mas não se limitam, a: dispositivos para grooming e higiene de animais de estimação, câmaras e monitores para animais de estimação, equipamentos elétricos para aquários e terrários, senhas de acesso a programas,câmaras de vídeo/de filmar,
-ponteiros laser de classe 2 ou superior,
-máquinas de lavar roupa, máquinas de lavar loiça, ferros de engomar, aspiradores, impressoras,ventoinhas portáteis, etc.
-Dispositivos eletrónicos aos quais tenha sido feito jailbreak ou root, ou seja, que tenham sido modificados para contornar as restrições de segurança do fabricante e que permitem descarregar aplicações ou extensões não disponibilizadas pelas lojas oficiais da Apple ou da Google Play.
+Alguns dispositivos eletrónicos e acessórios tecnológicos são proibidos na Vinted. Estes incluem, mas não se limitam, a: dispositivos para grooming e higiene de animais de estimação, câmaras e monitores para animais de estimação, equipamentos elétricos para aquários e terrários, senhas de acesso a programas, câmaras de vídeo/de filmar, ponteiros laser de classe 2 ou superior, máquinas de lavar roupa, máquinas de lavar loiça, ferros de engomar, etc.
+Dispositivos eletrónicos aos quais tenha sido feito
+jailbreak
+ou
+root
+, ou seja, que tenham sido modificados para contornar as restrições de segurança do fabricante e que permitem descarregar aplicações ou extensões não disponibilizadas pelas lojas oficiais da Apple ou da Google Play.
 Dispositivos com baterias que excedam os 100 watts-hora (Wh)
 Cartões SIM.
 Dispositivos na lista cinzenta ou bloqueados por falta de pagamento.
 Dispositivos na lista negra da GSMA, bloqueados pelo operador por terem sido perdidos, roubados ou não totalmente pagos.
-Telemóveis bloqueados (incluindo dispositivos com restrição de bloqueio de ativação) devido ao facto de a pessoa que está a vender não ter acesso à conta de utilizador associada, ao PIN e às informações biométricas de início de sessão, ou ao facto de a pessoa a quem pertence o telemóvel ter comunicado a perda ou roubo do mesmo através, por exemplo, da sua conta Apple ou Google.
-Equipamentos para tatuagens, máquinas para colocação de piercings, camas para bronzeado, mesas de massagem, e similares.
+Telemóveis bloqueados (incluindo dispositivos com restrição de bloqueio de ativação) devido ao facto de a pessoa que está a vender não ter acesso à conta de utilizador associada, ao PIN e às informações biométricas de início de sessão, ou ao facto de a pessoa a quem pertence o telemóvel ter comunicado a perda ou roubo do mesmo – por exemplo, através da sua conta Apple ou Google.
+Equipamentos para tatuagens, máquinas para colocação de piercings, camas de bronzeamento ou mesas de massagem.
 Equipamento de proteção que não esteja totalmente funcional, como capacetes de ciclismo, arneses de escalada ou óculos protetores que já não satisfaçam o fim a que se destinam ou já não cumpram as normas de segurança necessárias para estar em conformidade com as leis e regulamentos locais.
 Bicicletas, incluindo citadinas, de trekking, de montanha e elétricas, entre outras.
 Mobiliário para adultos (como sofás, mesas, cadeiras) e peças de mobiliário.
-Plantas verdadeiras, como flores.
-Colchões, sobrecolchões, edredões (exceto nas categorias Criança).
+Colchões, sobrecolchões, edredões (exceto nas categorias de Criança).
 Nota 1
 : Camas e cobertores/mantas para animais de estimação são permitidas nas respetivas categorias para animais.
-Nota 2
-: Só é permitida a venda de proteções de colchão para crianças que estejam novos – e a etiqueta original deve estar visível.
-As seguintes facas são proibidas: Todas as facas afiadas com ponta, independentemente do tamanho ou finalidade, incluindo facas de cozinha. Facas afiadas especializadas, incluindo facas de pão, facas de carne e facas de talhante, independentemente do tamanho ou da finalidade. Tesouras para tecido, cortadores circulares, tesouras para trabalhos manuais, facas de arremesso, estiletes, facas de lâmina deslizantes (drop knives), facas borboleta, facas dobráveis, canivetes suíços, facas de arremesso circulares, facas ocultas (por exemplo, facas de plástico que não são detetáveis), facas que imitam outros objetos (por exemplo, facas em forma de cartão de crédito), facas de sobrevivência (por exemplo, machete, facas “zombie”),
-espadas
-, motosserras, machados, serras com cabo e lâmina alongada que parecem uma faca, facas colecionáveis, de adereço e antigas, mesmo que sejam descritas como decorativas, se forem afiadas com ponta, lâminas de barbear de dois gumes e de um gume, lâminas de barbear retas, conjuntos de talheres que incluam qualquer uma das facas listadas acima.
+Nota 2:
+Só é permitida a venda de proteções de colchão para crianças que estejam novos – e a etiqueta original deve estar visível.
+As seguintes facas são proibidas: Todas as facas afiadas com ponta, independentemente do tamanho ou finalidade, incluindo facas de cozinha. Facas afiadas especializadas, incluindo facas de pão, de carne e de talhante, independentemente do tamanho ou da finalidade. Tesouras para tecido, cortadores circulares, tesouras para trabalhos manuais, facas de arremesso, estiletes, facas de lâmina deslizantes (drop knives), facas borboleta, facas dobráveis, canivetes suíços, facas de arremesso circulares, facas ocultas (por exemplo, facas de plástico que não são detetáveis), facas que imitam outros objetos (por exemplo, facas em forma de cartão de crédito), facas de sobrevivência (por exemplo, machetes, facas “zombie”), espadas, motosserras, machados, serras com cabo e lâmina alongada que parecem uma faca, facas colecionáveis, de adereço e antigas, mesmo que sejam descritas como decorativas, se forem afiadas com ponta, lâminas de barbear de dois gumes e de um gume, lâminas de barbear retas, conjuntos de talheres que incluam qualquer uma das facas mencionadas acima.
 Nota 1:
 São permitidas lâminas de barbear e máquinas de barbear elétricas se forem novas e vendidas na embalagem original por abrir
 Nota 2:
-São permitidas facas de mesa com lâmina sem cega e ponta arredondada, como as facas de manteiga.
-Filtros de substituição usados e recargas individuais para filtros de água. Nota: por razões de higiene, apenas podem ser vendidos filtros de substituição e recargas individuais novas.
+São permitidas facas de mesa com lâmina cega e ponta arredondada, como as facas de manteiga.
+Filtros de substituição usados e recargas individuais para filtros de água.
+Nota:
+Por razões de higiene, apenas podem ser vendidos filtros de substituição e recargas individuais novas.
 Artigos de plástico descartáveis, tais como algumas versões de loiça, talheres, copos, palhinhas, confetis, balões, decorações insufláveis, etc.
 Nota
-: Confetis que não sejam de plástico, loiça descartável não utilizada e toalhas de mesa são permitidos na subcategoria de Feriados e festividades.
+: Confetis que não sejam de plástico, loiça descartável não utilizada e toalhas de mesa são permitidos na subcategoria de Celebrações e festividades.
 Sistemas HVAC (aquecimento, ventilação e ar condicionado), unidades fixas/não portáteis ou aparelhos de ar condicionado de parede.
-Nota: são permitidos aparelhos de ar condicionado e arrefecedores de ar portáteis, bem como aparelhos de ar condicionado de janela.
+Nota:
+São permitidos aparelhos de ar condicionado e arrefecedores de ar portáteis, bem como aparelhos de ar condicionado de janela.
 E-books e audiobooks digitais.
 Calendários do advento, figuras ou conjuntos-surpresa e similares.
 Bilhetes para eventos, cartões ou vales presente, cupões de desconto ou subscrições.
@@ -443,7 +438,7 @@ Videojogos com
 loot boxes
 (caixas de recompensas).
 Artigos sujeitos a classificação etária (tais como videojogos) e que não exibam a etiqueta de classificação etária obrigatória.
-Artigos sujeitos a alguma espécie de censura de conteúdo específico do país ou outras restrições devido à natureza do seu conteúdo.
+Artigos sujeitos a alguma espécie de censura de conteúdo específico do país ou a outras restrições devido à natureza do seu conteúdo.
 Jogos digitais, cupões e códigos ou senhas de ativação.
 Cartas colecionáveis classificadas sem certificado de autenticidade.
 Ferramentas e máquinas industriais, normalmente utilizadas em ambientes industriais e fabris exclusivamente por profissionais.
@@ -451,66 +446,70 @@ Artigos que tenham sido modificados, recondicionados, restaurados de forma que n
 Artigos perigosos: Artigos que não cumprem as normas de higiene, ou podem representar riscos para a saúde ou para a segurança:
 Roupa interior usada, cuecas feitas à mão, calções usados como roupa interior (ex.: calções de pijama), espartilhos/corpetes, roupa interior modeladora e
 shapewear
-com parte de baixo, roupa interior protetora para desporto.
+com parte de baixo e partes de baixo de roupa interior protetora para desporto.
 Nota 1
-: Por razões de higiene, só podem ser vendidas cuecas e fraldas novas. Atenção: as fotografias do anúncio devem mostrar, com clareza, a respetiva etiqueta e/ou embalagem original do artigo. Etiquetas de composição ou da marca não contam como prova de artigo não usado.
+: Por motivos de higiene, só podem ser vendidas cuecas novas. Atenção: as fotografias do anúncio devem mostrar, com clareza, a respetiva etiqueta e/ou embalagem original do artigo. Etiquetas de composição ou da marca não contam como prova de artigo não usado.
 Nota 2
-: Podem vender-se soutiens usados, fatos de banhos e meias ou meias-calça, desde que devidamente lavados e cuja descrição mencione, com clareza, que o artigo foi usado. Só podem ser vendidas fraldas de natação novas e reutilizáveis. Nas fotografias, deves mostrar claramente as etiquetas presas ao artigo e/ou a embalagem original.
-Quaisquer tintas, vernizes, lacas, velaturas, primários, selantes, diluentes, tintas, recargas de tinta, fragrâncias para velas e vidrados para cerâmica e olaria que já tenham sido usados. Estes artigos devem ser vendidos novos, na embalagem original e fechada. Os fechos de selagem não devem estar partidos nem ter sido removidos. Recomendamos também que envies fotos das informações do artigo (informações na embalagem, composição, código de barras, data de validade, etc.).
+: Podem vender-se soutiens usados, fatos de banhos, collants e meias, desde que devidamente lavados e cuja descrição mencione, com clareza, que o artigo foi usado. Só podem ser vendidas fraldas de natação novas e reutilizáveis. Nas fotografias, deves mostrar claramente as etiquetas presas ao artigo e/ou a embalagem original.
+Quaisquer tintas, vernizes, lacas, velaturas, primários, selantes, diluentes, tintas, recargas de tinta, fragrâncias para velas e vidrados para cerâmica e olaria que já tenham sido usados. Estes artigos devem ser vendidos novos, na embalagem original, fechada. Os fechos de selagem não devem estar partidos nem ter sido removidos. Recomendamos também que carregues fotos das informações do artigo (informações na embalagem, composição, código de barras, data de validade, etc.).
 Nota
-: é totalmente proibido vender tintas, vernizes, velaturas ou outros produtos parecidos se estiverem usados ou fora do prazo de validade.
+: É estritamente proibido vender tintas, vernizes, lacas ou quaisquer artigos relacionados caso tenham sido usados ou estejam fora do prazo de validade.
 Pensos higiénicos, tampões, copos menstruais, e similares.
-Nota
-: Por razões de higiene, só podem ser vendidos produtos de cuidados pós-parto que estejam novos (almofadas pós-parto, resguardos de colchão, etc.). Nas fotografias, deves mostrar claramente as etiquetas presas ao artigo e/ou a embalagem original. As informações de composição e de marca que se encontram no interior de cada produto não contam como “etiquetas”.
-Joalheria usadas e similares para piercings na língua, sobrancelha, nariz, lábios e zonas íntimas.
+Nota:
+Por motivos de higiene, só podem ser vendidos produtos de cuidados pós-parto que estejam novos (almofadas pós-parto, resguardos de colchão, etc.). Nas fotografias, deves mostrar claramente as etiquetas presas ao artigo e/ou a embalagem original. As informações de composição e de marca que se encontram no interior de cada produto não contam como “etiquetas”.
+Piercings de língua, sobrancelha, nariz, lábios e de zona íntima que tenham sido usados.
 Componentes usados de dispositivos eletrónicos de higiene, como cabeças de escovas de dentes elétricas ou lâminas de máquinas de barbear/depilar. Se forem vendidos, devem estar novos e na embalagem original selada.
 Coleiras de choque, coleiras de estrangulamento, coleiras de aperto, coleiras de pinos, coleiras cravadas para animais de estimação. Redes e armadilhas para caça. Aquários.
-Detergentes, produtos químicos para lavagem ou limpeza e produtos semelhantes (por exemplo, líquidos, em pó, em pasta, em barra ou quaisquer outros produtos químicos ou produtos que contenham substâncias químicas (exceto produtos para artesanato)).
-Nota
-: revestimentos por utilizar, como tinta ou verniz, tintas e fragrâncias de velas podem ser vendidos como novos sem etiquetas.
+Detergentes, produtos químicos para lavagem ou limpeza e produtos semelhantes (por exemplo, líquidos, em pó, em pasta, em barra ou quaisquer outros produtos químicos ou produtos que contenham substâncias químicas (exceto cosméticos ou produtos para artesanato)).
+Nota 1
+: Óleos essenciais usados como cosméticos que não tenham ainda sido utilizados podem ser vendidos como novos com etiqueta.
+Nota 2
+: Revestimentos por utilizar, como tinta ou verniz, tintas e fragrâncias para velas podem ser vendidos como novos sem etiquetas.
 Gases refrigerantes (CFC e HCFC) e agentes de arrefecimento para aparelhos de ar condicionado.
 Radares ou dispositivos de interferência de sinal.
-Produtos retirados do mercado. Artigos que foram retirados de circulação por motivos de segurança ou outros motivos de não conformidade por fabricantes ou autoridades públicas na
+Produtos retirados do mercado. Artigos que foram retirados de circulação por motivos de segurança ou por outras razões de não conformidade ou que foram assinalados como perigosos pelos fabricantes, reguladores ou outras autoridades públicas na
 UE
 ou a nível nacional.
-Substâncias perigosas que sejam inflamáveis ou tóxicas, incluindo botijas de gás utilizadas em atividades ao ar livre.
+Substâncias perigosas consideradas inflamáveis e tóxicas, incluindo botijas de gás utilizadas em atividades ao ar livre.
 Dispositivos eletrónicos com a bateria inchada.
-Baterias usadas ou fora de validade, power banks, cartões de memória ou suportes de armazenamento em branco como CD, DVD, discos Blu-ray ou pens USB. Se forem vendidos, devem estar novos e na embalagem original selada.
+Baterias, power banks, cartões de memória ou suportes de armazenamento em branco como CD, DVD, discos Blu-ray ou pens USB usados ou fora de validade. Se forem vendidos, devem estar novos e na embalagem original selada.
 Nota
 : São permitidas baterias recarregáveis usadas, com menos de 100 watts-hora.
-Rádios móveis privados (Walkie Talkies) com potência superior a 0,5 watts e/ou que utilizem frequências fora da banda PMR446.
+Rádios móveis privados (Walkie Talkies) com potência superior a 0,5 watts e/ou que utilizem frequências fora da faixa PMR446.
 Braçadeiras, escovas de alvenaria, escovas de pintura, capas para rolos de pintura, fita de pintor.
 Nota
-: estes artigos só são permitidos se estiverem novos.
+: Estes artigos só são permitidos se estiverem novos e tiverem etiquetas.
 Equipamento de proteção, como viseiras, capacetes, proteção auditiva, óculos de segurança, arneses de segurança e luvas de trabalho.
 Nota
 : estes artigos só são permitidos se estiverem novos e tiverem etiquetas.
 Alguns acessórios para ferramentas que já tenham sido usados, tais como almofadas de polimento, brocas, brocas para vidro e azulejos, para alvenaria, para metal e madeira, serras de buraco, acessórios para multiferramentas ou para ferramentas rotativas, brocas rotativas, discos e folhas para lixar, lâminas para serra, brocas para chaves de fendas, rodas e discos.
 Nota
-: estes artigos só são permitidos se estiverem novos e tiverem etiquetas.
+: Estes artigos só são permitidos se estiverem novos e tiverem etiquetas.
 Artigos para cozinhar e grelhar ao ar livre que já tenham sido usados, tais como grelhas e grelhas para churrasco, carvão vegetal e pellets, tabuleiros de recolha de gordura, barras aromatizantes, aparas para defumar, escovas e raspadores para grelhar e tábuas para grelhar.
 Nota
-: estes artigos só são permitidos se estiverem novos.
-Certifica-te que os teus anúncios e artigos estão de acordo com as nossas regras do Catálogo. Caso um dos teus anúncios pareça não cumprir estas regras, outros membros poderão denunciá-lo para revisão da Vinted. A confirmar-se a não conformidade, o artigo poderá ser removido ou ocultado pela nossa equipa. De igual forma, poderão ser tomadas medidas adicionais, nomeadamente a suspensão ou o bloqueio da tua conta. Se enviares mensagens a outros membros que promovam a venda de artigos constantes da lista de Artigos Proibidos, poderás enfrentar ações semelhantes. Para obteres mais informação, consulta as Regras da nossa Comunidade
+: Estes artigos só são permitidos se estiverem novos.
+Equipamento de proteção usado, para a cabeça ou rosto (por exemplo, capacetes, capacetes de segurança, óculos de proteção, viseiras, capacetes de equitação) ou arneses de escalada/segurança, mesmo que usados para desporto ou trabalho.
+Nota
+: Estes artigos só são permitidos se estiverem novos.
+Certifica-te que os teus anúncios e artigos estão de acordo com as nossas regras de Venda. Caso um dos teus anúncios  aparente não cumprir estas regras, outros membros poderão denunciá-lo para revisão da Vinted. A confirmar-se a não conformidade, o artigo poderá ser removido ou ocultado pela nossa equipa. De igual forma, poderão ser tomadas medidas adicionais, nomeadamente o bloqueio temporário ou permanente da tua conta. Se enviares mensagens a outros membros a promover a venda de artigos que constem da lista de Artigos Proibidos, poderás enfrentar ações semelhantes. Para obteres mais informação, consulta as nossas Regras da Comunidade
 aqui
 .
 Tem em atenção:
-Caso destaques um artigo que viole as nossas Regras do Catálogo e tivermos de ocultar ou eliminar o anúncio, não poderemos reembolsar-te pelo investimento feito no destaque.
+Caso destaques um artigo que viole as nossas Regras de Venda e tivermos de ocultar ou eliminar o anúncio, não poderemos reembolsar-te pelo custo do destaque.
 c. REGRAS GERAIS
 1. Gerais
 Não podes anunciar artigos que ultrapassem
 estes
 limites das transportadoras.
-Deves carregar cada um dos teus artigos separadamente e na categoria correspondente (ou marca, se aplicável).
+Deves carregar cada um dos teus artigos separadamente e na categoria correspondente (ou marca, se aplicável), exceto se se tratar de um conjunto.
 Só deves ter um anúncio por artigo.
 Todos os artigos devem indicar o
 estado real em que se encontram
 . Na descrição do artigo devem ser enunciados quaisquer defeitos, alterações ou partes em falta.
-Podes selecionar até 3 materiais ao carregares um artigo no teu roupeiro. Recordamos que a descrição detalhada do artigo deve, igualmente, incluir informação sobre quaisquer outros materiais (além dos 3 principais que identificaste aquando da publicação do teu anúncio).
-É proibido fazer upload de um artigo que não está disponível ou já foi vendido. Os artigos não devem ser publicados com a finalidade de sondar o mercado. Também não é permitido anunciar algo que não seja um artigo real
-(ex: com o intuito de
-trolar
-). Saber mais acerca dos motivos para o
+Podes selecionar até 3 materiais ao carregares um artigo no teu perfil. A descrição detalhada do artigo deve, igualmente, incluir informação sobre quaisquer outros materiais (além dos 3 principais que identificaste aquando da publicação do teu anúncio).
+Anúncios relativos a conjuntos devem mencionar, no título e/ou na descrição, que se tratam de conjuntos. Cada anúncio relativo a conjuntos deve indicar o preço total dos artigos que o compõem. Os artigos incluídos no conjunto não poderão ser anunciados separadamente. Para dispositivos eletrónicos, apenas 2 dispositivos que funcionem a bateria são permitidos no mesmo conjunto. No campo destinado a identificação da marca, seleciona uma das marcas dos artigos.
+As descrições dos anúncios e do perfil não podem conter referências ou ligações para sites externos ou outras plataformas online. Partilhar links ou referências que levem a conteúdo ilegal, conteúdo para adultos, discurso de ódio ou qualquer tipo de comportamento que infrinja as nossas Regras de Venda é estritamente proibido e pode resultar no bloqueio da conta. Como exceção, apesar de não recomendarmos por motivos de privacidade, podes partilhar um link para um perfil de redes sociais, desde que não esteja associado a atividades comerciais nem a conteúdo que vá infrinja as nossas Regras de Venda.
+É proibido carregar um artigo que não está disponível ou já foi vendido. Os artigos não devem ser publicados com a finalidade de sondar o mercado. Também não é permitido anunciar algo que não seja um artigo real (ex: por brincadeira/para fazer troça). Sabe mais acerca dos motivos para o
 teu anúncio ser ocultado ou eliminado
 .
 Não podes disponibilizar nenhum tipo de serviço. Isto inclui, mas não se limita a:
@@ -520,13 +519,13 @@ Disponibilizar personalização de artigos
 Disponibilizar serviços financeiros, de educação, de cuidados de beleza ou similares
 Disponibilizar serviços de assinatura ou digitais
 O valor máximo permitido para um artigo na nossa plataforma é de 30 000 €.
-Não são permitidos anúncios ou publicações relativas a atividades de licitação. Se o preço de um artigo for demasiado alto/baixo ou se não se adequar ao valor real do artigo, o anúncio poderá ser considerado como atividade de licitação. Descobre
+Não são permitidos anúncios ou publicações relativas a atividades de licitação. Se o preço de um dos teus artigos for demasiado alto/baixo ou se não se adequar ao valor real do artigo, o anúncio poderá ser considerado como atividade de licitação. Descobre
 como definir um preço razoável para o teu artigo.
-Nos artigos que contenham bateria, o respetivo compartimento para a bateria deve estar a funcionar corretamente.
+Qualquer aparelho elétrico de tomada e quaisquer aparelhos alimentados por bateria que transmitam calor cuja venda seja permitida na Vinted não devem apresentar danos materiais, tais como cabos desgastados ou fios soltos.
 Todos os dados pessoais devem ser eliminados e as contas pessoais devem ser desconectadas dos dispositivos eletrónicos. Deve ser realizada uma reposição de fábrica a todos os dispositivos e os mesmos devem ser totalmente desligados e, quando aplicável, eliminado qualquer registo associado (por exemplo, drones) antes de serem enviados. Lembra-te de retirar quaisquer objetos pessoais do artigo que anunciares, tais como o teu cartão SIM ou artigos semelhantes.
 2. Requisitos para as fotografias dos artigos
 As fotografias utilizadas nos teus anúncios devem cumprir os seguintes requisitos:
-Devem mostrar o artigo tal como ele é – não é permitida a edição fotográfica. Recomendamos que mostres quaisquer defeitos, desgaste ou semelhantes.
+Devem mostrar o artigo tal como ele é – não é permitida edição fotográfica. Recomendamos que mostres quaisquer defeitos, desgaste ou semelhante.
 Devem ser nítidas e claras. Espreita as nossas
 dicas fotográficas.
 Devem ter sido tiradas por ti com o propósito de anunciar um determinado artigo na Vinted.
@@ -535,7 +534,7 @@ stock
 , fotografias de anúncios da
 internet
 nem fotografias com marcas de água.
-A primeira fotografia deve mostrar o artigo no seu todo ou todo o conjunto (no caso de conjuntos não deve ser mostrada uma colagem de fotos, apenas uma imagem de todo o conjunto é permitida). Nas fotografias seguintes, tens liberdade para escolher como queres mostrar o artigo. Podes carregar até 20 fotos por anúncio. Não te esqueças de mostrar todos os artigos que incluem o conjunto para que os membros saibam o que estão a comprar.
+A primeira fotografia deve mostrar o artigo no seu todo. Nas fotografias seguintes, tens liberdade para escolher como queres mostrar o artigo. Podes carregar até 20 fotos por anúncio.
 Devem mostrar a autenticidade do teu artigo. Vais gostar
 destas nossas dicas
 .
@@ -544,7 +543,7 @@ Artigos sujeitos a classificação etária (tais como videojogos para adultos) d
 É estritamente proibido anunciar artigos falsificados na nossa plataforma. Artigos falsificados tendem a copiar ou imitar a marca registada (ex.: nome da marca, nome dos seus produtos e/ou logótipo) de uma empresa sem permissão. Também é provável que copiem algumas das características do produto da empresa (ex.: a forma de certo perfume, o desenho ou padrão de determinada mala).
 Nota:
 Ao venderem artigos falsificados, os vendedores podem ser chamados a responder civil ou criminalmente.
-Os membros só podem publicar artigos sobre os quais tenham a certeza de serem autênticos. Não é permitido adicionar exclusões de responsabilidade a indicar não existirem certezas ou garantias quanto à autenticidade do artigo.
+Os membros só podem publicar artigos se tiverem a certeza de que são autênticos. Não é permitido adicionar exclusões de responsabilidade a indicar não existirem certezas ou garantias quanto à autenticidade do artigo.
 Os membros devem igualmente submeter
 fotografias o mais reveladoras possível
 da autenticidade do artigo.
@@ -553,33 +552,33 @@ hashtags
 nos anúncios.
 O uso de expressões tais como “inspirado em” seguido do nome de uma marca é igualmente proibido na nossa plataforma.
 É estritamente proibido publicar e vender artigos reproduzidos sem o consentimento do titular dos direitos de PI (ex.: cópias de livros, qualquer tipo de plano desportivo ou alimentar criado para fins individuais, cópias de videojogos em CD virgem ou em qualquer outro tipo de suporte).
-4. Políticas sobre atividades comerciais
+4.
+Atividades comerciais
 Os vendedores Pro podem utilizar a Vinted como parte das suas atividades profissionais. No entanto, além das restrições mencionadas acima, os vendedores Pro apenas podem vender artigos em segunda mão e não estão autorizados a:
-Oferecer qualquer tipo de serviço, incluindo, mas não se limitando a anúncios com descrições
-tais como "para alugar", "pode ser encomendado", “sem stock”, "confirmar mais tarde", “pode ser personalizado”, etc.
-Vender um elevado n.º de artigos em estado novo, incluindo artigos com etiqueta (artigos em segunda mão que estejam em condição “novo” podem ser vendidos na Vinted desde que sejam peças únicas vendidas pelo vendedor Pro).
+Oferecer qualquer tipo de serviço, incluindo, mas não se limitando a anúncios com descrições tais como "para alugar", "pode ser encomendado", “sem stock”, "confirmar mais tarde", “pode ser personalizado”, etc.
+Vender um elevado número de artigos novos, incluindo artigos com etiqueta (artigos em segunda mão que estejam “como novos” podem ser vendidos na Vinted desde que sejam peças únicas vendidas pela pessoa com Conta de Venda Pro).
 Disponibilizar artigos de revenda comprados a granel ou artigos vendidos como produtos dropshipping/baixo custo de revenda.
 Vender artigos que fizeste à mão.
 Vender qualquer tipo de artigo cosmético.
-5. Sanções
-Sempre que algum membro desrespeite as nossas Regras do Catálogo, poderemos ter de
+5. SANÇÕES
+Sempre que algum membro desrespeite as nossas Regras de Venda, poderemos ter de
 tomar as seguintes medidas:
 Se um anúncio for denunciado e existir a necessidade de o alterar,
-iremos ocultá-lo do roupeiro
-do respetivo membro e enviaremos uma mensagem ao membro informando-o sobre as ações a tomar no prazo de 24 horas. Caso não o faça, o artigo permanecerá oculto.
+iremos ocultá-lo do perfil
+do respetivo membro e enviar-lhe uma mensagem sobre as ações que deve tomar no prazo de 24 horas. Caso não o faça, o artigo permanecerá oculto.
 Se um anúncio for denunciado por incluir um artigo proibido,
-iremos removê-lo do roupeiro
+iremos removê-lo do perfil
 do respetivo membro
 e enviar-lhe uma mensagem informativa acerca da razão da remoção.
-Se um membro, repetidamente, anunciar artigos proibidos, artigos de natureza aparentemente comercial ou qualquer outro artigo que infrinja os nossos Termos e Condições e/ou Regras do Catálogo),
-poderemos suspender a respetiva conta (durante 7 dias, por ex.) ou mesmo bloqueá-la permanentemente dependendo da gravidade da infração.
-O membro em causa será informado, por mensagem, acerca do sucedido. Para mais informação, consulta os nossos
-Termos e Condições de Vinted Pro
+Se um membro, repetidamente, anunciar artigos proibidos, artigos de natureza aparentemente comercial ou qualquer outro artigo que infrinja os nossos Termos e Condições e/ou regras de Venda),
+poderemos bloquear temporariamente a respetiva conta (durante 7 dias, por ex.) ou mesmo bloqueá-la permanentemente dependendo da gravidade da infração.
+Enviaremos uma mensagem acerca do sucedido à pessoa em questão. Para mais informação, consulta os nossos
+Termos e Condições Vinted Pro
 .
 À Vinted reserva-se o direito de alterar as regras supracitadas de acordo com critérios próprios e sem necessidade de notificação prévia. Caso tenhas alguma dúvida sobre as regras acima mencionadas
 contacta a nossa equipa
 e teremos todo o gosto em esclarecer.
 Nota:
 Caso observes a existência de um artigo que pareça não estar em conformidade com estas nossas regras, não hesites em
-denunciar a situação
+denunciá-lo
 à nossa equipa.
