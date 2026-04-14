@@ -295,7 +295,6 @@ report
 it to us.
 2. POLICIES FOR PRO-SELLERS
 Pro users (hereafter “Pro sellers”) are identified on the Site by a “Pro” tag displayed next to their name.
-a.
 ALLOWED ITEMS
 You can sell on Vinted:
 Women’s, men’s and children’s clothing, footwear and accessories.
@@ -311,7 +310,7 @@ We reserve the right to redetermine what items are and aren’t allowed to be li
 Note
 : As opposed to non-pro sellers, Pro sellers are not allowed to sell items of the cosmetic category.
 Items must comply with applicable regulations to be allowed on Vinted.
-b. PROHIBITED ITEMS
+PROHIBITED ITEMS
 You cannot sell on Vinted
 (Please note that the list is not exhaustive and is to be considered only as a guide):
 Illegal items: any goods or materials the possession, trading, selling, posting, carriage or production of which is prohibited by any applicable law, rule or regulation. Such as:
@@ -486,7 +485,7 @@ here
 .
 Note
 : If you bump a listing which violates our Catalogue Rules and we have to remove or hide the listing, we won’t be able to refund you the cost of the bump.
-c. GENERAL RULES
+GENERAL RULES
 1. General
 You need to upload each of your items separately, under their corresponding category (and brand, if applicable).
 You should only have one listing per item.
