@@ -6,7 +6,7 @@ Termos e Condições
 Termos e Condições Vinted Pro
 , com os quais os membros Pro concordaram ao registar-se na Vinted.
 1. POLÍTICAS PARA VENDEDORES NÃO PROFISSIONAIS
-a. ARTIGOS PERMITIDOS
+ARTIGOS PERMITIDOS
 Podes vender na Vinted:
 Vestuário, calçado e acessórios de mulher, homem e criança.
 Brinquedos infantis, mobiliário e equipamento de puericultura.
@@ -20,7 +20,7 @@ Cosméticos novos, produtos de beleza e cuidados pessoais, dispositivos e aparel
 Se estiveres a vender um artigo que inclua instruções de utilização, manuais ou avisos de segurança, certifica-te de que os incluis ao enviares o artigo a quem está a comprar. Se os teus dispositivos eletrónicos traziam acessórios e não estás a vender os acessórios em conjunto com o artigo, certifica-te de que o mencionas claramente na descrição e tem em mente que isso pode influenciar o preço do artigo. Certifica-te de que os aparelhos eletrónicos que anuncias são seguros de utilizar.
 Além disso, os artigos permitidos à luz destas Regras de Venda devem ser colocados legalmente no mercado do Espaço Económico Europeu (EEE) (que inclui Estados Membros da UE, Islândia, Liechtenstein e Noruega) antes de serem publicados na plataforma Vinted. Os artigos não podem entrar no mercado do EEE pela primeira vez ao serem vendidos através da Vinted. Tal significa que os artigos devem ser legalmente comercializados no EEE ou devem ter sido previamente importados legalmente para o EEE a partir do estrangeiro (inclusive do Reino Unido). Para serem permitidos na Vinted, os artigos devem cumprir as regulamentações do EEE.
 Reservamo-nos o direito de redefinir que artigos podem ou não ser anunciados na Vinted. Se descobrirmos que determinados artigos infringem os nossos termos ou constituem um risco para os nossos membros, poderemos removê-los, mesmo que não estejam incluídos na lista abaixo.
-b. ARTIGOS PROIBIDOS
+ARTIGOS PROIBIDOS
 Não podes vender na Vinted os seguintes artigos
 (atenção, esta não é uma lista exaustiva, devendo ser considerada apenas como um guia):
 Artigos ilegais: Quaisquer bens ou materiais cuja posse, comércio, venda, envio, transporte ou produção sejam proibidos por qualquer lei, regra ou regulamento aplicável. Tais como:
@@ -205,7 +205,7 @@ aqui
 .
 Tem em atenção:
 Caso destaques um artigo que viole as nossas Regras de Venda e tivermos de ocultar ou eliminar o anúncio, não poderemos reembolsar-te pelo custo do destaque.
-c. REGRAS GERAIS
+REGRAS GERAIS
 1. Gerais
 Não podes anunciar artigos que ultrapassem
 estes
