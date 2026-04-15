@@ -464,31 +464,31 @@ Remarque
 : si tu boostes une annonce qui enfreint nos Règles du catalogue et que nous devons la masquer ou la supprimer, le coût du Boost ne pourra pas être remboursé.
 RÈGLES GÉNÉRALES
 1. Généralités
-Tu ne peux pas expédier d'articles qui dépassent
-ces
-limites fixées par les transporteurs.
-Tu dois mettre en ligne chacun de tes articles séparément, dans la catégorie correspondante (et sous le nom de marque correspondant, le cas échéant).
-Tu ne dois publier qu’une annonce par article.
-Tous les articles doivent avoir une
-indication correcte de leur état
-. En outre, tous les défauts, altérations, parties manquantes doivent être mentionnés dans la description de l’article.
-Il est interdit de mettre en ligne un article indisponible ou qui a déjà été vendu. Un article ne peut pas être mis en ligne dans le but d’être recherché. Il est également interdit de mettre en ligne un article qui n’en est pas vraiment un (p. ex. Dans le cadre d’activités de
-trolling
-). Consulte cette page pour savoir
-pourquoi ton annonce a été masquée ou supprimée
+Tu ne peux pas expédier d'articles dépassant
+les
+limites fixées par les transporteurs
 .
+Chaque article doit être mis en ligne séparément (sauf s’il s’agit d’un set), dans la catégorie correspondante et, si applicable, sous le nom de marque approprié.
+Une seule annonce par article est autorisée.
+L’état de chaque article doit être indiqué correctement. Tous les défauts, altérations ou parties manquantes doivent être mentionnés dans la description.
+Jusqu’à 3 matières peuvent être sélectionnées lorsque tu mets un article en ligne. Tu dois préciser les autres matières (en plus des 3 sélectionnées) dans la description.
+Pour les sets d’articles, le titre et/ou la description doivent préciser qu’il s’agit d’un set. L’annonce doit indiquer le prix total de tous les articles inclus. Les articles du set ne peuvent pas être mis en ligne séparément. Pour les appareils électroniques, un set peut contenir au maximum deux appareils fonctionnant sur piles ou batterie. La marque indiquée doit correspondre à l’un des articles du set.
+Les annonces et les descriptions de profil ne doivent contenir aucune référence ni aucun lien vers des sites Web ou des plateformes externes. Le partage de liens ou de références menant à du contenu illégal, à du contenu pour adultes, à des discours haineux ou à tout comportement enfreignant les Règles du catalogue est strictement interdit et peut entraîner le blocage du compte. À titre d’exception, bien que cela ne soit pas recommandé pour des raisons de confidentialité, tu peux partager un lien vers tes réseaux sociaux, à condition qu’il ne soit pas lié à des activités commerciales ni à du contenu contraire aux Règles du catalogue.
+Il est interdit de mettre en ligne un article indisponible ou déjà vendu. Un article ne peut pas être publié dans le but d’être recherché. Il est interdit de mettre en ligne un article qui n’en est pas vraiment un (par exemple, dans le cadre d’activités de trolling).
+Consulte cette page
+pour savoir pourquoi une annonce a été masquée ou supprimée.
 Tu ne peux proposer aucun type de service, y compris, mais sans s’y limiter :
 Proposer des articles à la location.
 Proposer des articles à commander.
 Proposer des articles personnalisables.
 Proposer des services financiers, pédagogiques ou de beauté.
 Proposer des services numériques ou basés sur une inscription.
-La valeur maximale d’un article autorisée sur notre plateforme est de 30 000 EUR.
-Les annonces ou publications liées à une vente aux enchères ou à un appel d’offres ne sont pas autorisées. Si le prix de ton article est exceptionnellement bas/élevé, ou ne semble pas correspondre à la valeur réelle de l’article, ton annonce pourrait être considérée comme une mise aux enchères. Tu verras ici
-comment fixer un prix adéquat pour ton article
-.
-Tout produit électrique à prise de courant autorisée et tout produit alimenté par une batterie qui transmet de la chaleur doit être exempt de dommages matériels tels que des câbles usés ou détendus.
-Pour les appareils électroniques, toutes les données personnelles doivent être effacées et tous les comptes personnels doivent être déconnectés. Les paramètres d’usine doivent être restaurés et les appareils doivent être éteints et faire l’objet d’une déclaration de cession le cas échéant (par exemple, pour les drones) avant d’être expédiés. Lorsque tu mets un appareil en vente, pense à retirer tous tes effets personnels, comme ta carte SIM ou autre.
+La valeur maximale d’un article autorisée sur notre plateforme est de 30 000 €.
+Les annonces ou publications liées à une vente aux enchères ou à un appel d’offres ne sont pas autorisées. Si le prix d’un article est exceptionnellement bas ou élevé, ou ne semble pas correspondre à sa valeur réelle, l’annonce peut être considérée comme une mise aux enchères.
+Consulte cette page
+pour savoir comment fixer un prix adéquat pour ton article.
+Tout produit électrique à prise de courant ou alimenté par batterie qui transmet de la chaleur doit être exempt de dommages matériels, tels que des câbles usés ou détendus.
+Pour les appareils électroniques, toutes les données personnelles doivent être effacées et tous les comptes personnels doivent être déconnectés. Les paramètres d’usine doivent être restaurés et les appareils doivent être éteints et faire l’objet d’une déclaration de cession le cas échéant (par exemple, pour les drones) avant d’être expédiés. Avant de mettre un appareil en vente, retire tous tes effets personnels, comme ta carte SIM ou tout autre accessoire.
 2. Exigences relatives aux photos de l’article
 Les photos utilisées dans ton annonce doivent répondre aux exigences suivantes :
 Elles doivent représenter l’article tel qu'il est ; les retouches ne sont pas autorisées. Il est recommandé de montrer les défauts, rayures, signes d’usure, etc.
