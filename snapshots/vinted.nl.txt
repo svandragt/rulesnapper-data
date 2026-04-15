@@ -458,22 +458,22 @@ ALGEMENE REGELS
 Je kunt geen artikelen uploaden die de verzendlimieten van
 deze
 pakketdiensten overschrijden.
-Je moet elk artikel afzonderlijk uploaden, in de bijbehorende categorie (en merk, indien van toepassing).
+Je moet elk artikel afzonderlijk uploaden, in de bijbehorende categorie, tenzij het om een artikelset gaat (en merk, indien van toepassing).
 Je mag slechts één advertentie per artikel maken.
-Aan alle artikelen moet een
-passende artikelstatus worden toegewezen
-. Beschrijf in de artikelbeschrijving ook elk defect, wijziging of ontbrekend onderdeel van het artikel.
+Aan alle artikelen moet een passende artikelstatus worden toegewezen. Beschrijf in de artikelbeschrijving ook elk defect, wijziging of ontbrekend onderdeel van het artikel.
 Bij het uploaden van een artikel kun je maximaal 3 verschillende materialen selecteren. Als het artikel van nog meer materialen is gemaakt, moet je dit in de beschrijving van het artikel vermelden.
+Sets (meerdere artikelen in een advertentie) moeten ‘bundel’ of ‘set’ bevatten in de titel en/of beschrijving. De prijs van de set moet de totale prijs voor alle artikelen samen zijn. Artikelen in de bundel mogen geen eigen, aparte advertentie hebben. Voor elektronica geldt dat er maximaal 2 apparaten met een batterij zijn toegestaan in een bundel. Bij ‘merk’ vul je één merk in, van een van de artikelen die je verkoopt.
+Advertenties en profielbeschrijvingen mogen geen verwijzingen of links naar externe websites of online platforms bevatten. Het delen van links of verwijzingen die leiden naar illegale inhoud, inhoud voor volwassenen, haatzaaiende uitlatingen of elk ander gedrag dat in strijd is met onze Catalogusregels, is ten strengste verboden en kan leiden tot een accountblokkering. Als uitzondering, hoewel we dit om privacyredenen niet aanbevelen, mag je een link naar je socialemediaprofiel delen, op voorwaarde dat deze niet gelinkt is aan commerciële activiteiten en dat de inhoud niet in strijd is met onze Catalogusregels.
 Het is verboden om een artikel te uploaden dat niet beschikbaar is of al verkocht is. Je mag geen artikel uploaden waar je naar op zoek bent. Het is ook niet toegestaan om iets te uploaden wat geen echt artikel is (bijvoorbeeld voor trolling).
 Ontdek waarom je advertentie is verborgen of verwijderd
 .
-Je mag geen enkele vorm van dienstverlening aanbieden. Dit omvat, maar is niet beperkt tot:
+Je mag geen enkele vorm van dienstverlening aanbieden. Dit bestaat uit, maar is niet beperkt tot:
 Het aanbieden van artikelen om te huren
 Het aanbieden van op bestelling gemaakte artikelen
 Het aanbieden van maatwerk voor artikelen
 Het aanbieden van financiële, educatieve of schoonheidsgerelateerde diensten
 Het aanbieden van abonnementsgebaseerde of digitale diensten
-De maximale artikelwaarde die op ons platform is toegestaan, is 30 000 EURO.
+De maximale artikelwaarde die op ons platform is toegestaan, is 30.000 EURO.
 Alle advertenties en andere berichten met betrekking tot veiling- of biedingsactiviteiten zijn niet toegestaan. Als de prijs van je artikel ongebruikelijk laag of hoog is en niet overeen lijkt te komen met de waarde van het echte artikel, kan de advertentie worden beschouwd als een veiling. Lees
 hoe je een goede prijs voor je artikel bepaalt
 .
