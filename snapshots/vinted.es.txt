@@ -6,7 +6,6 @@ que aceptan los usuarios estándar cuando se registran en Vinted y de ii) los
 términos y condiciones de Vinted Pro
 que aceptan los vendedores Pro cuando se registran en Vinted.
 1. POLÍTICAS PARA VENDEDORES ESTÁNDAR
-a.
 ARTÍCULOS PERMITIDOS
 En Vinted puedes vender:
 Ropa, calzado y accesorios para mujer, hombre y niños.
@@ -21,7 +20,6 @@ Está permitido anunciar un número reducido de artículos únicos hechos a mano
 Si vendes un artículo que venía con instrucciones de uso, manuales o advertencias de seguridad, asegúrate de enviárselos al comprador junto con el artículo. Si subes un aparato electrónico que venía con accesorios pero no los vendes junto con el artículo, déjalo claro en la descripción y ten en cuenta que esto puede influir en el precio del artículo. Asegúrate de que los dispositivos electrónicos que anuncias son seguros.
 Además de respetar las normas del catálogo, cualquier artículo que se anuncie en Vinted debe estar comercializado legalmente en el Espacio Económico Europeo (EEE), es decir, en los estados miembros de la UE, Islandia, Liechtenstein y Noruega. Ningún artículo puede entrar en el mercado del EEE por primera vez a través de Vinted. Esto significa que los artículos se deben comercializar de forma legal en el EEE o que deben haberse importado al EEE legalmente y con anterioridad desde terceros países (incluido Reino Unido). Los artículos deben cumplir la normativa aplicable del EEE para estar permitidos en Vinted.
 Nos reservamos el derecho de redefinir qué artículos están permitidos en Vinted y cuáles no. Si descubrimos que un artículo incumple nuestros términos o supone un riesgo para nuestros miembros, es posible que lo eliminemos incluso si no figura en el siguiente listado.
-b.
 ARTÍCULOS PROHIBIDOS
 En Vinted está prohibido vender
 (ten en cuenta que esta no es una lista exhaustiva y solo la incluimos a título orientativo):
@@ -196,7 +194,6 @@ normativa de la comunidad
 .
 Nota
 : Si destacas un artículo que incumple las normas del catálogo y tenemos que eliminar u ocultar el anuncio, no podremos reembolsarte el importe que pagaste por destacarlo.
-c.
 NORMAS GENERALES
 1. General
 No puedes subir artículos que superen los límites de envío establecidos por
@@ -462,7 +459,6 @@ normativa de la comunidad
 .
 Nota
 : Si destacas un artículo que incumple las normas del catálogo y tenemos que eliminar u ocultar el anuncio, no podremos reembolsarte el importe que pagaste por destacarlo.
-c.
 NORMAS GENERALES
 1. General
 No puedes subir artículos que superen los límites de envío establecidos por
@@ -474,6 +470,8 @@ Todos los anuncios deben indicar el
 estado real en que se encuentra el artículo
 . En la descripción del artículo se deberá incluir cualquier desperfecto o alteración del mismo, así como cualquier pieza que pueda faltar.
 Al subir un artículo, puedes seleccionar hasta 3 materiales diferentes. Además, en la descripción deberías añadir si el artículo está fabricado con otros materiales, además de los 3 principales.
+Los anuncios de artículos vendidos en conjunto deben especificar que se trata de un lote de artículos en el título o en la descripción. El anuncio debe mencionar el precio total de todos los artículos que contiene y estos no pueden anunciarse por separado. Si se trata de aparatos electrónicos, el conjunto puede contener un máximo de 2 dispositivos con batería. En el apartado de marca, se debe seleccionar la marca de uno de los artículos.
+Los anuncios y las descripciones de los perfiles no deben contener referencias ni enlaces a sitios web externos o plataformas en línea. Compartir enlaces o referencias que conduzcan a contenidos ilegales, contenidos para adultos, discursos de odio o cualquier tipo de comportamiento que infrinja nuestras normas del catálogo está estrictamente prohibido y puede dar lugar al bloqueo de la cuenta. Como excepción, aunque no lo recomendamos por cuestiones de privacidad, puedes compartir un enlace a tu perfil en las redes sociales, siempre que no esté vinculado a actividades comerciales o contenidos que vayan en contra de nuestras normas del catálogo.
 Está prohibido publicar un artículo que ya no está disponible o ya se ha vendido. No deben subirse artículos con el objetivo de encontrar dicho artículo. Tampoco está permitido publicar anuncios que no sean de artículos reales (p. ej., a modo de broma o para trollear). Consulta
 por qué se ha eliminado u ocultado tu anuncio
 .
