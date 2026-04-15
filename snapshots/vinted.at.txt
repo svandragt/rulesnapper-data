@@ -6,7 +6,7 @@ sind und den
 Allgemeinen Geschäftsbedingungen für Vinted Pro.
 Wenn du einen Account auf Vinted erstellst, stimmst du diesen Regeln wie auch den AGB zu.
 1. RICHTLINIEN FÜR REGULÄRE VERKÄUFER
-a. ERLAUBTE ARTIKEL
+ERLAUBTE ARTIKEL
 Folgende Artikel kannst du auf Vinted verkaufen:
 Kleidung, Schuhe und Accessoires für Damen, Herren und Kinder
 Spielzeug und Möbel für Kinder sowie Ausstattung für die Kinderbetreuung
@@ -24,7 +24,7 @@ oder ein Risiko für unsere Mitglieder darstellen
 Zudem gilt: Bevor Artikel auf Vinted angeboten werden können, müssen bereits rechtmäßig in den Markt des Europäischen Wirtschaftsraums (EWR*) eingeführt worden sein (* EU-Mitgliedsstaaten, Island, Liechtenstein und Norwegen). Artikel können nicht erstmalig in den Markt des EWR eingeführt werden, indem sie auf Vinted hochgeladen werden.
 Das bedeutet, dass die auf Vinted angebotenen Artikel bereits rechtmäßig im EWR vermarktet oder zuvor rechtskonform von außerhalb (einschließlich des Vereinigten Königreichs) in den EWR importiert worden sein müssen.
 Die Artikel müssen im Einklang mit den geltenden EWR-Vorschriften stehen, um bei Vinted angeboten werden zu können.
-b. VERBOTENE ARTIKEL
+VERBOTENE ARTIKEL
 Folgende Artikel kannst du nicht auf Vinted verkaufen:
 (Bitte beachte, dass die folgende Liste nicht vollständig ist und als Leitfaden dienen soll) :
 Illegale Artikel: Jegliche Waren oder Materialien, deren Besitz, Handel, Verkauf, Versand, Mitführung oder Herstellung laut geltender Gesetze, Regeln oder Vorschriften verboten ist. Dazu gehören:
@@ -208,7 +208,7 @@ Community-Standards
 .
 Bitte beachte:
 Dir werden die Kosten für ein bezahltes Feature nicht erstattet, wenn wir deinen beworbenen Artikel entfernen oder verstecken mussten, weil er gegen unsere Katalogregeln verstößt.
-c. ALLGEMEINE REGELN
+ALLGEMEINE REGELN
 1. Allgemeines
 Du kannst keine Artikel versenden, die
 diese
